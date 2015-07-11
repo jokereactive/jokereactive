@@ -3,10 +3,12 @@
 
   {% include head.html %}
 
-  <body>
-
-    {% include sidebar.html %}
-
+    <body>
+	{% if page.title == "Home" %}
+      {% include sidebar.html %}
+    {% else %}
+      {% include sidebar_back.html %}
+    {% endif %}
     <div class="content container">
       {{ content }}
     </div>

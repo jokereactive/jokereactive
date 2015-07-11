@@ -1,0 +1,14 @@
+Personal Website
+
+Side Bar:
+Home - Page
+Work - Blog
+Resume -Page
+Misc - Page - Design - Blog
+Contact - Page
+
+FrozenInk 
+Home - Page
+Projects - Blog
+Resume
+Contact

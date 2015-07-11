@@ -6,14 +6,39 @@ highlighter:      pygments
 permalink:        pretty
 relative_permalinks: true
 
-include:  ['_data']
+include:  ['_pages']
+
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+  work:
+    output: true
+    permalink: /work/:path/
+  experience:
+    output: true
+    permalink: /experience/:path/
+  education:
+    output: true
+    permalink: /education/:path/
+  misc:
+    output: true
+    permalink: /misc/:path/
+relative_permalinks: false
+
+excerpt_separator: "{{ more }}"
 
 # Setup
 title:            Sarthak Ahuja
 tagline:          'Personal Website'
-description:      'Personal Website'
+description:      'If you change the way you look at things. The things you look at change.'
 url:              http://sarthakahuja.org
 baseurl:          /
+imagesurl:		  /assets/images
+logosurl:		  /assets/images/logos
+headersurl:		  /assets/images/headers
+projectimagesurl: /assets/images/projectimages
 
 author:
   name:           'Sarthak Ahuja'
@@ -25,4 +50,5 @@ paginate:         5
 version:          1.0
 
 github:
-  repo:           https://github.com/jokereactive/jokereactive.github.io
+  repo:           https://design.sarthakahuja.org/soberCV
+  repo:			  https://design.sarthakahuja.org

@@ -1,0 +1,38 @@
+---
+layout: default
+---
+<h1>{{page.title}}</h1>
+<div class="posts">
+  {% assign work = site.work | sort:"weight" %}
+  {% for _work in work %}
+  <div class="work">
+    <table>
+	  <tr>
+		<td width="75%">
+			<h2>
+				<a href="{{ _work.url }}">
+					{{ _work.position}}
+				</a><span class="lead">, {{ _work.title }}</span>
+			</h2>
+		</td>
+		<td width="25%" align="center">
+			<h2>
+				{{_work.period}}
+			</h2>
+		</td> 
+	  </tr>
+	  <tr>
+		<td>
+			{% if(_work.institute) %}
+				<span class="lead">{{ _work.institute }}</span>
+			{% endif %}
+			<p>{{ _work.excerpt }} [<a href="{{ edu.url }}">learn more</a>]</p>
+		</td>
+		<td align="center">
+			 <a href="{{ _work.institute_url }}"><img class="logo" src="{{site.logosurl}}/{{ _work.logo }}"></a>
+		</td>
+	  </tr>
+	</table>
+  </div>
+  {% endfor %}
+</div>

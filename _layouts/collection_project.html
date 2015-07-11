@@ -1,0 +1,46 @@
+---
+layout: default
+---
+<h1>{{page.title}}</h1>
+<div class="posts">
+  {% assign projects = site.projects | sort:"weight" %}
+  {% for pro in projects %}
+  <div class="projects">
+    <table>
+	  <tr>
+		<td width="75%">
+			<h2>
+				<a href="{{ pro.url }}">
+					{{ pro.name}}
+				</a><span class="lead">, {{ pro.intro }}</span>
+			</h2>
+		</td>
+		<td width="25%" align="center" rowspan="2">
+			<img class="projectimage" src="{{site.projectimagesurl}}/{{ pro.projectimage }}">
+		</td> 
+	  </tr>
+	  <tr>
+		<td>
+			{% if(pro.teamsize) %}
+				<b>Team Size:</b> <span class="lead">{{ pro.teamsize }}</span>
+			{% endif %}
+			<br>
+			{% if(pro.course) %}
+				<b>Course:</b> <span class="lead">{{ pro.course }}</span>
+			{% endif %}
+			<br>
+			{% if(pro.period) %}
+				<b>Time Period:</b> <span class="lead">{{pro.period}}</span>
+			{% endif %}
+			<br>
+			{% if(pro.technology) %}
+				<b>Technology Used:</b> <span class="lead">{{pro.technology}}</span>
+			{% endif %}
+			<br>
+			<p>{{ pro.excerpt }} [<a href="{{ pro.url }}">learn more</a>]</p>
+		</td>
+	  </tr>
+	</table>
+  </div>
+  {% endfor %}
+</div>

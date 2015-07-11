@@ -1,0 +1,18 @@
+1. Tiger Project - Code and Report and Website
+2. MeriAwaaz - Dashboard - Link to Website
+3. Distress Detection - Website, Paper and Application Code
+4. Offside Detection - Code and Website
+5. Image Colorization - Website, Code, Poster and Demo
+6. ReWise - Website, Code and Demo
+7. Travel Agent System - Website, Code
+8. Call Centre System
+9. HandsFree - Website, Code, Put it on PlayStore! 
+10. Silence Please - Website, Code, Put it on PlayStore!
+11. Swarath - Website
+12. BTP Project - Pose Estimation in Egocentric Videos
+13. Pattern Recognition Project
+14. Esya Website - Code, Github
+15. Pedestrian Detection - Report and Code
+16. Gender Detection - Report and Code
+17. Virtual Reality Campus - Upload Model
+18. CoDrive - Report and Code
