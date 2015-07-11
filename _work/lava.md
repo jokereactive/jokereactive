@@ -8,7 +8,7 @@ _url: http://www.apeejay.edu/pitampura/index.php
 header: lava.jpg
 logo: lava.jpg
 weight: 5
-period: May'14-July'14
+period: May'14-Jul'14
 excerpt: Additional content
 ---
 Link to Projects, Experience

@@ -2,7 +2,7 @@
 layout: page_work
 title: Infizeal Technologies
 position: Summer Trainee
-institute: MoMagic
+institute: Infizeal Technologies
 institute_url: 
 _url: http://www.apeejay.edu/pitampura/index.php
 header: infizeal.jpg
