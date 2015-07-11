@@ -2,7 +2,7 @@
 layout: page_misc
 title: FrozenInk
 purpose: Design & Technology
-link: https://design.sarthakahuja.org
+link: http://design.sarthakahuja.org
 header: frozenink.png
 weight: 1
 excerpt: Additional content
