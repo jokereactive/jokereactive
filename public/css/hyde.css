@@ -50,6 +50,10 @@ a {
   text-decoration: none;
 }
 
+.mdimage {
+  float: right;
+  width: 250px;
+}
 
 .education table{ 
 	border-collapse:collapse;
