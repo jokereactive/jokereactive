@@ -41,10 +41,10 @@ headersurl:		  /assets/images/headers
 projectimagesurl: /assets/images/projectimages
 iconsurl: 		  /assets/images/icons
 docsurl: 		  /public/docs
-twitter:
-facebook:
-linkedin:
-github
+twitter:		  https://twitter.com/srthkhj
+facebook:		  https://www.facebook.com/sarthak.ahuja.9
+linkedin:		  https://in.linkedin.com/in/sarthakahuja
+github:			  https://github.com/jokereactive
 
 author:
   name:           'Sarthak Ahuja'
