@@ -51,7 +51,7 @@ a {
 }
 
 img[alt="soberCV"] { 
-  max-width:  350px; 
+  max-width:  25%; 
   display: inline;
   float: right;
 }
