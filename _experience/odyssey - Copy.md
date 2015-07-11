@@ -1,14 +1,14 @@
 ---
 layout: page_experience
-title: Odyssey'14
-position: Organizing Team
+title: Google Student Club
+position: Core Organizing Team
 institute: IIIT-Delhi
 institute_url: https://iiitd.ac.in
 _url: http://odyssey.iiitd.edu.in/
-header: odyssey.PNG
-logo: odyssey.PNG
-weight: 8
-period: Aug'13-Feb'14
+header: odyssey.png
+logo: gsc.png
+weight: 5.5
+period: Jan'15-present
 excerpt: Additional content
 ---
 Link to Projects, Experience
