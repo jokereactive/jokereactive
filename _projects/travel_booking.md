@@ -2,18 +2,19 @@
 layout: page_project
 name: Travel Booking System
 intro: SAAS
-teamsize: 3
+teamsize: 8
 course: Software Engineering
 _url: http://esya.iiitd.edu.in/page/about
 projectimage: sample.png
 weight: 7
 reference: 
+category: Engineering
 code: 
 database:
 demo:
 special:
-technology: Arduino, IR & Ultrasonic Sensors
-period: Apr'14-Aug'14
+technology: Ruby on Rails, Javascript, AGILE Paradigm
+period: Aug'14-Dec'14
 excerpt: Additional content
 ---
 Link to Projects, Experience

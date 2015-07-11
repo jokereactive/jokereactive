@@ -1,8 +1,9 @@
 ---
 layout: collection_project
-title: Projects
-permalink: /projects/
-weight: 6
+title: Research Projects
+permalink: /res_projects/
+category: Research
+weight: 7
 type: navigation
 ---
 Something describing your work

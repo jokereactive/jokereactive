@@ -12,8 +12,8 @@ code:
 database:
 demo:
 special:
-technology: Arduino, IR & Ultrasonic Sensors
-period: Apr'14-Aug'14
+technology: Android
+period: May'14-July'14
 excerpt: Additional content
 ---
 Link to Projects, Experience

@@ -3,35 +3,34 @@ layout: default
 ---
 <h1>{{page.title}}</h1>
 <div class="posts">
-  {% assign education = site.education | sort:"weight" %}
-  {% for edu in education %}
-  <div class="education">
+  {% assign miscellaneous = site.misc | sort:"weight" %}
+  {% for misc in miscellaneous %}
+  <div class="miscellaneous">
     <table>
 	  <tr>
 		<td width="75%">
 			<h2>
-				<a href="{{ edu.url }}">
-					{{ edu.institute}}
-				</a><span class="lead">, {{ edu.title }}</span>
+				<a href="{{ misc.url }}">
+					{{ misc.title}}
+				</a><span class="lead">, {{ misc.purpose }}</span>
 			</h2>
 		</td>
 		<td width="25%" align="center">
-			<h2>
-				{{edu.marks}}
-			</h2>
+			<a href="{{misc.link}}"><b><i>
+				{{misc.link}}
+			</i></b></a>
 		</td> 
 	  </tr>
 	  <tr>
-		<td>
-			{% if(edu.major) %}
-				Majored in <span class="lead">{{ edu.major }}</span>
-			{% endif %}
-			<p>{{ edu.excerpt }} [<a href="{{ edu.url }}">Details</a>]</p>
-		</td>
-		<td align="center">
-			 <a href="{{ edu.institute_url }}"><img src="{{site.imagesurl}}/{{ edu.logo }}"></a>
+		<td colspan="2" align="center">
+			 <img src="{{site.headersurl}}/{{ misc.header }}">
 		</td>
 	  </tr>
+	  <tr>
+		<td colspan="2">
+			<p>{{ misc.excerpt }} [<a href="{{ misc.url }}">Read more</a>]</p>
+		</td>
+	   </tr>
 	</table>
   </div>
   {% endfor %}

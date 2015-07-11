@@ -5,42 +5,64 @@ layout: default
 <div class="posts">
   {% assign projects = site.projects | sort:"weight" %}
   {% for pro in projects %}
-  <div class="projects">
-    <table>
-	  <tr>
-		<td width="75%">
-			<h2>
-				<a href="{{ pro.url }}">
-					{{ pro.name}}
-				</a><span class="lead">, {{ pro.intro }}</span>
-			</h2>
-		</td>
-		<td width="25%" align="center" rowspan="2">
-			<img class="projectimage" src="{{site.projectimagesurl}}/{{ pro.projectimage }}">
-		</td> 
-	  </tr>
-	  <tr>
-		<td>
-			{% if(pro.teamsize) %}
-				<b>Team Size:</b> <span class="lead">{{ pro.teamsize }}</span>
-			{% endif %}
-			<br>
-			{% if(pro.course) %}
-				<b>Course:</b> <span class="lead">{{ pro.course }}</span>
-			{% endif %}
-			<br>
-			{% if(pro.period) %}
-				<b>Time Period:</b> <span class="lead">{{pro.period}}</span>
-			{% endif %}
-			<br>
-			{% if(pro.technology) %}
-				<b>Technology Used:</b> <span class="lead">{{pro.technology}}</span>
-			{% endif %}
-			<br>
-			<p>{{ pro.excerpt }} [<a href="{{ pro.url }}">learn more</a>]</p>
-		</td>
-	  </tr>
-	</table>
-  </div>
+	{% if page.category == pro.category %}
+	  <div class="projects">
+		<table>
+		  <tr>
+			<td width="75%">
+				<h2>
+					<a href="{{ pro.url }}">
+						{{ pro.name}}
+					</a><span class="lead"> {{ pro.intro }}</span>
+				</h2>
+			</td>
+			<td width="25%" align="center" rowspan="2">
+				<img class="projectimage" src="{{site.projectimagesurl}}/{{ pro.projectimage }}">
+			</td> 
+		  </tr>
+		  <tr>
+			<td>
+				{% if(pro.teamsize) %}
+					<b>Team Size:</b> <span class="lead">{{ pro.teamsize }}</span>
+					<br>
+				{% endif %}
+				
+				{% if(pro.course) %}
+					<b>Course:</b> <span class="lead">{{ pro.course }}</span>
+					<br>
+				{% endif %}
+				
+				{% if(pro.period) %}
+					<b>Time Period:</b> <span class="lead">{{pro.period}}</span>
+					<br>
+				{% endif %}
+				
+				{% if(pro.technology) %}
+					<b>Technology Used:</b> <span class="lead">{{pro.technology}}</span
+					<br>
+				{% endif %}
+				
+				<p>{{ pro.excerpt }} [<a href="{{ pro.url }}">learn more</a>]</p>
+			</td>
+		  </tr>
+		  <tr>
+			<td colspan="2">
+				{% if(pro.reference) %}
+					<a href="{{ pro.reference }}"><img class="icon" title="Report" src="{{site.iconsurl}}/pdf.png"></a>
+				{% endif %}
+				{% if(pro.code) %}
+					<a href="{{ pro.code }}"><img class="icon" title="Code" src="{{site.iconsurl}}/code.png"></a>
+				{% endif %}
+				{% if(pro.database) %}
+					<a href="{{ pro.database }}"><img class="icon" title="Database" src="{{site.iconsurl}}/database.png"></a>
+				{% endif %}
+				{% if(pro.demo) %}
+					<a href="{{ pro.demo }}"><img class="icon" title="Demo" src="{{site.iconsurl}}/play.png"></a>
+				{% endif %}
+			</td>
+		  </tr>
+		</table>
+	  </div>
+	  {% endif %}
   {% endfor %}
 </div>

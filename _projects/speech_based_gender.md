@@ -7,13 +7,14 @@ course: Pattern Recognition (Minor)
 _url: http://esya.iiitd.edu.in/page/about
 projectimage: sample.png
 weight: 7
-reference: 
+reference:
+category: Research
 code: 
 database:
 demo:
 special:
-technology: Arduino, IR & Ultrasonic Sensors
-period: Apr'14-Aug'14
+technology: Matlab, Speech Signal Processing, SVM
+period: Jan'15-May'15
 excerpt: Additional content
 ---
 Link to Projects, Experience

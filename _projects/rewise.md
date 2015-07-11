@@ -9,11 +9,12 @@ projectimage: sample.png
 weight: 7
 reference: 
 code: 
+category: Engineering
 database:
 demo:
 special:
-technology: Arduino, IR & Ultrasonic Sensors
-period: Apr'14-Aug'14
+technology: Android, Parse, Javascript
+period: Aug'14-Dec'14
 excerpt: Additional content
 ---
 Link to Projects, Experience

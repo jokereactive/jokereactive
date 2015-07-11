@@ -3,8 +3,7 @@ layout: page_project
 name: Image Recolorization 
 intro: Chrominance Blending
 teamsize: 3
-course: Introduction to Engineering Design
-_url: http://esya.iiitd.edu.in/page/about
+course: Image Analysis (Major Project)
 projectimage: sample.png
 weight: 7
 reference: 

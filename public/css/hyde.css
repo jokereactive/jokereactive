@@ -59,12 +59,18 @@ a {
 }
 
 .logo{
-	max-width: 150px;
+	max-width: 40%;
 }
 
 .projectimage{
 	width: 100%;
 }
+
+.icon{
+	width: 8%;
+	display:inline;
+}
+
 /*
  * Sidebar
  *

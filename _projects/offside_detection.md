@@ -4,16 +4,17 @@ name: Color based Offside Detection
 intro: Blob Detection
 teamsize: 1
 course: Image Analysis (Minor)
-_url: http://esya.iiitd.edu.in/page/about
+_url: 
 projectimage: sample.png
 weight: 7
 reference: 
+category: Engineering
 code: 
 database:
-demo:
+demo: 
 special:
-technology: Arduino, IR & Ultrasonic Sensors
-period: Apr'14-Aug'14
+technology: C#, EmguCV, Visual Studio 13
+period: Aug'14-Dec'14
 excerpt: Additional content
 ---
 Link to Projects, Experience

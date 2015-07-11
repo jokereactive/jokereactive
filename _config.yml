@@ -39,6 +39,12 @@ imagesurl:		  /assets/images
 logosurl:		  /assets/images/logos
 headersurl:		  /assets/images/headers
 projectimagesurl: /assets/images/projectimages
+iconsurl: 		  /assets/images/icons
+docsurl: 		  /public/docs
+twitter:
+facebook:
+linkedin:
+github
 
 author:
   name:           'Sarthak Ahuja'
@@ -51,4 +57,4 @@ version:          1.0
 
 github:
   repo:           https://design.sarthakahuja.org/soberCV
-  repo:			  https://design.sarthakahuja.org
+  site:			  https://design.sarthakahuja.org

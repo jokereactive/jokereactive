@@ -7,12 +7,13 @@ _url: http://esya.iiitd.edu.in/page/about
 projectimage: sample.png
 weight: 7
 reference: 
+category: Engineering
 code: 
 database:
 demo:
 special:
-technology: Arduino, IR & Ultrasonic Sensors
-period: Apr'14-Aug'14
+technology: ROS, C++, Design Patterns
+period: May'15-present
 excerpt: Additional content
 ---
 Link to Projects, Experience
