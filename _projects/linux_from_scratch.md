@@ -3,13 +3,13 @@ layout: page_project
 name: Linux from Scratch
 intro: Customizable OS
 teamsize: 3
-teammembers: 
+teammembers: Chaitanya Kumar, Danish Goel
 guide: Mr. Manish Shrotriya
 course: Operating Systems
-_url: http://esya.iiitd.edu.in/page/about
+_url: 
 projectimage: sample.png
 weight: 7
-reference: 
+reference: {{site.url}}/public/docs/report_ped_detection.pdf
 code: 
 category: Engineering
 database:
@@ -17,7 +17,6 @@ demo:
 special:
 technology: Ubuntu
 period: Apr'14-Aug'14
-excerpt: Additional content
+excerpt: As a part of the Operating System project I along the team successfully compiled a custom basic Linux Operating System with very basic functionality. We got well acquainted to the structure and build-up of the Linux System.
 ---
-Link to Projects, Experience
-Transcript Table
+This page will be updated soon!

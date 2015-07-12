@@ -4,18 +4,17 @@ name: Image Recolorization
 intro: Chrominance Blending
 teamsize: 3
 teammembers: 
-guide: Mr. Manish Shrotriya
+guide: Mr. Mayank Vatsa
 course: Image Analysis (Major Project)
 projectimage: sample.png
 weight: 7
-reference: 
-code: 
+reference: {{site.url}}/public/docs/poster_chrominance.png
+code: https://github.com/jokereactive/Image-Analysis-with-EmguCV
 database:
 demo:
 special:
 technology: Arduino, IR & Ultrasonic Sensors
 period: Apr'14-Aug'14
-excerpt: Additional content
+excerpt: As a part of my Major Project in my Image Analysis Course I along with my fellow team member, implemented and analysed the performance of Chrominance Blending Technique proposed by Liron Yatziv and Guillermo Sapiro in their paper on the same as compared to other Algorithm.
 ---
-Link to Projects, Experience
-Transcript Table
+This page will be updated soon!

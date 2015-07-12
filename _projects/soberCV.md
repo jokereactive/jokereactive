@@ -2,11 +2,11 @@
 layout: page_project
 name: soberCV
 intro: Jekyll based online Resume
-teamsize: 3
+teamsize: 1
 teammembers: 
-guide: Mr. Manish Shrotriya
+guide: 
 course: Individual Project
-_url: http://esya.iiitd.edu.in/page/about
+_url: 
 projectimage: sample.png
 weight: 7
 reference: 
@@ -15,9 +15,8 @@ code:
 database:
 demo:
 special:
-technology: Arduino, IR & Ultrasonic Sensors
+technology: Jekyll, Hyde, Poole
 period: July'15-present
-excerpt: Additional content
+excerpt: The very framework this site is using!
 ---
-Link to Projects, Experience
-Transcript Table
+This page will be updated soon!

@@ -3,13 +3,13 @@ layout: page_project
 name: He-or-She
 intro: Speech based Gender Detection
 teamsize: 2
-teammembers: 
-guide: Mr. Manish Shrotriya
+teammembers: Anchita Goel
+guide: Dr. Richa Singh
 course: Pattern Recognition (Minor)
 _url: http://esya.iiitd.edu.in/page/about
 projectimage: sample.png
 weight: 7
-reference:
+reference: {{site.url}}/public/docs/report_he_or_she.pdf
 category: Research
 code: 
 database:
@@ -17,7 +17,6 @@ demo:
 special:
 technology: Matlab, Speech Signal Processing, SVM
 period: Jan'15-May'15
-excerpt: Additional content
+excerpt: Detect gender of the speaker based on various features like MFCC, pitch, short-time energy, energy entropy, zero-crossing rate and spectral centroid.
 ---
-Link to Projects, Experience
-Transcript Table
+This page will be updated soon!

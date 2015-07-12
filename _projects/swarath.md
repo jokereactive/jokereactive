@@ -3,11 +3,11 @@ layout: page_project
 name: Swarath
 intro: Autonomous Car
 teamsize: 3
-teammembers: 
-guide: Mr. Manish Shrotriya
-_url: http://esya.iiitd.edu.in/page/about
+teammembers: Shivam Thukral, Gurshabad Grover
+guide: Dr. Saket Anand, Dr. Sanjit Kaul, Dr. Rahul Purandre
+_url: 
 projectimage: sample.png
-weight: 7
+weight: 1
 reference: 
 category: Engineering
 code: 
@@ -16,7 +16,6 @@ demo:
 special:
 technology: ROS, C++, Design Patterns
 period: May'15-present
-excerpt: Additional content
+excerpt: Currently a member of IIIT-Delhi’s core team in the Driver Less Challenge by Mahindra. Lead a team of 2 and designed the Test Bench and Perception Module in ROS/C++.
 ---
-Link to Projects, Experience
-Transcript Table
+This page will be updated soon!

@@ -3,9 +3,9 @@ layout: page_project
 name: Tiger Segmentation
 intro: Semi-Supervised Learning
 teamsize: 2
-teammembers: 
-guide: Mr. Manish Shrotriya
-_url: http://esya.iiitd.edu.in/page/about
+teammembers: Ankita Shukla, PhD Candidate IIIT-Delhi
+guide: Dr. Saket Anand
+_url: 
 projectimage: sample.png
 weight: 7
 reference: 
