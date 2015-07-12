@@ -9,7 +9,6 @@ header: foobar.png
 logo: foobar.png
 weight: 3
 period: Jan'15-present
-excerpt: Additional content
+excerpt: 
 ---
-Link to Projects, Experience
-Transcript Table
+This page will be updated soon!

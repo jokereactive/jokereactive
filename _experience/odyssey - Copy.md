@@ -9,7 +9,6 @@ header: odyssey.png
 logo: gsc.png
 weight: 5.5
 period: Jan'15-present
-excerpt: Additional content
+excerpt:
 ---
-Link to Projects, Experience
-Transcript Table
+This page will be updated soon!

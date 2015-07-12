@@ -9,7 +9,6 @@ header: rs.png
 logo: rs.png
 weight: 6
 period: Jan'15-Mar'15
-excerpt: Additional content
+excerpt: 
 ---
-Link to Projects, Experience
-Transcript Table
+This page will be updated soon!

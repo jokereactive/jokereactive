@@ -9,7 +9,6 @@ header: iiitd.jpg
 logo: iiitd.jpg
 weight: 1
 period: May'15-present
-excerpt: Additional content
+excerpt: 
 ---
-Link to Projects, Experience
-Transcript Table
+This page will be updated soon!

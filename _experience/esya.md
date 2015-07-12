@@ -9,7 +9,6 @@ header: esya.png
 logo: esya.png
 weight: 7
 period: Apr'14-Aug'14
-excerpt: Additional content
+excerpt: 
 ---
-Link to Projects, Experience
-Transcript Table
+This page will be updated soon!

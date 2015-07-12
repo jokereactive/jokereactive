@@ -9,7 +9,6 @@ header: ink.png
 logo: ink.png
 weight: 4
 period: Aug'14-present
-excerpt: Additional content
+excerpt: 
 ---
-Link to Projects, Experience
-Transcript Table
+This page will be updated soon!

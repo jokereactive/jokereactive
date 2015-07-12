@@ -9,7 +9,6 @@ header: odyssey.PNG
 logo: odyssey.PNG
 weight: 8
 period: Aug'13-Feb'14
-excerpt: Additional content
+excerpt: 
 ---
-Link to Projects, Experience
-Transcript Table
+This page will be updated soon!
