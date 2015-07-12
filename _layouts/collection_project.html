@@ -22,8 +22,18 @@ layout: default
 		  </tr>
 		  <tr>
 			<td>
+				{% if(pro.guide) %}
+					<b>Guide:</b> <span class="lead">{{ pro.guide }}</span>
+					<br>
+				{% endif %}
+				
 				{% if(pro.teamsize) %}
 					<b>Team Size:</b> <span class="lead">{{ pro.teamsize }}</span>
+					<br>
+				{% endif %}
+				
+				{% if(pro.teammembers) %}
+					<b>Team Size:</b> <span class="lead">{{ pro.teammembers }}</span>
 					<br>
 				{% endif %}
 				
@@ -48,16 +58,19 @@ layout: default
 		  <tr>
 			<td colspan="2">
 				{% if(pro.reference) %}
-					<a href="{{ pro.reference }}"><img class="icon" title="Report" src="{{site.iconsurl}}/pdf.png"></a>
+					<a href="{{ pro.reference }}" target=_blank><img class="icon" title="Report" src="{{site.iconsurl}}/pdf.png"></a>
 				{% endif %}
 				{% if(pro.code) %}
-					<a href="{{ pro.code }}"><img class="icon" title="Code" src="{{site.iconsurl}}/code.png"></a>
+					<a href="{{ pro.code }}" target=_blank><img class="icon" title="Code" src="{{site.iconsurl}}/code.png"></a>
 				{% endif %}
 				{% if(pro.database) %}
-					<a href="{{ pro.database }}"><img class="icon" title="Database" src="{{site.iconsurl}}/database.png"></a>
+					<a href="{{ pro.database }}" target=_blank><img class="icon" title="Database" src="{{site.iconsurl}}/database.png"></a>
 				{% endif %}
 				{% if(pro.demo) %}
-					<a href="{{ pro.demo }}"><img class="icon" title="Demo" src="{{site.iconsurl}}/play.png"></a>
+					<a href="{{ pro.demo }}" target=_blank><img class="icon" title="Demo" src="{{site.iconsurl}}/play.png"></a>
+				{% endif %}
+				{% if(pro._url) %}
+					<a href="{{ pro._url }}" target=_blank><img class="icon" title="weblink" src="{{site.iconsurl}}/www.png"></a>
 				{% endif %}
 			</td>
 		  </tr>
