@@ -9,7 +9,7 @@ course: Mobile Computing
 _url: 
 projectimage: sample.png
 weight: 7
-reference: {{site.url}}/public/docs/report_rewise.pdf
+reference: http://sarthakahuja.org/public/docs/report_rewise.pdf
 code: https://github.com/jokereactive/ReWise
 category: Engineering
 database:

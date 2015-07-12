@@ -8,7 +8,7 @@ guide: Dr. Sanjit Kaul
 projectimage: sample.png
 _url: 
 weight: 7
-reference: 
+reference: http://sarthakahuja.org/public/docs/report_dd.pdf
 code: 
 category: Research
 database: 

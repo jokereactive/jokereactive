@@ -9,7 +9,7 @@ course: Individual Project
 _url: 
 projectimage: sample.png
 weight: 7
-reference: 
+reference: http://sarthakahuja.org/
 category: Engineering
 code: 
 database:

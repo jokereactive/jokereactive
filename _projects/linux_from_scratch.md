@@ -9,7 +9,7 @@ course: Operating Systems
 _url: 
 projectimage: sample.png
 weight: 7
-reference: {{site.url}}/public/docs/report_ped_detection.pdf
+reference: http://sarthakahuja.org/public/docs/report_ped_detection.pdf
 code: 
 category: Engineering
 database:

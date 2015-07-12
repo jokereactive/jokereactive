@@ -9,7 +9,7 @@ course: Image Analysis (Minor)
 _url: 
 projectimage: sample.png
 weight: 7
-reference: {{site.url}}/public/docs/poster_offside.png
+reference: http://sarthakahuja.org/public/docs/poster_offside.png
 category: Engineering
 code: https://github.com/jokereactive/Image-Analysis-with-EmguCV
 database:

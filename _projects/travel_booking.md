@@ -6,12 +6,12 @@ teamsize: 8
 teammembers: 
 guide: Mr. Manish Shrotriya
 course: Software Engineering
-_url: https://github.com/IIITDCSE3002014
+_url: 
 projectimage: sample.png
 weight: 7
 reference: 
 category: Engineering
-code: 
+code: https://github.com/IIITDCSE3002014
 database:
 demo:
 special:

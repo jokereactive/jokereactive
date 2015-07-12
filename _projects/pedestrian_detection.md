@@ -9,7 +9,7 @@ course: Computer Vision
 _url: 
 projectimage: sample.png
 weight: 7
-reference: {{site.url}}/public/docs/report_ped_detection.pdf
+reference: http://sarthakahuja.org/public/docs/report_ped_detection.pdf
 category: Engineering 
 code: https://github.com/jokereactive/PersonDetector
 database:

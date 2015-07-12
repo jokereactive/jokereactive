@@ -8,7 +8,6 @@ header: apeejay.png
 logo: apeejay.png
 weight: 3
 period: 2009-10
-excerpt: Additional content
+excerpt: 
 ---
-Link to Projects, Experience
-Transcript Table
+This page will be updated soon!

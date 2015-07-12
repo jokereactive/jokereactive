@@ -8,7 +8,7 @@ guide: Mr. Mayank Vatsa
 course: Image Analysis (Major Project)
 projectimage: sample.png
 weight: 7
-reference: {{site.url}}/public/docs/poster_chrominance.png
+reference: http://sarthakahuja.org/public/docs/poster_chrominance.png
 code: https://github.com/jokereactive/Image-Analysis-with-EmguCV
 database:
 demo:

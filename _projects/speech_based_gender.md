@@ -9,7 +9,7 @@ course: Pattern Recognition (Minor)
 _url: http://esya.iiitd.edu.in/page/about
 projectimage: sample.png
 weight: 7
-reference: {{site.url}}/public/docs/report_he_or_she.pdf
+reference: http://sarthakahuja.org//public/docs/report_he_or_she.pdf
 category: Research
 code: 
 database:
