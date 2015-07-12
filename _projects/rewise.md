@@ -3,6 +3,8 @@ layout: page_project
 name: reWise
 intro: In-Class Quizzing Application
 teamsize: 3
+teammembers: 
+guide: Mr. Manish Shrotriya
 course: Mobile Computing
 _url: http://esya.iiitd.edu.in/page/about
 projectimage: sample.png

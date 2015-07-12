@@ -3,6 +3,8 @@ layout: page_project
 name: Color based Offside Detection
 intro: Blob Detection
 teamsize: 1
+teammembers: 
+guide: Mr. Manish Shrotriya
 course: Image Analysis (Minor)
 _url: 
 projectimage: sample.png

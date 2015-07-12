@@ -3,6 +3,8 @@ layout: page_project
 name: Pedestrian Detection
 intro: based on HoG
 teamsize: 3
+teammembers: 
+guide: Mr. Manish Shrotriya
 course: Computer Vision
 _url: http://esya.iiitd.edu.in/page/about
 projectimage: sample.png

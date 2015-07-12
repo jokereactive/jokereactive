@@ -9,7 +9,6 @@ header: iiitd.jpg
 logo: iiitd.jpg
 weight: 1
 period: May'15-present
-excerpt: Additional content
+excerpt: Currently a member of IIIT-Delhi’s core team in the Driver Less Challenge by Mahindra. Lead a team of 2 and designed the Test Bench and Perception Module in ROS/C++.
 ---
-Link to Projects, Experience
-Transcript Table
+This page will be updated soon!

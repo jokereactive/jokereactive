@@ -3,6 +3,8 @@ layout: page_project
 name: Tiger Segmentation
 intro: Semi-Supervised Learning
 teamsize: 2
+teammembers: 
+guide: Mr. Manish Shrotriya
 _url: http://esya.iiitd.edu.in/page/about
 projectimage: sample.png
 weight: 7
@@ -14,7 +16,6 @@ demo:
 special:
 technology: Matlab, Semi-supervised Learning
 period: Nov'14-Jan'15
-excerpt: Additional content
+excerpt: Tiger Segmentation using Semi-Supervised Metric Learning. I was responsible for doing a literature survey on superpixel based approaches for image segmentation and generating superpixel graphs to perform the figure/ground segmentation using Graph Cuts.
 ---
-Link to Projects, Experience
-Transcript Table
+This page will be updated soon!

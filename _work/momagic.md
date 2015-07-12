@@ -4,12 +4,11 @@ title: MoMagic
 position: Application Developer
 institute: MoMagic
 institute_url: http://www.momagic.in/
-_url: http://www.apeejay.edu/pitampura/index.php
+_url: 
 header: momagic.png
 logo: momagic.png
 weight: 6
 period: May'14-Jul'14
-excerpt: Additional content
+excerpt: Worked as a Co-op Android Application Developer and trainee. Developed a commercial application ‘Handsfree’, a driver assistance application. Got exposed to application testing.
 ---
-Link to Projects, Experience
-Transcript Table
+This page will be updated soon!

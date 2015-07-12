@@ -3,6 +3,8 @@ layout: page_project
 name: coDrive
 intro: Crowd Souced Memory Sharing
 teamsize: 3
+teammembers: 
+guide: Mr. Manish Shrotriya
 course: Practice of Programming
 _url: http://esya.iiitd.edu.in/page/about
 projectimage: sample.png

@@ -3,6 +3,8 @@ layout: page_project
 name: SLAM in Egocentric Videos
 intro: B.Tech Project
 teamsize: 1
+teammembers: 
+guide: Mr. Manish Shrotriya
 _url: http://esya.iiitd.edu.in/page/about
 projectimage: sample.png
 weight: 1

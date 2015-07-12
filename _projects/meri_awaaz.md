@@ -3,6 +3,8 @@ layout: page_project
 name: Meri Awaaz
 intro: Web Dashboard
 teamsize: 2
+teammembers: 
+guide: Mr. Manish Shrotriya
 _url: http://meriawaazapp.com
 projectimage: sample.png
 weight: 7

@@ -3,6 +3,8 @@ layout: page_project
 name: He-or-She
 intro: Speech based Gender Detection
 teamsize: 2
+teammembers: 
+guide: Mr. Manish Shrotriya
 course: Pattern Recognition (Minor)
 _url: http://esya.iiitd.edu.in/page/about
 projectimage: sample.png

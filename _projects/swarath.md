@@ -3,6 +3,8 @@ layout: page_project
 name: Swarath
 intro: Autonomous Car
 teamsize: 3
+teammembers: 
+guide: Mr. Manish Shrotriya
 _url: http://esya.iiitd.edu.in/page/about
 projectimage: sample.png
 weight: 7

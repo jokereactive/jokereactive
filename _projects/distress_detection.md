@@ -3,6 +3,8 @@ layout: page_project
 name: Distress Detection
 intro: based on Speech
 teamsize: 2
+teammembers: 
+guide: Mr. Manish Shrotriya
 projectimage: sample.png
 _url: http://esya.iiitd.edu.in/page/about
 weight: 7

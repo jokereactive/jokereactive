@@ -8,7 +8,6 @@ header: iiitd.png
 logo: iiitd.jpg
 weight: 3
 period: Aug'14-present
-excerpt: Additional content
+excerpt: I worked as a Teaching Assistant for *CSE101 - Introduction to Programming* and *CSE102 - Data Structures and Algorithms*. My work primarily involved designing lab assignments, holding doubt sessions and taking Tutorials for a batch(Freshmen) of approx. 180 students.
 ---
-Link to Projects, Experience
-Transcript Table
+This page will be updated soon!

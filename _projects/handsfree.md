@@ -3,6 +3,8 @@ layout: page_project
 name: HandsFree
 intro: Android Application
 teamsize: 3
+teammembers: 
+guide: Mr. Manish Shrotriya
 course: Introduction to Engineering Design
 _url: http://esya.iiitd.edu.in/page/about
 projectimage: sample.png

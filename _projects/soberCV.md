@@ -3,6 +3,8 @@ layout: page_project
 name: soberCV
 intro: Jekyll based online Resume
 teamsize: 3
+teammembers: 
+guide: Mr. Manish Shrotriya
 course: Individual Project
 _url: http://esya.iiitd.edu.in/page/about
 projectimage: sample.png

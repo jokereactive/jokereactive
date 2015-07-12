@@ -32,7 +32,7 @@ excerpt_separator: "{{ more }}"
 # Setup
 title:            Sarthak Ahuja
 tagline:          'Personal Website'
-description:      'If you change the way you look at things. The things you look at change.'
+description:      'If you change the way you look at things, the things you look at change.'
 url:              http://sarthakahuja.org
 baseurl:          /
 imagesurl:		  /assets/images
@@ -57,5 +57,5 @@ paginate:         5
 version:          1.0
 
 github:
-  repo:           http://design.sarthakahuja.org/soberCV
-  site:			  http://design.sarthakahuja.org
+  repo:           https://github.com/FrozenInk/soberCV
+  site:			  https://frozenink.github.io

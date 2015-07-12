@@ -3,13 +3,12 @@ layout: page_work
 title: Infizeal Technologies
 position: Summer Trainee
 institute: Infizeal Technologies
-institute_url: 
-_url: http://www.apeejay.edu/pitampura/index.php
+institute_url: http://www.infizeal.com/
+_url: 
 header: infizeal.jpg
 logo: infizeal.jpg
 weight: 7
 period: Jun'13-Jul'13
-excerpt: Additional content
+excerpt: The training involved introduction to the language ‘processing’ and working on Kinect 360, Freeduino board and hardware and camera hacking for making user’s experience on the computer more interactive. As a project I made a line following robot and a Motion (Hand Gesture) controlled car.
 ---
-Link to Projects, Experience
-Transcript Table
+This page will be updated soon!

@@ -3,6 +3,8 @@ layout: page_project
 name: Linux from Scratch
 intro: Customizable OS
 teamsize: 3
+teammembers: 
+guide: Mr. Manish Shrotriya
 course: Operating Systems
 _url: http://esya.iiitd.edu.in/page/about
 projectimage: sample.png

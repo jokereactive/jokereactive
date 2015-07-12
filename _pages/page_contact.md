@@ -5,4 +5,3 @@ permalink: /contact/
 weight: 10
 type: navigation
 ---
-Contact me

@@ -3,6 +3,8 @@ layout: page_project
 name: Image Recolorization 
 intro: Chrominance Blending
 teamsize: 3
+teammembers: 
+guide: Mr. Manish Shrotriya
 course: Image Analysis (Major Project)
 projectimage: sample.png
 weight: 7
