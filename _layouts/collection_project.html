@@ -33,7 +33,7 @@ layout: default
 				{% endif %}
 				
 				{% if(pro.teammembers) %}
-					<b>Team Size:</b> <span class="lead">{{ pro.teammembers }}</span>
+					<b>Team Member(s):</b> <span class="lead">{{ pro.teammembers }}</span>
 					<br>
 				{% endif %}
 				
@@ -52,7 +52,8 @@ layout: default
 					<br>
 				{% endif %}
 				
-				<p>{{ pro.excerpt }} [<a href="{{ pro.url }}">learn more</a>]</p>
+				<p>{{ pro.excerpt }}</p>
+				[<a href="{{ pro.url }}">learn more</a>]
 			</td>
 		  </tr>
 		  <tr>

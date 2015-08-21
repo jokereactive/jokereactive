@@ -26,7 +26,8 @@ layout: default
 			{% if(exp.institute) %}
 				Place of Work: <span class="lead">{{ exp.institute }}</span>
 			{% endif %}
-			<p>{{ exp.excerpt }} [<a href="{{ exp.url }}">learn more</a>]</p>
+			<p>{{ exp.excerpt }}</p>
+			[<a href="{{ exp.url }}">learn more</a>]
 		</td>
 		<td align="center">
 			 <a href="{{ exp.institute_url }}"><img class="logo" src="{{site.logosurl}}/{{ exp.logo }}"></a>
