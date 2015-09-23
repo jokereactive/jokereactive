@@ -4,7 +4,7 @@ name: Color based Offside Detection
 intro: Blob Detection
 teamsize: 1
 teammembers: 
-guide: Mr. Mayank Vatsa
+guide: Dr. Mayank Vatsa
 course: Image Analysis (Minor)
 _url: 
 projectimage: sample.png
