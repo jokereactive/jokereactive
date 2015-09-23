@@ -76,6 +76,28 @@ img[alt="soberCV"] {
 	width: 8%;
 	display:inline;
 }
+.circle-img{
+    border-radius:50%;
+    padding: 0.5em;
+    &.pd{
+        padding:0.5rem;
+    }
+}
+
+.gs{
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    filter: grayscale(100%);
+    transition:all 2s;
+    &.hv{
+        &:hover{
+            -webkit-filter: grayscale(0%);
+            -moz-filter: grayscale(0%);
+            filter: grayscale(0%);
+            transition:all 2s;
+        }
+    }
+}
 
 /*
  * Sidebar
