@@ -9,16 +9,13 @@ layout: default
 	  <div class="projects">
 		<table>
 		  <tr>
-			<td width="75%">
+			<td width="100%">
 				<h2>
 					<a href="{{ pro.url }}">
 						{{ pro.name}}
 					</a><span class="lead"> {{ pro.intro }}</span>
 				</h2>
 			</td>
-			<td width="25%" align="center" rowspan="2">
-				<img class="projectimage" src="{{site.projectimagesurl}}/{{ pro.projectimage }}">
-			</td> 
 		  </tr>
 		  <tr>
 			<td>
@@ -53,7 +50,7 @@ layout: default
 				{% endif %}
 				
 				<p>{{ pro.excerpt }}</p>
-				[<a href="{{ pro.url }}">learn more</a>]
+				[<a href="{{ pro.url }}">Details</a>]
 			</td>
 		  </tr>
 		  <tr>

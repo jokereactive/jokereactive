@@ -4,7 +4,7 @@ name: Image Recolorization
 intro: Chrominance Blending
 teamsize: 3
 teammembers: 
-guide: Mr. Mayank Vatsa
+guide: Dr. Mayank Vatsa
 course: Image Analysis (Major Project)
 projectimage: sample.png
 weight: 7

@@ -1,15 +1,15 @@
 ---
 layout: page_project
-name: Car Backing System
+name: Kinect based 2-D
 intro: Arduino
 teamsize: 3
 teammembers: Saumya Jain, Mrinal Kachhara
-guide: Dr. Sujay Deb
+guide: Dr. Ojaswa Sharma
 course: Introduction to Engineering Design
 projectimage: sample.png
 weight: 7
+category: Research
 reference: 
-category: Engineering 
 code: 
 database: 
 demo:

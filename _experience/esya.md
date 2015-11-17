@@ -3,7 +3,7 @@ layout: page_experience
 title: Esya'14
 position: Core Organizing Committee
 institute: IIIT-Delhi
-institute_url: https://iiitd.ac.in
+institute_url: http://esya.iiitd.ac.in
 _url: http://esya.iiitd.edu.in/page/about
 header: esya.png
 logo: esya.png

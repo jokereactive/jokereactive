@@ -1,7 +1,7 @@
 ---
 layout: collection_experience
-title: Experience
-permalink: /experience/
+title: Co-curricular
+permalink: /cocurricular/
 weight: 5
 type: navigation
 ---

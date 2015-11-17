@@ -3,7 +3,7 @@ layout: page_experience
 title: MadToes
 position: President
 institute: IIIT-Delhi
-institute_url: https://iiitd.ac.in
+institute_url: http://madtoes.iiitd.edu.in
 _url: http://iiitdmadtoes.me.pn/
 header: madtoes.png
 logo: madtoes.png

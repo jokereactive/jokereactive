@@ -3,7 +3,7 @@ layout: page_work
 title: Swarath
 position: Core Team, Perception
 institute: IIIT-Delhi
-institute_url: https://iiitd.ac.in
+institute_url: https://www.facebook.com/swarathatiiitd?fref=ts
 _url: https://www.facebook.com/swarathatiiitd?fref=ts
 header: iiitd.jpg
 logo: iiitd.jpg

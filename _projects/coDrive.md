@@ -4,7 +4,7 @@ name: coDrive
 intro: Crowd Souced Memory Sharing
 teamsize: 4
 teammembers: Manan Gakhar, Danish Goel, Chaitanya Kumar
-guide: Mr. Rahul Purandre
+guide: Dr. Rahul Purandre
 course: Practice of Programming
 _url: 
 projectimage: sample.png

@@ -3,7 +3,7 @@ layout: page_experience
 title: Odyssey'14
 position: Organizing Team
 institute: IIIT-Delhi
-institute_url: https://iiitd.ac.in
+institute_url: http://odyssey.iiitd.edu.in
 _url: http://odyssey.iiitd.edu.in/
 header: odyssey.PNG
 logo: odyssey.PNG

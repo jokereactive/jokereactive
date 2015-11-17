@@ -12,7 +12,7 @@ layout: default
 			<h2>
 				<a href="{{ _work.url }}">
 					{{ _work.position}}
-				</a><span class="lead">, {{ _work.title }}</span>
+				</a><span class="lead">, <a href="{{ _work.institute_url }}">{{ _work.title }}</a></span>
 			</h2>
 		</td>
 		<td width="25%" align="center">
@@ -23,11 +23,11 @@ layout: default
 	  </tr>
 	  <tr>
 		<td>
-			{% if(_work.institute) %}
+			<!--{% if(_work.institute) %}
 				<span class="lead">{{ _work.institute }}</span>
-			{% endif %}
+			{% endif %}-->
 			<p>{{ _work.excerpt }}</p>
-			[<a href="{{ edu.url }}">learn more</a>]
+			[<a href="{{ _work.url }}">learn more</a>]
 		</td>
 		<td align="center">
 			 <a href="{{ _work.institute_url }}"><img class="logo" src="{{site.logosurl}}/{{ _work.logo }}"></a>

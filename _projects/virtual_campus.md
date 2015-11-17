@@ -5,7 +5,7 @@ intro: 3D Modelling
 teamsize: 1
 teammembers: 
 guide: Dr. Saket Anand, Dr. Ojaswa
-_url: https://www.facebook.com/groups/319324654934167/?fref=nf
+_url: http://graphics.iiitd.edu.in/virtualcampus/
 projectimage: sample.png
 weight: 7
 reference: 

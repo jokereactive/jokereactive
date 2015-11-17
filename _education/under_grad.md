@@ -3,7 +3,7 @@ layout: page_education
 title: Undergraduation
 institute: IIIT-Delhi
 institute_url: https://iiitd.ac.in
-marks: CGPA 9.0/10
+marks: CGPA 9.0/10.0
 major: Computer Science
 header: iiitd.png
 logo: iiitd.jpg

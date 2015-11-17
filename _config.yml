@@ -18,7 +18,7 @@ collections:
     permalink: /work/:path/
   experience:
     output: true
-    permalink: /experience/:path/
+    permalink: /cocurricular/:path/
   education:
     output: true
     permalink: /education/:path/

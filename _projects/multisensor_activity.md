@@ -1,15 +1,15 @@
 ---
 layout: page_project
-name: Car Backing System
+name: Multi-Sensor Data Fusion for Human Activity Recognization
 intro: Arduino
 teamsize: 3
-teammembers: Saumya Jain, Mrinal Kachhara
-guide: Dr. Sujay Deb
+teammembers: Anchita Goel
+guide: Dr. Richa Singh
 course: Introduction to Engineering Design
 projectimage: sample.png
 weight: 7
 reference: 
-category: Engineering 
+category: Research
 code: 
 database: 
 demo:
