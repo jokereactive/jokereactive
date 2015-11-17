@@ -9,5 +9,5 @@ header: placecom.png
 logo: placecom.png
 weight: 2
 period: Jan'15-present
-excerpt: This page will be updated soon!
+excerpt: 
 ---

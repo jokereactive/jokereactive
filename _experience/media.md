@@ -1,6 +1,6 @@
 ---
 layout: page_experience
-title: Media Club
+title: Media Panel
 position: Founder and Admin
 institute: IIIT-Delhi
 institute_url: https://iiitd.ac.in
