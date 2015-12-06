@@ -1,6 +1,6 @@
 ---
 layout: collection_work
-title: Work
+title: Work Experience
 permalink: /work/
 weight: 4
 type: navigation

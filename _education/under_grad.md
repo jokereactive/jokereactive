@@ -9,6 +9,6 @@ header: iiitd.png
 logo: iiitd.jpg
 weight: 1
 period: 2012-16*
-excerpt: 
+excerpt: I am a computer science undergrad. at IIIT-Delhi pursuing my thesis in the field of computer vision and machine learning. I am adviced by Dr. Chetan Arora and Dr. Saket Anand. 
 ---
 This page will be updated soon!
