@@ -1,7 +1,7 @@
 ---
 layout: page_project
-name: Kinect based 2-D
-intro: Arduino
+name: Kinect based 2-D Mesh Animation
+intro: Computer Graphics
 teamsize: 1
 teammembers: 
 guide: Dr. Ojaswa Sharma
@@ -10,7 +10,7 @@ projectimage: sample.png
 weight: 7
 category: Research
 reference: http://sarthakahuja.org/public/docs/report_kinect.pdf
-code: 
+code: https://github.com/jokereactive/Kinect-Driven-OpenGL-Animation
 database: 
 demo:
 special:

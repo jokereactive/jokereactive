@@ -10,8 +10,8 @@ _url:
 projectimage: sample.png
 weight: 7
 category: Engineering
-reference: 
-code: 
+reference: http://sarthakahuja.org/public/docs/report_codrive.pdf
+code: https://github.com/jokereactive/coDrive
 database: 
 demo: 
 special: 
