@@ -4,7 +4,7 @@ title: Swarath
 position: Workshop Assistant
 institute: IIIT-Delhi
 institute_url: http://www.iiitd.ac.in/
-_url: https://www.facebook.com/swarathatiiitd?fref=ts
+_url:
 header: iiitd.jpg
 logo: iiitd.jpg
 guide: Dr. Saket Anand and Dr. Sanjit Kaul

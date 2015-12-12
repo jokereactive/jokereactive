@@ -8,6 +8,7 @@ _url: https://sites.google.com/a/iiitd.ac.in/studentcouncil/home
 header: iiitd.jpg
 logo: iiitd.jpg
 weight: 1
+id: sc
 period: May'15-present
 excerpt: 
 ---
