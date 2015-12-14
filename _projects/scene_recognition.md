@@ -8,7 +8,7 @@ guide: Dr. Richa Singh
 course: Machine Learning
 projectimage: sample.png
 weight: 2
-reference: 
+reference: http://sarthakahuja.org/public/docs/report_scene.pdf
 category: Research
 code: 
 database: 
