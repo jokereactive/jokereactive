@@ -105,6 +105,28 @@ img[alt="soberCV"] {
  * Flexible banner for housing site name, intro, and "footer" content. Starts
  * out above content in mobile and later moves to the side with wider viewports.
  */
+.sidebar_m {
+  text-align: center;
+  padding: 2rem 1rem;
+  color: rgba(255,255,255,.5);
+  background-image: url("../../assets/images/manifesto.JPG");
+}
+
+@media (min-width: 48em) {
+  .sidebar_m {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 36rem;
+    text-align: left;
+  }
+}
+
+/* Sidebar links */
+.sidebar_m a {
+  color: #fff;
+}
 
 .sidebar {
   text-align: center;
@@ -172,6 +194,40 @@ img[alt="soberCV"] {
   float: left;
 }
 
+/* Footer */
+.sidebar-footer_m {
+  margin-top: 0;
+}
+
+/* Footer Logo */
+.sidebar-footer-logo_m img {
+  margin-top: 0;
+  width: 10%;
+  float: right;
+}
+
+/* Footer Text */
+.sidebar-footer-text_m,{
+  margin-top: 0;
+  width: 90%;
+  float: left;
+}
+
+/* Footer Text */
+.sidebar-footer-text_m a{
+  display: block;
+  line-height: 1.25;
+  font-size: 0.75rem;
+  float: left;
+}
+
+/* Footer Text */
+.sidebar-footer-text_m span{
+  display: block;
+  line-height: 1.25;
+  font-size: 0.75rem;
+}
+
 
 /* Sidebar nav */
 .sidebar-nav {
@@ -227,6 +283,26 @@ a.sidebar-nav-item:focus {
 @media (min-width: 64em) {
   .content {
     margin-left: 22rem;
+    margin-right: 4rem;
+  }
+}
+
+.content_m {
+  padding-top:    4rem;
+  padding-bottom: 4rem;
+}
+
+@media (min-width: 48em) {
+  .content_m {
+    max-width: 42rem;
+    margin-left: 20rem;
+    margin-right: 2rem;
+  }
+}
+
+@media (min-width: 64em) {
+  .content_m {
+    margin-left: 38rem;
     margin-right: 4rem;
   }
 }

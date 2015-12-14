@@ -10,7 +10,7 @@ _url:
 projectimage: sample.png
 weight: 7
 reference: http://sarthakahuja.org/public/docs/report_ped_detection.pdf
-category: Engineering 
+category: Research
 code: https://github.com/jokereactive/PersonDetector
 database:
 demo:

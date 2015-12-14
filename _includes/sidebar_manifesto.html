@@ -1,0 +1,31 @@
+<div class="sidebar_m">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="{{ site.baseurl }}">
+          {{ site.title }}
+        </a>
+      </h1>
+	  <p class="lead">{{ site.description }}</p>
+    </div>
+
+    
+	<div class="sidebar-footer_m">
+  <div class="sidebar-footer-logo_m">
+      <img src="{{site.imagesurl}}/logo.png" width=25%>
+    </div>
+	  <div class="sidebar-footer-text_m">
+	    <span>soberCV</span>
+	  </div>
+	  
+	  <div class="sidebar-footer-text_m">
+	    <a href="{{ site.github.repo }}">fork on github</a> <span>-Currently v{{ site.version }}</span>
+	  </div>
+	  <div class="sidebar-footer-text_m">
+		<span>&copy; <a href="{{ site.github.site }}">FrozenInk</a> {{ site.time | date: '%Y' }}.</span>
+		<span>All rights reserved.</span>
+	  </div>
+    </div>
+    
+  </div>
+</div>
