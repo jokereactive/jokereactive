@@ -1,9 +1,99 @@
 ---
 layout: default
 ---
+<h1>{{page.title}}</h1>
+<div class="row">
+    <table>
+	  <tr>
+		<td width="50%">
+		    <div id="slideshow">
+			   {% for image in page.images %}
+						    <div><img src="{{site.imagesurl}}/projectimages/{{page.id}}/{{image.image_id}}" alt="e1" /></div>
 
-<div class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
-  {{ content }}
+			      {% endfor %}
+			</div
+		</td>
+		<td width="50%">
+				{% if(page.guide) %}
+					<b>Guide:</b> <span class="lead">{{ page.guide }}</span>
+					<br>
+				{% endif %}
+				
+				{% if(page.teamsize) %}
+					<b>Team Size:</b> <span class="lead">{{ page.teamsize }}</span>
+					<br>
+				{% endif %}
+				
+				{% if(page.teammembers) %}
+					<b>Team Member(s):</b> <span class="lead">{{ page.teammembers }}</span>
+					<br>
+				{% endif %}
+				
+				{% if(page.course) %}
+					<b>Course:</b> <span class="lead">{{ page.course }}</span>
+					<br>
+				{% endif %}
+				
+				{% if(page.period) %}
+					<b>Time Period:</b> <span class="lead">{{page.period}}</span>
+					<br>
+				{% endif %}
+				
+				{% if(page.technology) %}
+					<b>Technology Used:</b> <span class="lead">{{page.technology}}</span>
+					<br>
+				{% endif %}
+				
+		</td> 
+	  </tr>
+	</table>
+	<div class="row">
+{% if(page.reference) %}
+					<a href="{{ page.reference }}" target=_blank><img class="icon" title="Report" src="{{site.iconsurl}}/pdf.png"></a>
+				{% endif %}
+				{% if(page.code) %}
+					<a href="{{ page.code }}" target=_blank><img class="icon" title="Code" src="{{site.iconsurl}}/code.png"></a>
+				{% endif %}
+				{% if(page.database) %}
+					<a href="{{ page.database }}" target=_blank><img class="icon" title="Database" src="{{site.iconsurl}}/database.png"></a>
+				{% endif %}
+				{% if(page.demo) %}
+					<a href="{{ page.demo }}" target=_blank><img class="icon" title="Demo" src="{{site.iconsurl}}/play.png"></a>
+				{% endif %}
+				{% if(page._url) %}
+					<a href="{{ page._url }}" target=_blank><img class="icon" title="weblink/facebook" src="{{site.iconsurl}}/www.png"></a>
+				{% endif %}
+	</div>
+<div class="row">
+    	{{content}}
 </div>
+<style type="text/css">
+	#slideshow { 
+    margin: 20px auto; 
+    position: relative; 
+    width: 95%; 
+    height: 10rem; 
+    padding: 2px; 
+    box-shadow: 0 0 5px rgba(0,0,0,0.4); 
+}
 
+#slideshow > div { 
+    position: absolute; 
+    top: 10px; 
+    left: 10px; 
+    right: 10px; 
+    bottom: 10px; 
+}
+</style>
+<script type="text/javascript">
+	$("#slideshow > div:gt(0)").hide();
+
+setInterval(function() { 
+  $('#slideshow > div:first')
+    .fadeOut(1000)
+    .next()
+    .fadeIn(1000)
+    .end()
+    .appendTo('#slideshow');
+},  3000);
+</script>
