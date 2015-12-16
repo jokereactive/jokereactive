@@ -1,9 +1,77 @@
 ---
 layout: default
 ---
+<h1>{{page.title}}</h1>
+<div class="row">
+    <table>
+	  <tr>
+		<td width="50%">
+		    <div id="slideshow">
+			   {% for image in page.images %}
+						    <div><img src="{{site.imagesurl}}/educationimages/{{page.id}}/{{image.image_id}}" alt="e1" /></div>
 
-<div class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
-  {{ content }}
+			      {% endfor %}
+			</div>
+		</td>
+		<td width="50%">
+				{% if(page.institute) %}
+					<b>Institute:</b> <span class="lead">{{ page.institute }}</span>
+					<br>
+				{% endif %}
+				
+				{% if(page.title) %}
+					<b>Degree:</b> <span class="lead">{{ page.title }}</span>
+					<br>
+				{% endif %}
+				
+				{% if(page.period) %}
+					<b>Period:</b> <span class="lead">{{ page.period}}</span>
+					<br>
+				{% endif %}
+				
+				{% if(page.major) %}
+					<b>Major:</b> <span class="lead">{{ page.major}}</span>
+					<br>
+				{% endif %}
+				
+				{% if(page.marks) %}
+					<b>Marks:</b> <span class="lead">{{page.marks}}</span>
+					<br>
+				{% endif %}
+		</td> 
+	  </tr>
+	</table>
 </div>
+<div class="row">
+    	{{content}}
+</div>
+<style type="text/css">
+	#slideshow { 
+    margin: 20px auto; 
+    position: relative; 
+    width: 95%; 
+    height: 10rem; 
+    padding: 2px; 
+    box-shadow: 0 0 5px rgba(0,0,0,0.4); 
+}
 
+#slideshow > div { 
+    position: absolute; 
+    top: 10px; 
+    left: 10px; 
+    right: 10px; 
+    bottom: 10px; 
+}
+</style>
+<script type="text/javascript">
+	$("#slideshow > div:gt(0)").hide();
+
+setInterval(function() { 
+  $('#slideshow > div:first')
+    .fadeOut(1000)
+    .next()
+    .fadeIn(1000)
+    .end()
+    .appendTo('#slideshow');
+},  3000);
+</script>

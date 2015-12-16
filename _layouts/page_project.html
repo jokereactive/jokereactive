@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h1>{{page.title}}</h1>
+<h1>{{page.name}}</h1>
 <div class="row">
     <table>
 	  <tr>
@@ -11,7 +11,7 @@ layout: default
 						    <div><img src="{{site.imagesurl}}/projectimages/{{page.id}}/{{image.image_id}}" alt="e1" /></div>
 
 			      {% endfor %}
-			</div
+			</div>
 		</td>
 		<td width="50%">
 				{% if(page.guide) %}
@@ -47,6 +47,7 @@ layout: default
 		</td> 
 	  </tr>
 	</table>
+	</div>
 	<div class="row">
 {% if(page.reference) %}
 					<a href="{{ page.reference }}" target=_blank><img class="icon" title="Report" src="{{site.iconsurl}}/pdf.png"></a>
