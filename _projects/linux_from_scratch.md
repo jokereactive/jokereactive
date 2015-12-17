@@ -4,7 +4,7 @@ name: Linux from Scratch
 intro: Customizable OS
 teamsize: 3
 teammembers: Chaitanya Kumar, Danish Goel
-guide: Mr. Manish Shrotriya
+guide: Dr. Pushpendra Singh
 course: Operating Systems
 _url: 
 projectimage: sample.png

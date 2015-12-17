@@ -12,7 +12,7 @@ reference:
 code: 
 database: 
 category: Engineering
-demo: http://meriawaazapp.com
+demo: https://play.google.com/store/apps/details?id=com.meriawaaz.mygap
 special: 
 technology: Javascript, AJAX, JQuery, SAAS, Jekyll, Foundation, Parse, REST
 period: Aug'14-present

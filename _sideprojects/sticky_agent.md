@@ -1,23 +1,22 @@
 ---
 layout: page_project
-name: Travel Booking System
-intro: SAAS
-teamsize: 8
-teammembers: 
-guide: Mr. Manish Shrotriya
-course: Software Engineering
-_url: 
+name: Sticky Agent
+intro: Androidathon
+teamsize: 4
+teammembers: Manan Gakhar, Naman Gupta, Shreyansh Jain	
+guide:
+course: Android Hackathon (Akosha)
+_url: https://www.facebook.com/events/238180109725571/
 projectimage: sample.png
 weight: 7
-reference: 
-category: Engineering
-code: https://github.com/IIITDCSE3002014
+reference: https://prezi.com/xv2w-6bhmkyl/sticky-agent-akosha-hackathon/
+category:
+code: https://github.com/jokereactive/StickyAgent
 database:
 demo:
 special:
-technology: Ruby on Rails, Javascript, AGILE Paradigm
-period: Aug'14-Dec'14
-excerpt: As a part of the Software Engineering course I along with the team made a SAAS web application using ruby on rails framework. The Web Application consisted of a system to allow a Travel Agent to effectively run his business by adding and using a set of applets that the service provides.
+technology: Android
+period: Jan'15-May'15
+excerpt: 
 ---
-Link to Projects, Experience
-Transcript Table
+This page will be updated soon!

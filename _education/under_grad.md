@@ -9,6 +9,19 @@ header: iiitd.png
 logo: iiitd.jpg
 weight: 1
 period: 2012-16*
-excerpt: I am a computer science undergrad. at IIIT-Delhi.
+excerpt: Pursuing my B.Tech. degree in Computer Science. Graduating in May, 2016.
 ---
-This page will be updated soon!
+Indraprastha Institute of Information Technology, Delhi (aka. IIIT-Delhi or IIIT-D) was created as a State University by an act of Delhi Government (The IIIT Delhi Act, 2007) empowering it to do research and development and grant degrees. 
+I joined the Institute in 2012 enrolling for the Computer Science course. 
+Besides core courses in
+- 
+- 
+- 
+
+I took the following electives:
+-
+-
+-
+-
+
+Projects, activities, Thesis/.

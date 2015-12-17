@@ -4,7 +4,7 @@ title: Meri Awaaz
 position: Head, Product(Web)
 institute: Mutiny Labs
 institute_url: http://meriawaazapp.com/
-_url: https://www.facebook.com/meriAwaazapp?fref=ts
+_url: http://meriawaazapp.com/
 header: meriawaaz.png
 logo: meriawaaz.png
 weight: 2

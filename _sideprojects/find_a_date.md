@@ -1,6 +1,6 @@
 ---
 layout: page_project
-name: Travel Booking System
+name: Find A Date
 intro: SAAS
 teamsize: 8
 teammembers: 

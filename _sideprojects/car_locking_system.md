@@ -1,6 +1,6 @@
 ---
 layout: page_project
-name: Travel Booking System
+name: Car Locking System
 intro: SAAS
 teamsize: 8
 teammembers: 
