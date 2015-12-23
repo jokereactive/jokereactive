@@ -6,10 +6,10 @@ teamsize: 2
 teammembers: Anchita Goel
 guide: Dr. Richa Singh
 course: Pattern Recognition (Minor)
-_url: http://esya.iiitd.edu.in/page/about
+_url: 
 projectimage: sample.png
 weight: 7
-reference: http://sarthakahuja.org//public/docs/report_he_or_she.pdf
+reference: http://sarthakahuja.org/public/docs/report_he_or_she.pdf
 category: Research
 code: 
 database:
