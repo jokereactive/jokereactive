@@ -2,15 +2,16 @@
 layout: page_project
 name: Image Recolorization 
 intro: Chrominance Blending
-teamsize: 3
-teammembers: 
+teamsize: 2
+teammembers: Manan Gakhar
 guide: Dr. Mayank Vatsa
 course: Image Analysis (Major Project)
 projectimage: sample.png
 weight: 7
 reference: http://sarthakahuja.org/public/docs/poster_chrominance.png
-code: https://github.com/jokereactive/Image-Analysis-with-EmguCV
+code: https://github.com/jokereactive/Image-Recolorization
 database:
+category: Research
 demo:
 special:
 technology: Arduino, IR & Ultrasonic Sensors
