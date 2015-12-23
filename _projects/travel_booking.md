@@ -8,7 +8,7 @@ guide: Mr. Manish Shrotriya
 course: Software Engineering
 _url: 
 projectimage: sample.png
-weight: 7
+weight: 25
 reference: 
 category: Engineering
 code: https://github.com/IIITDCSE3002014
