@@ -16,6 +16,6 @@ demo: https://play.google.com/store/apps/details?id=com.meriawaaz.mygap
 special: 
 technology: Javascript, AJAX, JQuery, SAAS, Jekyll, Foundation, Parse, REST
 period: Aug'14-present
-excerpt: Meri Awaaz is India's first platform that Connects Citizens with their Netas and Government officials for Open, Accessible and Accountable Governance. It is mobile-first real time public engagement tool that makes catching up with the work being done in your area as easy as following up your timeline. Develop and maintain the Dashboard which is being used by Candidates/Netas in Delhi to interact with citizens of their constituency and address their issues. 
+excerpt: Meri Awaaz is India's first platform that connects citizens with their netas and government officials for Open, Accessible and Accountable Governance. It is mobile-first real time public engagement tool that makes catching up with the work being done in your area as easy as following up your timeline. I develop and maintain the Dashboard which is being used by Candidates/Netas in Delhi to interact with citizens of their constituency and address their issues. 
 ---
 This page will be updated soon!

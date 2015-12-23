@@ -10,7 +10,7 @@ _url: https://www.facebook.com/events/238180109725571/
 projectimage: sample.png
 weight: 7
 reference: https://prezi.com/xv2w-6bhmkyl/sticky-agent-akosha-hackathon/
-category:
+category: Side
 code: https://github.com/jokereactive/StickyAgent
 database:
 demo:

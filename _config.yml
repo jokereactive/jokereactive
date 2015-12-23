@@ -13,9 +13,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  sideprojects:
-    output: true
-    permalink: /sideprojects/:path/
   work:
     output: true
     permalink: /work/:path/

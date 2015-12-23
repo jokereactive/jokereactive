@@ -4,7 +4,7 @@ title: Lava International
 position: Summer Intern
 institute: Lava International
 institute_url: http://www.lavamobiles.com/
-_url: 
+_url: http://www.lavamobiles.com/
 header: lava.jpg
 logo: lava.jpg
 weight: 5

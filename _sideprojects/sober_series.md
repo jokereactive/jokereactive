@@ -4,13 +4,13 @@ name: Sober Series
 intro: SAAS
 teamsize: 8
 teammembers: 
-guide: Mr. Manish Shrotriya
-course: Software Engineering
+guide: 
+course: 
 _url: 
 projectimage: sample.png
 weight: 7
 reference: 
-category: Engineering
+category: Side
 code: https://github.com/IIITDCSE3002014
 database:
 demo:

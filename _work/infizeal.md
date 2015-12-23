@@ -4,7 +4,7 @@ title: Infizeal Technologies
 position: Summer Trainee
 institute: Infizeal Technologies
 institute_url: http://www.infizeal.com/
-_url: 
+_url: http://www.infizeal.com/
 header: infizeal.jpg
 logo: infizeal.jpg
 weight: 7

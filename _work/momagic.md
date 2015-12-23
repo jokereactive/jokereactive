@@ -4,7 +4,7 @@ title: MoMagic
 position: Application Developer
 institute: MoMagic
 institute_url: http://www.momagic.in/
-_url: 
+_url: http://www.momagic.in/
 header: momagic.png
 logo: momagic.png
 weight: 6

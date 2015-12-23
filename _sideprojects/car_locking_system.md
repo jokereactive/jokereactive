@@ -4,14 +4,14 @@ name: Car Locking System
 intro: SAAS
 teamsize: 8
 teammembers: 
-guide: Mr. Manish Shrotriya
-course: Software Engineering
+guide: Dr. Amarjeet Singh
+course: System Management
 _url: 
 projectimage: sample.png
 weight: 7
 reference: 
-category: Engineering
-code: https://github.com/IIITDCSE3002014
+category: Side
+code: report_car_locking
 database:
 demo:
 special:

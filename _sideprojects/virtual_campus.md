@@ -9,7 +9,7 @@ _url: http://graphics.iiitd.edu.in/virtualcampus/
 projectimage: sample.png
 weight: 7
 reference: 
-category: Engineering
+category: Side
 code: 
 database:
 demo: https://3dwarehouse.sketchup.com/embed.html?mid=u7d336fdd-1f4d-487b-96aa-28cdf7a66542
