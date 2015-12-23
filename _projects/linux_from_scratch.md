@@ -8,7 +8,7 @@ guide: Dr. Pushpendra Singh
 course: Operating Systems
 _url: 
 projectimage: sample.png
-weight: 7
+weight: 24
 reference: http://sarthakahuja.org/public/docs/report_lfs.pdf
 code: 
 category: Engineering

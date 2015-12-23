@@ -7,7 +7,7 @@ teammembers: Saumya Jain, Mrinal Kachhara
 guide: Dr. Sujay Deb
 course: Introduction to Engineering Design
 projectimage: sample.png
-weight: 7
+weight: 23
 reference: 
 category: Engineering 
 code: 
