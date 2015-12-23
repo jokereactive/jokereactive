@@ -11,9 +11,8 @@ _url:
 weight: 7
 id: distressdetection
 images:
- - image_id: image1.png
- - image_id: image2.png
- - image_id: image3.png
+ - image_id: image1.PNG
+ - image_id: image2.PNG
 reference: http://sarthakahuja.org/public/docs/report_dd.pdf
 code: 
 category: Research
