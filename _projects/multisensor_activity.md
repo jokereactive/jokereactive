@@ -7,7 +7,7 @@ teammembers: Anchita Goel
 guide: Dr. Richa Singh
 course: Machine Learning
 projectimage: sample.png
-weight: 7
+weight: 4
 reference: http://sarthakahuja.org/public/docs/report_multisensor.pdf
 category: Research
 code: https://github.com/jokereactive/MDF-Human-Activity-Recognition

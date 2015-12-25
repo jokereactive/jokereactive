@@ -8,7 +8,7 @@ teammembers: Anil Sharma, PhD Candidate IIIT-Delhi
 guide: Dr. Sanjit Kaul
 projectimage: sample.png
 _url: 
-weight: 7
+weight: 2
 id: distressdetection
 images:
  - image_id: image1.PNG
