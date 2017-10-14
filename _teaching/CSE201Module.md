@@ -4,7 +4,7 @@ title: Java Refresher Module
 position: Workshop Assistant
 institute: IIIT-Delhi
 institute_url: http://www.iiitd.ac.in/
-_url: https://www.usebackpack.com/iiitd/m2015/rm104
+_url:
 header: iiitd.jpg
 logo: iiitd.jpg
 weight: 4

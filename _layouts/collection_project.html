@@ -8,9 +8,12 @@ These are some of the {{page.title}} I have been a part of in the last few years
   {% for pro in projects %}
 	{% if page.category == pro.category %}
 	  <div class="projects">
+	  <table>
+	  <tr>
+	  <td  width="70%">
 		<table>
 		  <tr>
-			<td width="100%">
+			<td>
 				<h2>
 					<a href="{{ pro.url }}">
 						{{ pro.name}}
@@ -72,6 +75,11 @@ These are some of the {{page.title}} I have been a part of in the last few years
 				{% endif %}
 			</td>
 		  </tr>
+		</table>
+		</td>
+		<td  width="30%">
+		</td>
+		</tr>
 		</table>
 	  </div>
 	  {% endif %}

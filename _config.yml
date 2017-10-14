@@ -16,9 +16,9 @@ collections:
   work:
     output: true
     permalink: /work/:path/
-  experience:
+  certificate:
     output: true
-    permalink: /cocurricular/:path/
+    permalink: /certificate/:path/
   education:
     output: true
     permalink: /education/:path/
@@ -28,6 +28,15 @@ collections:
   teaching:
     output: true
     permalink: /teaching/:path/
+  publication:
+    output: true
+    permalink: /publication/:path/
+  patent:
+    output: true
+    permalink: /patent/:path/
+  volunteer:
+    output: true
+    permalink: /volunteer/:path/
 relative_permalinks: false
 
 excerpt_separator: "{{ more }}"
@@ -43,9 +52,12 @@ logosurl:		  /assets/images/logos
 headersurl:		  /assets/images/headers
 projectimagesurl: /assets/images/projectimages
 iconsurl: 		  /assets/images/icons
+paperthumbnails: /assets/images/paperthumbnails
+projectthumbnails: /assets/images/projectthumbnails
+patentthumbnails: /assets/images/patentthumbnails
 docsurl: 		  /public/docs
-behance:      https://www.behance.net/sarthakahuja
-twitter:		  https://twitter.com/srthkhj
+behance:      https://www.behance.net/thecoldviews
+twitter:		  https://twitter.com/thecoldviews
 facebook:		  https://www.facebook.com/sarthak.ahuja.9
 linkedin:		  https://in.linkedin.com/in/sarthakahuja
 google:			  https://plus.google.com/u/0/+SarthakAhuja9/posts
@@ -63,4 +75,4 @@ version:          1.0
 github:
   repo:           https://github.com/FrozenInk/soberCV
   site:			      http://design.sarthakahuja.org/
-  mine:           https://github.com/jokereactive
+  mine:           https://github.com/thecoldviews

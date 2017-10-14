@@ -1,6 +1,6 @@
 ---
 layout: collection_project
-title: Research Projects
+title: Selected Research Projects
 permalink: /res_projects/
 category: Research
 weight: 7

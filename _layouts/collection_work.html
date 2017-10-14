@@ -12,7 +12,7 @@ layout: default
 			<h2>
 				<a href="{{ _work.url }}">
 					{{ _work.position}}
-				</a><span class="lead">, <a href="{{ _work.institute_url }}">{{ _work.title }}</a></span>
+				</a><span class="lead"> {{ _work.title }}</span>
 			</h2>
 		</td>
 		<td width="25%" align="center">
@@ -30,7 +30,7 @@ layout: default
 			<!--[<a href="{{ _work.url }}">learn more</a>]-->
 		</td>
 		<td align="center">
-			 <a href="{{ _work.institute_url }}"><img class="logo" src="{{site.logosurl}}/{{ _work.logo }}"></a>
+			 <a href="{{ _work.institute_url }}"><img class="logo" src="{{site.logosurl}}/{{ _work.logo }}" width = "100%"></a>
 		</td>
 	  </tr>
 	  <tr>

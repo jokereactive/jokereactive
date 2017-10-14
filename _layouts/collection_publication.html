@@ -1,0 +1,58 @@
+---
+layout: default
+---
+<h1>{{page.title}}</h1>
+<div class="posts">
+  {% assign publication = site.publication | sort:"weight" %}
+  {% for _publication in publication %}
+  <div class="publication">
+  <table>
+  <tr>
+  <td width="70%">
+    <table>
+    <tr>
+    <td width="100%">
+      <h3>
+      {% if(_publication.project_url) %}
+          <a href="{{_publication.project_url}}">{{ _publication.name}}</a>
+      {% else %}
+      {{ _publication.name}}
+      {% endif %}<br>
+<span class="lead">{{_publication.submission}} | {{_publication.track}} <a href="{{_publication.conference_url}}">{{ _publication.venue }} {{_publication.year}} </a><i>({{_publication.acceptance}})</i></span>
+      </h3>
+    </td> 
+    </tr>
+    <tr>
+    <td>
+      <p>{{ _publication.authors }}</p>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="2">
+      {% if(_publication.reference) %}
+        <a href="{{ _publication.reference }}" target=_blank><img class="icon" title="Report" src="{{site.iconsurl}}/pdf.png"></a>
+      {% endif %}
+      {% if(_publication.code) %}
+        <a href="{{ _publication.code }}" target=_blank><img class="icon" title="Code" src="{{site.iconsurl}}/code.png"></a>
+      {% endif %}
+      {% if(_publication.database) %}
+        <a href="{{ _publication.database }}" target=_blank><img class="icon" title="Database" src="{{site.iconsurl}}/database.png"></a>
+      {% endif %}
+      {% if(_publication.demo) %}
+        <a href="{{ _publication.demo }}" target=_blank><img class="icon" title="Demo" src="{{site.iconsurl}}/play.png"></a>
+      {% endif %}
+      {% if(_publication._url) %}
+        <a href="{{ _publication._url }}" target=_blank><img class="icon" title="weblink/facebook" src="{{site.iconsurl}}/www.png"></a>
+      {% endif %}
+    </td>
+    </tr>
+  </table>
+  </td>
+  <td width="30%">
+  <img width="100%" style="box-shadow: 5px 5px 5px #888888;" src="{{site.paperthumbnails}}/{{_publication.thumbnail_url}}">
+  </td>
+  </tr>
+  </table>
+  </div>
+  {% endfor %}
+</div>

@@ -6,12 +6,14 @@ layout: default
     <table>
 	  <tr>
 		<td width="50%">
-		    <div id="slideshow">
+    <a target=_blank href="{{ page.institute_url }}"><img class="logo" src="{{site.logosurl}}/{{ page.logo }}" style="margin-left: auto;
+    margin-right: auto;display:block" width="100%"></a>
+<!-- 		    <div id="slideshow">
 			   {% for image in page.images %}
 						    <div><img src="{{site.imagesurl}}/educationimages/{{page.id}}/{{image.image_id}}" alt="e1" /></div>
 
 			      {% endfor %}
-			</div>
+			</div> -->
 		</td>
 		<td width="50%">
 				{% if(page.institute) %}

@@ -1,0 +1,58 @@
+---
+layout: default
+---
+<h1>{{page.title}}</h1>
+<div class="posts">
+  {% assign patent = site.patent | sort:"weight" %}
+  {% for _patent in patent %}
+  <div class="patent">
+  <table>
+  <tr>
+  <td width="70%">
+    <table>
+    <tr>
+    <td width="100%">
+      <h3>
+      {% if(_patent.project_url) %}
+          <a href="{{_patent.project_url}}">{{ _patent.name}}</a>
+      {% else %}
+      {{ _patent.name}}
+      {% endif %}<br>
+    <span class="lead">#{{_patent.id_num}} | <a href="{{_patent.publication_url}}">{{ _patent.venue }} {{_patent.year}} </a><i>({{_patent.acceptance}})</i></span>
+      </h3>
+    </td> 
+    </tr>
+    <tr>
+    <td>
+      <p>{{ _patent.authors }}</p>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="2">
+      {% if(_patent.reference) %}
+        <a href="{{ _patent.reference }}" target=_blank><img class="icon" title="Report" src="{{site.iconsurl}}/pdf.png"></a>
+      {% endif %}
+      {% if(_patent.code) %}
+        <a href="{{ _patent.code }}" target=_blank><img class="icon" title="Code" src="{{site.iconsurl}}/code.png"></a>
+      {% endif %}
+      {% if(_patent.database) %}
+        <a href="{{ _patent.database }}" target=_blank><img class="icon" title="Database" src="{{site.iconsurl}}/database.png"></a>
+      {% endif %}
+      {% if(_patent.demo) %}
+        <a href="{{ _patent.demo }}" target=_blank><img class="icon" title="Demo" src="{{site.iconsurl}}/play.png"></a>
+      {% endif %}
+      {% if(_patent._url) %}
+        <a href="{{ _patent._url }}" target=_blank><img class="icon" title="weblink/facebook" src="{{site.iconsurl}}/www.png"></a>
+      {% endif %}
+    </td>
+    </tr>
+  </table>
+  </td>
+  <td width="30%">
+  <img width="100%" src="{{site.paperthumbnails}}/{{_patent.thumbnail_url}}">
+  </td>
+  </tr>
+  </table>
+  </div>
+  {% endfor %}
+</div>

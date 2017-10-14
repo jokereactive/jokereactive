@@ -46,7 +46,7 @@ html {
 }
 
 a {
-  color: #ac4142;
+  color: #6a9fb5;
   text-decoration: none;
 }
 
@@ -64,7 +64,7 @@ img[alt="soberCV"] {
 }
 
 .logo{
-	max-width: 40%;
+	max-width: 60%;
 	display:inline;
 }
 
@@ -73,7 +73,7 @@ img[alt="soberCV"] {
 }
 
 .icon{
-	width: 8%;
+	width: 12%;
 	display:inline;
 }
 .circle-img{

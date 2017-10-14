@@ -1,6 +1,6 @@
 ---
 layout: collection_project
-title: Side Projects
+title: Data Challenges/Hackathons
 permalink: /sideprojects/
 weight: 8
 category: Side
