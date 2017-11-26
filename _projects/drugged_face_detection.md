@@ -7,13 +7,15 @@ teammembers: Prateekshit Pandey
 guide: Dr. Richa Singh
 course: Introduction to Engineering Design
 _url: 
-projectimage: sample.png
+projectimage: drug.png
 weight: 7
 reference: http://sarthakahuja.org/public/docs/report_drugface_detection.pdf
 category: Research
 code: 
 database: https://drive.google.com/a/iiitd.ac.in/folderview?id=0B6sTEEC-di3sMC1sRlZsTFppdnM&usp=sharing
 demo:
+slides: 
+poster: 
 special:
 technology: Matlab, Machine Learning, Pattern Recognition
 period: Jan'15-May'15

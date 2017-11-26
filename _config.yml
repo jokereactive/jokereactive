@@ -19,6 +19,9 @@ collections:
   certificate:
     output: true
     permalink: /certificate/:path/
+  administrative:
+    output: true
+    permalink: /administrative/:path/
   education:
     output: true
     permalink: /education/:path/
@@ -46,7 +49,7 @@ title:            Sarthak Ahuja
 tagline:          'Personal Website'
 description:      'If you change the way you look at things, the things you look at change.'
 url:              http://sarthakahuja.org
-baseurl:          http://sarthakahuja.org/
+baseurl:          /
 imagesurl:		  /assets/images
 logosurl:		  /assets/images/logos
 headersurl:		  /assets/images/headers
@@ -62,6 +65,7 @@ facebook:		  https://www.facebook.com/sarthak.ahuja.9
 linkedin:		  https://in.linkedin.com/in/sarthakahuja
 google:			  https://plus.google.com/u/0/+SarthakAhuja9/posts
 mail:			    sarthak12088@iiitd.ac.in
+instagram:    https://www.instagram.com/thecoldviews/
 
 author:
   name:           'Sarthak Ahuja'

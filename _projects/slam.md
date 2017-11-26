@@ -6,11 +6,13 @@ teamsize: 1
 teammembers: 
 guide: Dr. Saket Anand, Dr. Chetan Arora
 _url: 
-projectimage: sample.png
-weight: 1
+projectimage: slam.png
+weight: 4
 reference: 
 category: Research
 code: 
+slides: 
+poster: 
 database: 
 demo: 
 special: 

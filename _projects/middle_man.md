@@ -1,17 +1,19 @@
 ---
 layout: page_project
-name: The Virtual Campus Project
-intro: 3D Modelling
+name: Middle Man
+intro: Hack InOut 2016
 teamsize: 1
 teammembers: 
 guide: Dr. Saket Anand, Dr. Ojaswa
 _url: http://graphics.iiitd.edu.in/virtualcampus/
-projectimage: sample.png
-weight: 7
+projectimage: middleman.png
+weight: 2
 reference: 
 category: Side
 code: 
 database:
+slides: 
+poster: 
 demo: https://3dwarehouse.sketchup.com/embed.html?mid=u7d336fdd-1f4d-487b-96aa-28cdf7a66542
 special:
 technology: Google Sketchup, AutoCAD

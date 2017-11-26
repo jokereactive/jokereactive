@@ -6,13 +6,15 @@ teamsize: 2
 teammembers: Anchita Goel
 guide: Dr. Sandip Aine
 course: Artificial Intelligence
-projectimage: sample.png
-weight: 3
+projectimage: mapp.png
+weight: 6
 reference: http://sarthakahuja.org/public/docs/report_multiagent.pdf
 category: Research
 code: https://github.com/jokereactive/MAPP-Warehouse-Butlers
 database: 
 demo:
+slides: 
+poster: 
 special:
 technology: Java AWT
 period: Aug'15-Dec'15

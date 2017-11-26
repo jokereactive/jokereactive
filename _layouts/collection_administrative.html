@@ -1,0 +1,46 @@
+---
+layout: default
+---
+<h1>{{page.title}}</h1>
+<div class="posts">
+  {% assign administrative = site.administrative | sort:"weight" %}
+  {% for _administrative in administrative %}
+  <div class="administrative"  id="asd">
+    <table>
+    <tr>
+    <td width="75%">
+      <h2>
+        <a href="{{ _administrative.url }}">
+          {{ _administrative.position}}
+        </a><span class="lead">, <a target=_blank href="{{ _administrative.institute_url }}">{{ _administrative.title }}</a></span>
+      </h2>
+    </td>
+    <td width="25%" align="center">
+      <h2>
+        {{_administrative.period}}
+      </h2>
+    </td> 
+    </tr>
+    <tr>
+    <td>
+      {% if(_administrative.institute) %}
+        Place of Work: <span class="lead">{{ _administrative.institute }}</span>
+      {% endif %}
+      <p>{{ _administrative.excerpt }}</p>
+      <!--[<a href="{{ _administrative.url }}">Learn more</a>]-->
+    </td>
+    <td align="center">
+       <a target=_blank href="{{ _administrative.institute_url }}"><img class="logo" src="{{site.logosurl}}/{{ _administrative.logo }}"></a>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="2">
+      {% if(_administrative._url) %}
+        <a href="{{ _administrative._url }}" target=_blank><img class="icon" title="weblink/facebook" src="{{site.iconsurl}}/www.png"></a>
+      {% endif %}
+    </td>
+    </tr>
+  </table>
+  </div>
+  {% endfor %}
+</div>

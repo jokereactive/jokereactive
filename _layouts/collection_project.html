@@ -23,6 +23,21 @@ These are some of the {{page.title}} I have been a part of in the last few years
 		  </tr>
 		  <tr>
 			<td>
+
+				{% if(pro.special) %}
+					<table>
+					<tr>
+					<td width = "10%">
+					<img width = "100%"  title="weblink/facebook" src="{{site.iconsurl}}/special.png">
+					</td>
+					<td width="90%">
+					<i> {{pro.special }}</i>
+					</td>
+					</tr>
+					</table>
+				{% endif %}
+			
+
 				{% if(pro.guide) %}
 					<b>Guide:</b> <span class="lead">{{ pro.guide }}</span>
 					<br>
@@ -49,10 +64,19 @@ These are some of the {{page.title}} I have been a part of in the last few years
 				{% endif %}
 				
 				{% if(pro.technology) %}
-					<b>Technologies/Concepts Used:</b> <span class="lead">{{pro.technology}}</span
+					<b>Technologies/Concepts Used:</b> <span class="lead">{{pro.technology}}</span>
 					<br>
 				{% endif %}
-				
+
+				{% if(pro.published) %}
+					<font color="#edc436"><b>Associated Publication(s):</b></font> <br> <a href="/publication"><span class="lead">{{pro.published}}</span></a>
+					<br>
+				{% endif %}
+
+				{% if(pro.patented) %}
+					<font color="#edc436"><b>Associated Patent(s):</b></font> <br> <a href="/patent"><span class="lead">{{pro.patented}}</span></a>
+					<br>
+				{% endif %}
 				<p>{{ pro.excerpt }}</p>
 			</td>
 		  </tr>
@@ -71,13 +95,14 @@ These are some of the {{page.title}} I have been a part of in the last few years
 					<a href="{{ pro.demo }}" target=_blank><img class="icon" title="Demo" src="{{site.iconsurl}}/play.png"></a>
 				{% endif %}
 				{% if(pro._url) %}
-					<a href="{{ pro._url }}" target=_blank><img class="icon" title="weblink/facebook" src="{{site.iconsurl}}/www.png"></a>
+					<a href="{{ pro._url }}" target=_blank><img class="icon" title="weblink" src="{{site.iconsurl}}/www.png"></a>
 				{% endif %}
 			</td>
 		  </tr>
 		</table>
 		</td>
-		<td  width="30%">
+		<td  width="30%" align="center">
+			<img width="90%" style="box-shadow: 5px 5px 5px #888888;" src = "{{site.projectthumbnails}}/{{pro.projectimage}}">
 		</td>
 		</tr>
 		</table>

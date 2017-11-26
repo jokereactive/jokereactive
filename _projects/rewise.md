@@ -7,12 +7,14 @@ teammembers: Saumya Jain, Shuktika Jain, Mrinal Kachara, Manan Gakhar
 guide: Dr. Vinayak Nayak
 course: Mobile Computing
 _url: 
-projectimage: sample.png
+projectimage: rewise.png
 weight: 7
 reference: http://sarthakahuja.org/public/docs/report_rewise.pdf
 code: https://github.com/jokereactive/ReWise
 category: Engineering
 database:
+slides: 
+poster: 
 demo:
 special:
 technology: Android, Parse, Javascript

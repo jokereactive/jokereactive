@@ -6,12 +6,14 @@ teamsize: 2
 teammembers: Anchita Goel
 guide: Dr. Richa Singh
 course: Machine Learning
-projectimage: sample.png
-weight: 2
+projectimage: scene.png
+weight: 8
 reference: http://sarthakahuja.org/public/docs/report_scene.pdf
-category: Research
+category: Engineering
 code: https://github.com/jokereactive/Scene-Recognition
 database: 
+slides: 
+poster: 
 demo:
 special:
 technology: Matlab

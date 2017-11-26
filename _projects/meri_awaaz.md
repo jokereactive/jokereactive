@@ -6,11 +6,13 @@ teamsize: 5
 teammembers: Manan Gakhar, Danish Goel, Shashank Gautam, Anchita Goel
 guide: Aditya Nayak
 _url: http://meriawaazapp.com
-projectimage: sample.png
+projectimage: meriawaaz.png
 weight: 7
 reference: 
 code: 
 database: 
+slides: 
+poster: 
 category: Engineering
 demo: https://play.google.com/store/apps/details?id=com.meriawaaz.mygap
 special: 

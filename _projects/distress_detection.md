@@ -6,19 +6,21 @@ intro: based on Speech
 teamsize: 2
 teammembers: Anil Sharma, PhD Candidate IIIT-Delhi
 guide: Dr. Sanjit Kaul
-projectimage: sample.png
+projectimage: dd.png
 _url: 
-weight: 2
+weight: 5
 id: distressdetection
 images:
  - image_id: image1.PNG
  - image_id: image2.PNG
 reference: http://sarthakahuja.org/public/docs/report_dd.pdf
 code: 
+slides: 
+poster: 
 category: Research
 database: 
 demo: 
-special: Elevator Pitch, First Prize at Research Showcase'14
+special: First Prize, Best Demo, Research Showcase'14, IIIT-Delhi
 technology: Machine Learning, Android, PHP, Matlab, Signal Processing
 period: Aug'14-present
 excerpt: In this project we used audio data to detect distress in the ambient surroundings (Screams) by using trained SVMs. I worked on this project for a year and coded multiple implementations, on android and matlab. I implemented various additional features such as silence removal and spectral-feature computation. I also implemented the dashboard used to monitor the entire system in real time and push our updated application to volunteer devices. 

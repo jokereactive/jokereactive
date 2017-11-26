@@ -7,12 +7,14 @@ teammembers: Saumya Jain, Shuktika Jain, Mrinal Kachhara, Manan Gakhar, Mansi Ve
 guide: Mr. Manish Shrotriya
 course: Software Engineering
 _url: 
-projectimage: sample.png
+projectimage: travelbooking.png
 weight: 25
 reference: 
 category: Engineering
 code: https://github.com/IIITDCSE3002014
 database:
+slides: 
+poster: 
 demo:
 special:
 technology: Ruby on Rails, Javascript, AGILE Paradigm

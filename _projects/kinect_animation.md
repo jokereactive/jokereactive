@@ -6,13 +6,15 @@ teamsize: 1
 teammembers: 
 guide: Dr. Ojaswa Sharma
 course: Computer Graphics
-projectimage: sample.png
+projectimage: kinect.png
 weight: 7
-category: Research
+category: Engineering
 reference: http://sarthakahuja.org/public/docs/report_kinect.pdf
 code: https://github.com/jokereactive/Kinect-Driven-OpenGL-Animation
 database: 
 demo:
+slides: 
+poster: 
 special:
 technology: QT, OpenGL, Kinect, Visual Studio
 period: Aug'15-Dec'15

@@ -6,12 +6,14 @@ teamsize: 3
 teammembers: Shivam Thukral, Gurshabad Grover
 guide: Dr. Saket Anand, Dr. Sanjit Kaul, Dr. Rahul Purandre
 _url: 
-projectimage: sample.png
+projectimage: swarath.png
 weight: 1
 reference: 
 category: Engineering
 code: 
 database:
+slides: 
+poster: 
 demo:
 special:
 technology: ROS, C++, Design Patterns

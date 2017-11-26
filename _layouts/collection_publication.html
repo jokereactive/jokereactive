@@ -41,6 +41,12 @@ layout: default
       {% if(_publication.demo) %}
         <a href="{{ _publication.demo }}" target=_blank><img class="icon" title="Demo" src="{{site.iconsurl}}/play.png"></a>
       {% endif %}
+      {% if(_publication.slides) %}
+        <a href="{{ _publication.slides }}" target=_blank><img class="icon" title="Slides" src="{{site.iconsurl}}/slides.png"></a>
+      {% endif %}
+      {% if(_publication.poster) %}
+        <a href="{{ _publication.poster }}" target=_blank><img class="icon" title="Poster" src="{{site.iconsurl}}/poster.png"></a>
+      {% endif %}
       {% if(_publication._url) %}
         <a href="{{ _publication._url }}" target=_blank><img class="icon" title="weblink/facebook" src="{{site.iconsurl}}/www.png"></a>
       {% endif %}

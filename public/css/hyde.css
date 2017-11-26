@@ -73,7 +73,7 @@ img[alt="soberCV"] {
 }
 
 .icon{
-	width: 12%;
+	width: 10%;
 	display:inline;
 }
 .circle-img{
@@ -278,7 +278,6 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 42rem;
     margin-left: 20rem;
     margin-right: 2rem;
   }

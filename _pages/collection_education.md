@@ -3,6 +3,6 @@ layout: collection_education
 title: Education
 permalink: /education/
 type: navigation
-weight: 3
+weight: 2
 ---
 Something describing your work

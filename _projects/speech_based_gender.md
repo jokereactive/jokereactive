@@ -7,12 +7,14 @@ teammembers: Anchita Goel
 guide: Dr. Richa Singh
 course: Pattern Recognition (Minor)
 _url: 
-projectimage: sample.png
+projectimage: heorshe.png
 weight: 7
 reference: http://sarthakahuja.org/public/docs/report_he_or_she.pdf
-category: Research
+category: Engineering
 code: https://github.com/jokereactive/He-or-She
 database:
+slides: 
+poster: 
 demo: http://sarthakahuja.org/public/apps/DD.apk
 special:
 technology: Matlab, Speech Signal Processing, SVM

@@ -7,12 +7,14 @@ teammembers:
 guide: Dr. Mayank Vatsa
 course: Image Analysis (Minor)
 _url: 
-projectimage: sample.png
+projectimage: offside.png
 weight: 7
 reference: http://sarthakahuja.org/public/docs/poster_offside.png
-category: Research
+category: Engineering
 code: https://github.com/jokereactive/Offside-Detection
 database:
+slides: 
+poster: 
 demo: 
 special:
 technology: C#, EmguCV, Visual Studio 13

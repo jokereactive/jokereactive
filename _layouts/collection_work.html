@@ -33,25 +33,6 @@ layout: default
 			 <a href="{{ _work.institute_url }}"><img class="logo" src="{{site.logosurl}}/{{ _work.logo }}" width = "100%"></a>
 		</td>
 	  </tr>
-	  <tr>
-		<td colspan="2">
-			{% if(_work.reference) %}
-				<a href="{{ _work.reference }}" target=_blank><img class="icon" title="Report" src="{{site.iconsurl}}/pdf.png"></a>
-			{% endif %}
-			{% if(_work.code) %}
-				<a href="{{ _work.code }}" target=_blank><img class="icon" title="Code" src="{{site.iconsurl}}/code.png"></a>
-			{% endif %}
-			{% if(_work.database) %}
-				<a href="{{ _work.database }}" target=_blank><img class="icon" title="Database" src="{{site.iconsurl}}/database.png"></a>
-			{% endif %}
-			{% if(_work.demo) %}
-				<a href="{{ _work.demo }}" target=_blank><img class="icon" title="Demo" src="{{site.iconsurl}}/play.png"></a>
-			{% endif %}
-			{% if(_work._url) %}
-				<a href="{{ _work._url }}" target=_blank><img class="icon" title="weblink/facebook" src="{{site.iconsurl}}/www.png"></a>
-			{% endif %}
-		</td>
-	  </tr>
 	</table>
   </div>
   {% endfor %}

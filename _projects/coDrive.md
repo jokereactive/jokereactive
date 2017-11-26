@@ -7,16 +7,18 @@ teammembers: Manan Gakhar, Danish Goel, Chaitanya Kumar
 guide: Dr. Rahul Purandre
 course: Practice of Programming
 _url: 
-projectimage: sample.png
+projectimage: codrive.png
 weight: 7
 category: Engineering
 reference: http://sarthakahuja.org/public/docs/report_codrive.pdf
 code: https://github.com/jokereactive/coDrive
 database: 
+slides: 
+poster: 
 demo: 
 special: 
 technology: Android, Parse, Javascript, Lint, SonarQube
 period: Jan'15-May'15
-excerpt: Additional content
+excerpt:
 ---
 This page will be updated soon!

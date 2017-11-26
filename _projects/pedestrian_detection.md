@@ -7,12 +7,14 @@ teammembers: Prateekshit Pandey
 guide: Dr. Saket Anand
 course: Computer Vision
 _url: 
-projectimage: sample.png
+projectimage: pedestrian.png
 weight: 7
 reference: http://sarthakahuja.org/public/docs/report_ped_detection.pdf
-category: Research
+category: Engineering
 code: https://github.com/jokereactive/PersonDetector
 database:
+slides: 
+poster: 
 demo:
 special:
 technology: Matlab, Computer Vision Toolbox

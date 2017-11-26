@@ -6,13 +6,15 @@ teamsize: 2
 teammembers: Manan Gakhar
 guide: Dr. Mayank Vatsa
 course: Image Analysis (Major Project)
-projectimage: sample.png
+projectimage: recolorization.png
 weight: 7
 reference: http://sarthakahuja.org/public/docs/poster_chrominance.png
 code: https://github.com/jokereactive/Image-Recolorization
 database:
-category: Research
+category: Engineering
 demo:
+slides: 
+poster: 
 special:
 technology: Arduino, IR & Ultrasonic Sensors
 period: Apr'14-Aug'14

@@ -1,7 +1,20 @@
 ---
-layout: page_contact
+layout: page_honors
 title: Honors & Awards
 permalink: /awards/
-weight: 8.7
+weight: 11
 type: navigation
 ---
+ - <b><a href="https://www.facebook.com/hackinout/photos/t.100000580508543/1921716201421618/?type=3&theater">Winner - Consensys Prize</a></b>, <a><b>InOut 4.0</b></a> for the Hack- <a><i>VoteChain</i></a>
+ - Manager's Choice Award 2016 | Recognized for the practice - Restlessly Reinvent IBM and Ourselves
+ - Awarded the <a href="https://www.iiitd.ac.in/convocation16/awardees.html"><b>All Round Performance Medal</b></a> for the overall performance in curricular and extracurricular
+activities in the B.Tech. (CSE) program. 
+ - <a href="https://www.facebook.com/IIITDMUN/photos/t.100000580508543/242629362753490/?type=3&theater"><b>Best Delegation award</b></a> at IIIT-Delhi’s first Model United Nations.
+ - <a href="https://www.facebook.com/ssedtu/photos/t.100000580508543/985977648123016/?type=3&theater"><b>First Prize</b></a> in the Technical Paper Presentation event at Cogenesis 2016, Delhi Technological University
+for <a><i>Multi-Sensor Data Fusion for Human Activity Recognition</i></a>.
+ - First Prize in the Project Showcase Event at IIIT-Delhi Research Showcase 2015 for <a><i>Distress
+Detection</i></a>.
+ - Merit Certificate in the National Mathematics Olympiad (2009) from DAMT.
+ - <a href="http://cbse.nic.in/PRESS_NOTE_X_2010_3.pdf"><b>Merit Certificate</b></a> by AISSE for outstanding high school academic record.
+ - Selected for Inspire Internship Program (2010) - Department of Science and Technology, Govt. of
+India based on outstanding high school academic record.

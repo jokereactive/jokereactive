@@ -14,9 +14,11 @@ conference_url:
 venue: ICSOC
 projectimage: sample.png
 weight: 2
-reference: http://sarthakahuja.org/public/docs/report_codrive.pdf
+reference: http://sarthakahuja.org/public/docs/icsoc2017.pdf
 code:
 database: 
+slides: 
+poster: 
 demo: 
 special: 
 year: 2017
