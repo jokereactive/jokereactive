@@ -1,7 +1,7 @@
 ---
 layout: page_work
-title: CVML Lab
-position: Undergraduate Researcher
+title: Infosys Center for AI
+position: Researcher Intern
 institute: IIIT-Delhi
 institute_url: https://www.facebook.com/swarathatiiitd?fref=ts
 _url: https://www.facebook.com/swarathatiiitd?fref=ts

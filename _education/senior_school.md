@@ -9,6 +9,5 @@ header: apeejay.png
 logo: apeejay.png
 weight: 2
 period: 2011-12
-excerpt: Graduated with an A1 grade in all subjects
+excerpt:
 ---
-This page will be updated soon!

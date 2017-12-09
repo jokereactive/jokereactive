@@ -17,7 +17,7 @@ slides:
 poster: 
 special: Winner, Consensys Prize
 technology: Etherium Blockchain, OpenCV, Python Flask
-period: May'14-July'14
-excerpt: Designing a photorealistic 3D Model of the IIIT-Delhi Campus for a project focused on using it as a basis for efficient automated 3D Scanning and Modelling of buildings.
+period: November'2017
+excerpt: 
 ---
 This page will be updated soon!

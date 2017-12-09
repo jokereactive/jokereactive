@@ -8,7 +8,7 @@ guide: Mr. Manish Shrotriya
 course: Software Engineering
 _url: 
 projectimage: travelbooking.png
-weight: 25
+weight: 12
 reference: 
 category: Engineering
 code: https://github.com/IIITDCSE3002014

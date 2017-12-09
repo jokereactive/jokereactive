@@ -1,14 +1,12 @@
 ---
 layout: page_experience
-title: Foobar
-position: Admin
-institute: IIIT-Delhi
-institute_url: http://foobar.iiitd.edu.in
-_url: http://foobar.iiitd.edu.in/
-header: foobar.png
-logo: foobar.png
-weight: 3
-period: Jan'15-present
+from: Coursera
+certificate: Machine Learning
+from_url: https://www.coursera.org/learn/machine-learning
+certificate_url: https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=972224
+header: coursera.png
+logo: coursera.png
+weight: 1
+period: June 2014
 excerpt: 
 ---
-This page will be updated soon!

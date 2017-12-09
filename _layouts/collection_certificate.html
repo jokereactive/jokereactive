@@ -10,9 +10,8 @@ layout: default
 	  <tr>
 		<td width="75%">
 			<h2>
-				<a href="{{ _certificate.url }}">
-					{{ _certificate.position}}
-				</a><span class="lead">, <a target=_blank href="{{ _certificate.institute_url }}">{{ _certificate.title }}</a></span>
+					{{ _certificate.certificate }}
+				<span class="lead">, <a target=_blank href="{{ _certificate.from_url }}">{{ _certificate.from }}</a></span>
 			</h2>
 		</td>
 		<td width="25%" align="center">
@@ -23,9 +22,6 @@ layout: default
 	  </tr>
 	  <tr>
 		<td>
-			{% if(_certificate.institute) %}
-				Place of Work: <span class="lead">{{ _certificate.institute }}</span>
-			{% endif %}
 			<p>{{ _certificate.excerpt }}</p>
 			<!--[<a href="{{ _certificate.url }}">Learn more</a>]-->
 		</td>
@@ -35,8 +31,8 @@ layout: default
 	  </tr>
 	  <tr>
 		<td colspan="2">
-			{% if(_certificate._url) %}
-				<a href="{{ _certificate._url }}" target=_blank><img class="icon" title="weblink/facebook" src="{{site.iconsurl}}/www.png"></a>
+			{% if(_certificate.certificate_url) %}
+				<a href="{{ _certificate.certificate_url }}" target=_blank><img class="icon" title="weblink/facebook" src="{{site.iconsurl}}/www.png"></a>
 			{% endif %}
 		</td>
 	  </tr>

@@ -26,6 +26,18 @@ layout: default
 			<!--{% if(_work.institute) %}
 				<span class="lead">{{ _work.institute }}</span>
 			{% endif %}-->
+				{% if(_work.special) %}
+          <table>
+          <tr>
+          <td width = "7%">
+          <img width = "100%"  title="highlight" src="{{site.iconsurl}}/special.png">
+          </td>
+          <td width="93%">
+          <i> {{_work.special }}</i>
+          </td>
+          </tr>
+          </table>
+        {% endif %}
 			<p>{{ _work.excerpt }}</p>
 			<!--[<a href="{{ _work.url }}">learn more</a>]-->
 		</td>

@@ -8,6 +8,6 @@ header: apeejay.png
 logo: apeejay.png
 weight: 3
 period: 2009-10
-excerpt: Graduated with a perfect GPA
+excerpt: 
+special:
 ---
-This page will be updated soon!

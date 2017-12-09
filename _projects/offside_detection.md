@@ -8,7 +8,7 @@ guide: Dr. Mayank Vatsa
 course: Image Analysis (Minor)
 _url: 
 projectimage: offside.png
-weight: 7
+weight: 6
 reference: http://sarthakahuja.org/public/docs/poster_offside.png
 category: Engineering
 code: https://github.com/jokereactive/Offside-Detection

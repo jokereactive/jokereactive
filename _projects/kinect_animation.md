@@ -7,7 +7,7 @@ teammembers:
 guide: Dr. Ojaswa Sharma
 course: Computer Graphics
 projectimage: kinect.png
-weight: 7
+weight: 4
 category: Engineering
 reference: http://sarthakahuja.org/public/docs/report_kinect.pdf
 code: https://github.com/jokereactive/Kinect-Driven-OpenGL-Animation

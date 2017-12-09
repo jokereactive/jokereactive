@@ -13,6 +13,9 @@ layout: default
 				<a target=_blank href="{{ edu.url }}">
 					{{ edu.institute}}
 				</a><span class="lead"> {{ edu.title }}</span>
+				{% if(edu.major) %}
+					<span class="lead">| Majored in {{ edu.major }}</span>
+				{% endif %}
 			</h2>
 		</td>
 		<td width="25%" align="center">
@@ -20,16 +23,26 @@ layout: default
 				{{edu.period}}
 			</h2>
 		</td> 
+
 	  </tr>
 	  <tr>
 		<td>
-			{% if(edu.major) %}
-				Majored in <span class="lead">{{ edu.major }}</span>
-			{% endif %}
 			<h3>
 				{{edu.marks}}
 			</h3>
 			<p>{{ edu.excerpt }}</p>
+					{% if(edu.special) %}
+          <table>
+          <tr>
+          <td width = "7%">
+          <img width = "100%"  title="highlight" src="{{site.iconsurl}}/special.png">
+          </td>
+          <td width="93%">
+          <i> {{edu.special }}</i>
+          </td>
+          </tr>
+          </table>
+        {% endif %}
 		</td>
 		<td align="center">
 			 <a target=_blank href="{{ edu.institute_url }}"><img class="logo" src="{{site.logosurl}}/{{ edu.logo }}"></a>

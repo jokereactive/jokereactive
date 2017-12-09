@@ -7,7 +7,7 @@ teammembers: Anchita Goel
 guide: Dr. Richa Singh
 course: Machine Learning
 projectimage: scene.png
-weight: 8
+weight: 10
 reference: http://sarthakahuja.org/public/docs/report_scene.pdf
 category: Engineering
 code: https://github.com/jokereactive/Scene-Recognition

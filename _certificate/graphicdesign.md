@@ -1,15 +1,12 @@
 ---
 layout: page_experience
-title: Ink.
-position: Co-Founder and Admin
-institute: IIIT-Delhi
-institute_url: http://ink.iiitd.edu.in
-_url: https://www.behance.net/ink-iiitd
-header: ink.png
-logo: ink.png
-id: ink
-weight: 4
-period: Aug'14-present
+from: Coursera
+certificate: Fundamentals of Graphic Design
+from_url: https://www.coursera.org/learn/fundamentals-of-graphic-design
+certificate_url:
+header: coursera.png
+logo: coursera.png
+weight: 1
+period: February 2016
 excerpt: 
 ---
-This page will be updated soon!

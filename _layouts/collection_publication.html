@@ -18,8 +18,21 @@ layout: default
       {% else %}
       {{ _publication.name}}
       {% endif %}<br>
+
 <span class="lead">{{_publication.submission}} | {{_publication.track}} <a href="{{_publication.conference_url}}">{{ _publication.venue }} {{_publication.year}} </a><i>({{_publication.acceptance}})</i></span>
       </h3>
+        {% if(_publication.special) %}
+          <table>
+          <tr>
+          <td width = "10%">
+          <img width = "100%"  title="highlight" src="{{site.iconsurl}}/special.png">
+          </td>
+          <td width="90%">
+          <i> {{_publication.special }}</i>
+          </td>
+          </tr>
+          </table>
+        {% endif %}
     </td> 
     </tr>
     <tr>

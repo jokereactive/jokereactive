@@ -8,7 +8,7 @@ guide: Dr. Rahul Purandre
 course: Practice of Programming
 _url: 
 projectimage: codrive.png
-weight: 7
+weight: 5
 category: Engineering
 reference: http://sarthakahuja.org/public/docs/report_codrive.pdf
 code: https://github.com/jokereactive/coDrive

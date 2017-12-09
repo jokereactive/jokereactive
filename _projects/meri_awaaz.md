@@ -7,7 +7,7 @@ teammembers: Manan Gakhar, Danish Goel, Shashank Gautam, Anchita Goel
 guide: Aditya Nayak
 _url: http://meriawaazapp.com
 projectimage: meriawaaz.png
-weight: 7
+weight: 3
 reference: 
 code: 
 database: 

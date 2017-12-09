@@ -8,7 +8,7 @@ guide: Dr. Saket Anand
 course: Computer Vision
 _url: 
 projectimage: pedestrian.png
-weight: 7
+weight: 11
 reference: http://sarthakahuja.org/public/docs/report_ped_detection.pdf
 category: Engineering
 code: https://github.com/jokereactive/PersonDetector
