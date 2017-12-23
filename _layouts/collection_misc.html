@@ -2,6 +2,10 @@
 layout: default
 ---
 <h1>{{page.title}}</h1>
+  <div align="center">
+  <img width = "50%" src="{{site.imagesurl}}/tcv_sample.png">
+  <p style="text-align: center">Birthday Woes</p>
+  </div>
 <div class="posts">
   {% assign miscellaneous = site.misc | sort:"weight" %}
   {% for misc in miscellaneous %}
@@ -17,26 +21,18 @@ layout: default
 
 		</td> 
 	  </tr>
-	  <tr>
+<!-- 	  <tr>
 		<td colspan="2" align="center">
 			 <img src="{{site.headersurl}}/{{ misc.header }}">
 		</td>
-	  </tr>
+	  </tr> -->
 	  <tr>
 		<td colspan="2">
-			<p>{{ misc.excerpt }}</p>
-      <a target="_blank" href="{{misc.link}}"><b><i>
-        Behance
-      </i></b></a> | 
-      <a target="_blank" href="{{misc.blog}}"><b><i>
-        Blog
-      </i></b></a>
+    I have always liked to sketch my ideas in the form of illustrations, and maintain some of the work I did during my Undergrad on my <b><a target="_blank" href="{{misc.link}}">behance page</a></b>. 
+    As a liesure activity, I continue to draw comics and illustrations for my <b><a target="_blank" href="{{misc.blog}}">blog</a></b>. 
 		</td>
 	   </tr>
 	</table>
-  <div align="center">
-  <img width = "60%" src="{{site.projectthumbnails}}/tcv_sample.png">
-  </div>
   </div>
   {% endfor %}
 </div>

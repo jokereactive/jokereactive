@@ -1,7 +1,7 @@
 ---
 layout: collection_misc
 title: Miscellaneous
-weight: 11
+weight: 13
 type: navigation
 permalink: /misc/
 ---

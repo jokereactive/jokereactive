@@ -9,11 +9,11 @@ course: Android Hackathon (Akosha)
 _url: https://www.facebook.com/events/238180109725571/
 projectimage: stickyagent.png
 weight: 7
-reference: https://prezi.com/xv2w-6bhmkyl/sticky-agent-akosha-hackathon/
+reference: 
 category: Side
 code: https://github.com/jokereactive/StickyAgent
 database:
-slides: 
+slides: https://prezi.com/xv2w-6bhmkyl/sticky-agent-akosha-hackathon/
 poster: 
 demo:
 special:

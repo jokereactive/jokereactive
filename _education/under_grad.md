@@ -1,6 +1,6 @@
 ---
 layout: page_education
-title: Undergraduation
+title: Bachelor of Technology
 institute: IIIT-Delhi
 institute_url: https://iiitd.ac.in
 marks: CGPA 9.1/10.0

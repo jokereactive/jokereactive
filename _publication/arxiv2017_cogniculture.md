@@ -6,11 +6,11 @@ authors: Rakesh Pimplikar, Kushal Mukherjee, Gyana Parija, Ramasuri Naraynam, Ro
 track:
 submission: Technical Article
 acceptance: Published
-_url:
+_url: https://arxiv.org/abs/1712.03724
 project_url:
 thumbnail_url: thumbnail_arxiv_cogniculture.png
 type: conference
-conference_url: 
+conference_url: https://arxiv.org/abs/1712.03724
 venue: Arxiv
 projectimage: sample.png
 weight: 1

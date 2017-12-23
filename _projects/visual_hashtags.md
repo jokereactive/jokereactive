@@ -1,24 +1,26 @@
 ---
 layout: page_project
 name: VisualHashtags
-intro: Crowd Souced Memory Sharing
+intro: Visual Summarization of Social Media Events
 teamsize: 4
-teammembers: Manan Gakhar, Danish Goel, Chaitanya Kumar
-guide: Dr. Rahul Purandre
-course: Practice of Programming
+teammembers: Sonal Goel
+guide: Dr. Ponnurangam Kumaraguru, Dr. AV Subramanyam
+course: 
 _url: 
 projectimage: visualhashtag.png
 weight: 3.5
 category: Research
-reference: http://sarthakahuja.org/public/docs/report_codrive.pdf
-code: https://github.com/jokereactive/coDrive
+reference: http://sarthakahuja.org/public/docs/paper_mm2017.pdf
+code: 
 database: 
 slides: 
 poster: 
 demo: 
 special: 
-technology: Android, Parse, Javascript, Lint, SonarQube
-period: Jan'15-May'15
+technology: 
+period: May'16-July'16
+published: VisualHashtags - Visual Summarization Of Social Media Events Using Mid-Level Visual Elements (ACM MM 2017)
+patented:
 excerpt: Additional content
 ---
 This page will be updated soon!

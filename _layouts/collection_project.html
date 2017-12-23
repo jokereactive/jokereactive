@@ -2,7 +2,6 @@
 layout: default
 ---
 <h1>{{page.title}}</h1>
-These are some of the {{page.title}} I have been a part of in the last few years - some as course projects during my undergrad. and rest independently outside coursework.
 <div class="posts">
   {% assign projects = site.projects | sort:"weight" %}
   {% for pro in projects %}
@@ -94,6 +93,12 @@ These are some of the {{page.title}} I have been a part of in the last few years
 				{% if(pro.demo) %}
 					<a href="{{ pro.demo }}" target=_blank><img class="icon" title="Demo" src="{{site.iconsurl}}/play.png"></a>
 				{% endif %}
+				{% if(pro.slides) %}
+        	<a href="{{ pro.slides }}" target=_blank><img class="icon" title="Slides" src="{{site.iconsurl}}/slides.png"></a>
+      	{% endif %}
+      	{% if(pro.poster) %}
+        	<a href="{{ pro.poster }}" target=_blank><img class="icon" title="Poster" src="{{site.iconsurl}}/poster.png"></a>
+      	{% endif %}
 				{% if(pro._url) %}
 					<a href="{{ pro._url }}" target=_blank><img class="icon" title="weblink" src="{{site.iconsurl}}/www.png"></a>
 				{% endif %}

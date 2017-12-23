@@ -6,7 +6,7 @@ teamsize:
 teammembers: 
 guide:
 course:
-_url: 
+_url: https://researcher.watson.ibm.com/researcher/view_group_subpage.php?id=7807
 projectimage: cogniculture.png
 weight: 3
 category: Research
@@ -20,6 +20,6 @@ special:
 technology:
 period: Jan'17 - present
 excerpt:
-published: Technical Report Arxiv #9872637
+published: Cogniculture - Towards a Better Human-Machine Co-evolution (arXiv:1712.03724) 
 ---
 This page will be updated soon!

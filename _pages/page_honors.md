@@ -6,7 +6,7 @@ weight: 11
 type: navigation
 ---
  - <b><a href="https://www.facebook.com/hackinout/photos/t.100000580508543/1921716201421618/?type=3&theater">Winner - Consensys Prize</a></b>, <a><b>InOut 4.0</b></a> for the Hack- <a><i>VoteChain</i></a>
- - Manager's Choice Award 2016 | Recognized for the practice - Restlessly Reinvent IBM and Ourselves
+ - Manager's Choice Award 2016 - Recognized for the practice <i>Restlessly Reinvent IBM and Ourselves</i>
  - Awarded the <a href="https://www.iiitd.ac.in/convocation16/awardees.html"><b>All Round Performance Medal</b></a> for the overall performance in curricular and extracurricular
 activities in the B.Tech. (CSE) program. 
  - <a href="https://www.facebook.com/IIITDMUN/photos/t.100000580508543/242629362753490/?type=3&theater"><b>Best Delegation award</b></a> at IIIT-Delhi’s first Model United Nations.
