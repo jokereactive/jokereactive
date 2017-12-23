@@ -10,8 +10,8 @@ layout: default
 	  <tr>
 		<td width="75%">
 			<h2>
-					{{ _certificate.certificate }}
-				<span class="lead">, <a target=_blank href="{{ _certificate.from_url }}">{{ _certificate.from }}</a></span>
+					<a target=_blank href="{{ _certificate.from_url }}">{{ _certificate.certificate }}</a>
+				<span class="lead">| {{ _certificate.from }}</span>
 			</h2>
 		</td>
 		<td width="25%" align="center">

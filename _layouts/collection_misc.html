@@ -14,9 +14,7 @@ layout: default
 			</h2>
 		</td>
 		<td width="25%" align="center">
-			<a target="_blank" href="{{misc.link}}"><b><i>
-				{{misc.link}}
-			</i></b></a>
+
 		</td> 
 	  </tr>
 	  <tr>
@@ -27,9 +25,18 @@ layout: default
 	  <tr>
 		<td colspan="2">
 			<p>{{ misc.excerpt }}</p>
+      <a target="_blank" href="{{misc.link}}"><b><i>
+        Behance
+      </i></b></a> | 
+      <a target="_blank" href="{{misc.blog}}"><b><i>
+        Blog
+      </i></b></a>
 		</td>
 	   </tr>
 	</table>
+  <div align="center">
+  <img width = "60%" src="{{site.projectthumbnails}}/tcv_sample.png">
+  </div>
   </div>
   {% endfor %}
 </div>
