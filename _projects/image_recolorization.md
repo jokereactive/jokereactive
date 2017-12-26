@@ -18,6 +18,6 @@ poster:
 special:
 technology: Arduino, IR & Ultrasonic Sensors
 period: Apr'14-Aug'14
-excerpt: As a part of my Major Project in my Image Analysis Course I along with my fellow team member, implemented and analysed the performance of Chrominance Blending Technique proposed by Liron Yatziv and Guillermo Sapiro in their paper on the same as compared to other Algorithm.
+excerpt: As a part of our Major Project in my Image Analysis Course our team, implemented and analysed the performance of Chrominance Blending Technique proposed by Liron Yatziv and Guillermo Sapiro in their paper on the same as compared to other Algorithm.
 ---
 This page will be updated soon!

@@ -17,7 +17,7 @@ slides:
 poster: 
 demo: 
 special: 
-technology: AnyLogic, Java
+technology: AnyLogic, Java, SOAR, Sequential Decision Making
 period: Jan'17-Present
 excerpt: 
 published: 

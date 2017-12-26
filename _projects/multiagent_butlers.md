@@ -16,7 +16,7 @@ demo:
 slides: 
 poster: 
 special:
-technology: Java AWT
+technology: Java AWT, Java Graphix, Multi-Agent A Star, 
 period: Aug'15-Dec'15
 excerpt: 
 ---

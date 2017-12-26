@@ -17,7 +17,7 @@ slides:
 poster: 
 demo: http://sarthakahuja.org/public/apps/DD.apk
 special:
-technology: Matlab, Speech Signal Processing, SVM
+technology: Matlab, Speech Signal Processing, Supervised Learning
 period: Jan'15-May'15
 excerpt: Detect gender of the speaker based on various features like MFCC, pitch, short-time energy, energy entropy, zero-crossing rate and spectral centroid. We also implemented an android application to detect gender based on the pitch of a person's voice. Uses different kinds of filters (mean, median, mode). The former uses a machine learning approach while the latter is a more direct and naive approach. 
 ---

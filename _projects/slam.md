@@ -16,7 +16,7 @@ poster:
 database: 
 demo: 
 special: 
-technology: Matlab, ROS, C++, Visual Studio, Lie Groups, Computer Vision
+technology: Matlab, ROS, C++, Visual Studio, Lie Algebra, Pose Estimation, Visual Odometry, Structure From Motion, Bundle Adjustment
 period: Jan'15-present
 excerpt: Project aimed at finding a novel way to deal with the challenges of pose estimation in egocentric videos like frequent head movement and moving objects.
 ---

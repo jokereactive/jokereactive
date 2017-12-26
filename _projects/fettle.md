@@ -1,24 +1,24 @@
 ---
 layout: page_project
 name: Fettle
-intro: Crowd Souced Memory Sharing
-teamsize: 4
-teammembers: Manan Gakhar, Danish Goel, Chaitanya Kumar
-guide: Dr. Rahul Purandre
-course: Practice of Programming
+intro: Human Centric Development
+teamsize: 6
+teammembers: Saumya Jain, Aditi Mithal, Manan Gakhar, Danish Goel, Sumit Keswani
+guide: Dr. Ponnurangam Kumaraguru
+course: Designing Human Centered Systems
 _url: 
 projectimage: fettle.png
 weight: 2
 category: Engineering
-reference: http://sarthakahuja.org/public/docs/report_codrive.pdf
-code: https://github.com/jokereactive/coDrive
+reference: http://sarthakahuja.org/public/docs/report_fettle.pdf
+code: https://github.com/thecoldviews/Fettle
 database: 
 slides: 
 poster: 
 demo: 
 special: 
-technology: Android, Parse, Javascript, Lint, SonarQube
-period: Jan'15-May'15
+technology: Android, User Interviews, Affinity Diagrams, High/Low Fidility Prototyping, Design Principles
+period: Jan'16-May'16
 excerpt: Additional content
 ---
 This page will be updated soon!

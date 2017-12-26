@@ -10,6 +10,6 @@ logo: ibm.jpg
 weight: 0.1
 period: May'15-present
 special: Manager's Choice Award 2016 
-excerpt: Currently a member of IIIT-Delhi’s core team participating in the "Rise the Spark" Driverless Challenge by Mahindra. We are a mix of faculty and students from IIIT-Delhi, who together have expertise in vision, robotics, embedded systems, sensing, and communications. While we pursue research in our areas of expertise, we make a conscious effort to put our findings to work in the practical world. Our ultimate goal is to launch autonomous shuttles that provide anytime last mile connectivity in Indian cities. I led a team of 2 and designed the Test Bench and Perception Module in ROS/C++. Delivered workshop on ROS, Git and C++ to ~40 interns during the summer of 2015. 
+excerpt: I currently hold the position of Research Software Engineer at IBM Research, working in the Collaborative Cognition (earlier known as the Analytics and Optimization) group at the Delhi office. My current area of work includes building the cognitive platform IBM Watson Recruitment under Watson Talent Management. As a part of the Collaborative Cognition agenda I work on extending Collaborative Decision Making to the recruitment domain.
 ---
 This page will be updated soon!

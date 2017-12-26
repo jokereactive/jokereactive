@@ -9,6 +9,6 @@ header: lava.jpg
 logo: lava.jpg
 weight: 5
 period: May'14-Jul'14
-excerpt: Co-op at the IT Department of Lava International working on and handling Tertiary Systems. Worked as a SAP ABAP Trainee in the Technical Team. Part of the team designing the call center system.
+excerpt: Co-op at the IT Department of Lava International working on building Tertiary Systems as a SAP ABAP Trainee in the Technical Team.
 ---
 This page will be updated soon!

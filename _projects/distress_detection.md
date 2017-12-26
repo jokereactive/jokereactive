@@ -11,20 +11,60 @@ _url:
 weight: 5
 id: distressdetection
 images:
- - image_id: image1.PNG
- - image_id: image2.PNG
 reference: http://sarthakahuja.org/public/docs/report_dd.pdf
 code: 
-slides: 
+slides: slides_dd.pdf
 poster: 
 category: Research
-database: 
+database: https://www.iiitd.edu.in/~anils/taslp/taslp_distress_detection.html
 demo: 
 special: First Prize, Best Demo, Research Showcase'14, IIIT-Delhi
 technology: Machine Learning, Android, PHP, Matlab, Signal Processing
 period: Aug'14-present
 excerpt: In this project we used audio data to detect distress in the ambient surroundings (Screams) by using trained SVMs. I worked on this project for a year and coded multiple implementations, on android and matlab. I implemented various additional features such as silence removal and spectral-feature computation. I also implemented the dashboard used to monitor the entire system in real time and push our updated application to volunteer devices. 
 ---
-In this project we used audio data to detect distress in the ambient surroundings (Screams) by using trained SVMs. I worked on this project for a year and coded multiple implementations, on android and matlab. My work also involved testing the algorithm performance, collecting data, testing classifiers and designing the monitoring dashboard. Our proposed system leverages the microphone sensor of a smartphone that continuously listens to the environmental context audio. The accuracy of audio based systems drop in the presence of environmental noise. We use Mel-Frequency Cepstral Coefficients (MFCC) and spectral features to represent the features of the distress and other context audio samples. We proposed a multi-stage supervised learning framework that is trained to detect screaming and crying, which are known vocal expression of fear circumstance. The learning framework contains Scream Detection and Environment Rejection algorithms that use Support Vector Machines (SVM) which are tuned to achieve high confidence of distress in the test audio. 
+We investigate an unobtrusive and 24×7 human distress detection
+and signaling system, <b>Always Alert</b>, that requires
+the smartphone, and not its human owner, to be on alert.
+The system leverages the microphone sensor, at least one of
+which is available on every phone, and assumes the availability
+of a data network. We propose a novel two-stage supervised
+learning framework, using support vector machines
+(SVMs), that executes on a user’s smartphone and monitors
+natural vocal expressions of fear — screaming and crying in
+our study — when a human being is in harm’s way. The challenge
+is to achieve a high distress detection rate while ensuring
+that the false alarm rate is a manageable overhead, while
+a typical smartphone user goes about living life as usual. We
+train the learning framework with carefully selected audio
+fingerprints of distress and of varied environmental contexts.
+The audio is used to tune the learning framework to obtain a
+desirable distress detection rate and false alarm rate (FAR).
+The ability of the proposed framework to detect distress in
+rather challenging audio environments is demonstrated. 
 
-We demonstrated the effect of various environmental context on distress detection at different SNR(s). Our framework adapts itself to a context to achieve a desirable detection rate and False Alarm Rate (FAR) trade-off using different point(s) of operation. We also proposed two adaptive ‘point of operation’ selection techniques to select best point of operation in real-time. The accuracy gets affected due to both false alarms from environment context audio and also when SNR of the distress signal is low. To evaluate our algorithm we had volunteers use our application for a month and provide us real time data which was monitored on the dashboard I designed. We also made our own application update system to push the updated application to all volunteers. We achieved an accuracy of 93.1% with an error rate of less than 1.5%. It all culminated in us winning the ‘Elevator Pitch” competition for the Best Poster and Demo at the Research Showcase’15 (IIIT-Delhi). 
+I worked on this project for a year and coded multiple implementations, on android and matlab. My work also involved testing the algorithm performance, collecting data, testing classifiers and designing the monitoring dashboard. 
+
+<img src="{{ site.projectimagesurl }}/distressdetection/app_sample.png">
+
+We demonstrated the impact of environmental context on the detection rate and False Alarm Rate (FAR) trade-off using different point(s) of operation and made the system adaptive to these contexts through environment rejection. We also perform a detailed assesment of the power consumption of the application and optimize the application to run for longer periods through selective classification.
+Our analysis is based on a user study conducted on 16 volunteers(250hrs data). We monitored the data collection through our dashboard and also identified large-scale and recurring distress patters through clustering and rule-mining. 
+
+<div class="w3-content w3-display-container">
+  <img class="mySlides" src="{{ site.projectimagesurl }}/distressdetection/screen1.png" style="width:100%">
+  <img class="mySlides" src="{{ site.projectimagesurl }}/distressdetection/screen2.png" style="width:100%">
+  <img class="mySlides" src="{{ site.projectimagesurl }}/distressdetection/screen3.png" style="width:100%">
+</div>
+<br>
+Our final implementation achieved an accuracy of 93% with an error rate of 1.5%. Exploiting
+the time contiguous nature of false alarms further
+allows us to reduce the FAR. We show the feasibility of using
+our framework anytime and anywhere by testing it over
+many hours of audio fingerprints recorded by volunteers on
+their smartphones, as they went about their daily routines.
+We are able to achieve high distress detection rates at an average
+overhead that is equivalent to about 1 facebook post
+every 3 to 4 hours. 
+
+
+

@@ -2,7 +2,7 @@
 layout: page_project
 name: VisualHashtags
 intro: Visual Summarization of Social Media Events
-teamsize: 4
+teamsize: 2
 teammembers: Sonal Goel
 guide: Dr. Ponnurangam Kumaraguru, Dr. AV Subramanyam
 course: 
@@ -17,7 +17,7 @@ slides:
 poster: 
 demo: 
 special: 
-technology: 
+technology: Matlab, Discriminative Learning, Object Recognition, Filtering Social Media Datasets
 period: May'16-July'16
 published: VisualHashtags - Visual Summarization Of Social Media Events Using Mid-Level Visual Elements (ACM MM 2017)
 patented:

@@ -2,10 +2,10 @@
 layout: page_project
 name: IBM Watson Recruitment
 intro: Talent Management
-teamsize:
-teammembers:
+teamsize: 7
+teammembers: Joydeep Mondal, Sudhanshu Shekhar Singh, Ritwik Chaudhuri, Manish Kataria, Kushal Mukherjee, Gyana Parija
 guide:
-course: Practice of Programming
+course:
 _url: https://www.ibm.com/watson/talent/recruitment/
 projectimage: iwr.png
 weight: 1

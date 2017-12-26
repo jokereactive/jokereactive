@@ -76,6 +76,12 @@ img[alt="soberCV"] {
 	width: 10%;
 	display:inline;
 }
+
+.smallicon{
+  width: 7%;
+  display:inline;
+}
+
 .circle-img{
     border-radius:50%;
     padding: 0.5em;
