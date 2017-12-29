@@ -3,12 +3,10 @@ layout: default
 ---
 <h1>{{page.title}}</h1>
 <div class="row">
-		    <div id="slideshow">
-			   {% for image in page.images %}
-						    <div><img src="{{site.imagesurl}}/workimages/{{page.id}}/{{image.image_id}}" alt="e1" /></div>
-
-			      {% endfor %}
-			</div>
+		    <div align="center">
+  <img width="70%" src="{{site.experiencesurl}}/{{page.coverpath}}">
+  <p style="text-align:center">{{page.covercaption}}</p>
+ </div>
 </div>
 <div class="row">
     	{{content}}

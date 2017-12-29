@@ -8,8 +8,10 @@ _url: https://www.facebook.com/swarathatiiitd?fref=ts
 header: iiitd.jpg
 logo: ibm.jpg
 weight: 0.1
-period: May'15-present
+period: July'16-present
 special: Manager's Choice Award 2016 
-excerpt: I currently hold the position of Research Software Engineer at IBM Research, working in the Collaborative Cognition (earlier known as the Analytics and Optimization) group at the Delhi office. My current area of work includes building the cognitive platform IBM Watson Recruitment under Watson Talent Management. As a part of the Collaborative Cognition agenda I work on extending Collaborative Decision Making to the recruitment domain.
+excerpt: 
+coverpath: ibm_research/cover.png
+covercaption: Analytics and Optimization Group, IBM India Research Laboratory
 ---
-This page will be updated soon!
+I currently hold the position of Research Software Engineer at IBM Research, working in the Collaborative Cognition (earlier known as the Analytics and Optimization) group at the Delhi office. My current area of work includes building the cognitive platform IBM Watson Recruitment under Watson Talent Management. I also work on extending Collaborative Decision Making to the recruitment domain.

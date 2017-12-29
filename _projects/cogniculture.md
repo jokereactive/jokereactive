@@ -20,6 +20,7 @@ special:
 technology:
 period: Jan'17 - present
 excerpt:
-published: Cogniculture - Towards a Better Human-Machine Co-evolution (arXiv:1712.03724) 
+published: Cogniculture, Towards a Better Human-Machine Co-evolution (arXiv:1712.03724) 
+patented: Cogniculture based Eco-System for Multi-Viewer Smart TVs <br> App-lause, VR based Cultural Audience Simulation for Immersive Rehearsals
 ---
 This page will be updated soon!

@@ -1,8 +1,8 @@
 ---
 layout: page_publication
 name: System and Method to produce Generalized Representation of Job Description Documents and Calculate Similarity using the Representation in Recruitment Domain
-authors: Sudhanshu Singh, Gyana Ranjan Parija, Ritwik Chaudhuri, Manu Kuchhal, Sarthak Ahuja, Ritwik Chaudhari, Manish Kataria
-acceptance: Awaiting File
+authors: Joydeep Mondal, Sudhanshu Singh, Sarthak Ahuja, John Medicke, George David, Medicke John, Amanda Klabzuba
+acceptance: Patent Pending
 _url: #
 id_num: XX
 project_url:

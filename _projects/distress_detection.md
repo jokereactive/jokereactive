@@ -18,7 +18,7 @@ poster:
 category: Research
 database: https://www.iiitd.edu.in/~anils/taslp/taslp_distress_detection.html
 demo: 
-special: First Prize, Best Demo, Research Showcase'14, IIIT-Delhi
+special: Best Demo, Research Showcase'14, IIIT-Delhi
 technology: Machine Learning, Android, PHP, Matlab, Signal Processing
 period: Aug'14-present
 excerpt: In this project we used audio data to detect distress in the ambient surroundings (Screams) by using trained SVMs. I worked on this project for a year and coded multiple implementations, on android and matlab. I implemented various additional features such as silence removal and spectral-feature computation. I also implemented the dashboard used to monitor the entire system in real time and push our updated application to volunteer devices. 

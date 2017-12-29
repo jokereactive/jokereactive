@@ -4,7 +4,7 @@ name: SIdeal, System and Method for Attribute Weight Induction in a Multiple Rec
 authors: Sudhanshu Singh, Gyana Ranjan Parija, Ritwik Chaudhuri, Manu Kuchhal, Sarthak Ahuja, Ritwik Chaudhari, Manish Kataria
 acceptance: Patent Pending
 _url: #
-id_num: 90032932
+id_num: XX
 project_url:
 thumbnail_url: thumbnail_blank.png
 type: conference

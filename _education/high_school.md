@@ -7,7 +7,7 @@ marks: CGPA 10.0/10.0
 header: apeejay.png
 logo: apeejay.png
 weight: 3
-period: 2009-10
+period: 2006-10
 excerpt: 
-special:
+special: Recognized by the Central Board of Secondary Education for graduating with a perfect GPA
 ---

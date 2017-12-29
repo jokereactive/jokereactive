@@ -58,6 +58,8 @@ iconsurl: 		  /assets/images/icons
 paperthumbnails: /assets/images/paperthumbnails
 projectthumbnails: /assets/images/projectthumbnails
 patentthumbnails: /assets/images/patentthumbnails
+educationsurl: /assets/images/educationimages
+experiencesurl: /assets/images/experienceimages
 docsurl: 		  /public/docs
 behance:      https://www.behance.net/thecoldviews
 twitter:		  https://twitter.com/thecoldviews

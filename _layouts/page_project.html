@@ -51,6 +51,16 @@ layout: default
           </tr>
           </table>
         {% endif %}
+
+                {% if(page.published) %}
+          <font color="#edc436"><b>Associated Publication(s):</b></font> <br> <a href="/publication"><span class="lead">{{page.published}}</span></a>
+          <br>
+        {% endif %}
+
+        {% if(page.patented) %}
+          <font color="#edc436"><b>Associated Patent(s):</b></font> <br> <a href="/patent"><span class="lead">{{page.patented}}</span></a>
+          <br>
+        {% endif %}
 				
 		</td> 
 	  </tr>
@@ -79,6 +89,7 @@ layout: default
 				{% if(page._url) %}
 					<a href="{{ page._url }}" target=_blank><img class="smallicon" title="weblink/facebook" src="{{site.iconsurl}}/www.png"></a>
 				{% endif %}
+
 	</div>
 <div class="row">
     	{{content}}

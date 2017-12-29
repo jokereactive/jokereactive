@@ -2,6 +2,11 @@
 layout: default
 ---
 <h1>{{page.title}}</h1>
+<div align="center">
+  <img width="80%" src="{{site.imagesurl}}/administratives.jpg">
+  <p style="text-align:center">Ink. - Design Club, IIIT-Delhi</p>
+ </div>
+
 <div class="posts">
   {% assign administrative = site.administrative | sort:"weight" %}
   {% for _administrative in administrative %}
@@ -10,9 +15,9 @@ layout: default
     <tr>
     <td width="75%">
       <h2>
-        <a href="{{ _administrative.url }}">
+        <!-- <a href="{{ _administrative.url }}"> -->
           {{ _administrative.position}}
-        </a><span class="lead">, {{ _administrative.title }}</span>
+        <!-- </a> --><span class="lead">, {{ _administrative.title }}</span>
       </h2>
       <table>
         <tr>

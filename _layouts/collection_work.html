@@ -2,6 +2,10 @@
 layout: default
 ---
 <h1>{{page.title}}</h1>
+<div align="center">
+  <img width="70%" src="{{site.imagesurl}}/experience.JPG">
+  <p style="text-align:center">Team Swarath - Autonomous Car Project IIIT-Delhi, 2015</p>
+ </div>
 <div class="posts">
   {% assign work = site.work | sort:"weight" %}
   {% for _work in work %}
@@ -38,7 +42,7 @@ layout: default
           </tr>
           </table>
         {% endif %}
-			<p>{{ _work.excerpt }}</p>
+			<p>{{ _work.content }}</p>
 			<!--[<a href="{{ _work.url }}">learn more</a>]-->
 		</td>
 		<td align="center">
