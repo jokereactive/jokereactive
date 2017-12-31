@@ -9,6 +9,8 @@ header: aiesec.png
 logo: aiesec.png
 weight: 4
 period: Aug'13-Apr'14
-excerpt: Worked as Team Leader in the CIM Department. Organized youth conferences and events. Handled their websites, wikis, business intelligence reports and designs.
+excerpt: 
 ---
-This page will be updated soon!
+ - Worked as a Team Leader at a youth organization aimed at providing young people with leadership
+development through cross-cultural internships.
+ - 

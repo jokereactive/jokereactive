@@ -2,10 +2,10 @@
 layout: default
 ---
 <h1>{{page.title}}</h1>
-<div align="center">
+<!-- <div align="center">
   <img width="70%" src="{{site.imagesurl}}/education.JPG">
   <p style="text-align:center">IIIT-Delhi Convocation August, 2016</p>
- </div>
+ </div> -->
 <div class="posts">
   {% assign education = site.education | sort:"weight" %}
   {% for edu in education %}
@@ -14,9 +14,9 @@ layout: default
 	  <tr>
 		<td width="75%">
 			<h2>
-				<!-- <a target=_blank href="{{ edu.url }}"> -->
+				<a href="{{ edu.url }}">
 					{{ edu.title }}
-				<!-- </a> --><span class="lead"> {{ edu.institute}}</span>
+				</a><span class="lead"> {{ edu.institute}}</span>
 				{% if(edu.major) %}
 					<span class="lead">| Majored in {{ edu.major }}</span>
 				{% endif %}
@@ -32,7 +32,7 @@ layout: default
 	  <tr>
 		<td>
 			<p>{{ edu.excerpt }}</p>
-					{% if(edu.special) %}
+<!-- 					{% if(edu.special) %}
           <table>
           <tr>
           <td width = "7%">
@@ -43,10 +43,10 @@ layout: default
           </td>
           </tr>
           </table>
-        {% endif %}
-<!--               <h4>
+        {% endif %} -->
+              <h4>
         {{edu.marks}}
-      </h4> -->
+      </h4>
 		</td>
 		<td align="center">
 			 <a target=_blank href="{{ edu.institute_url }}"><img class="logo" src="{{site.logosurl}}/{{ edu.logo }}"></a>

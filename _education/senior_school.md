@@ -9,5 +9,13 @@ header: apeejay.png
 logo: apeejay.png
 weight: 2
 period: 2010-12
-excerpt:
+excerpt: Secondary Secondary School (Class Twelfth)
 ---
+
+Courses Taken - 
+
+ - Physics
+ - Chemistry
+ - Mathematics
+ - Computer Science
+ - English

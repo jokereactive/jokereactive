@@ -13,4 +13,6 @@ excerpt:
 coverpath: precog/cover.png
 covercaption: Precog Research, Summer 2016
 ---
-Currently a member of IIIT-Delhi’s core team participating in the "Rise the Spark" Driverless Challenge by Mahindra. We are a mix of faculty and students from IIIT-Delhi, who together have expertise in vision, robotics, embedded systems, sensing, and communications. While we pursue research in our areas of expertise, we make a conscious effort to put our findings to work in the practical world. Our ultimate goal is to launch autonomous shuttles that provide anytime last mile connectivity in Indian cities. I led a team of 2 and designed the Test Bench and Perception Module in ROS/C++. Delivered workshop on ROS, Git and C++ to ~40 interns during the summer of 2015. 
+- I worked as a RA at IIIT-Delhi's social media analytics research lab, <a href="http://precog.iiitd.edu.in/index.php">PreCog</a>.
+- During my stay I explored visual summarization of events on social media in the form of image patches alongside <a href="https://www.iiitd.ac.in/pk">Dr. Ponnurangam Kumaraguru</a> and <a href="https://www.iiitd.ac.in/subramanyam">Dr. AV Subramnyam</a>. 
+- I simultaneously worked on a development project, adding multi-network support to <a href="http://aasma.precog.iiitd.edu.in/">Project-O</a>, a production level social media analytics platform.

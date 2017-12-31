@@ -2,7 +2,7 @@
 layout: page_publication
 name: Cogniculture- Towards a better Human-Machine Co-evolution
 type: paper
-authors: Rakesh Pimplikar, Kushal Mukherjee, Gyana Parija, Ramasuri Naraynam, Rohith Vallam, Harith Vishvakarma, Ritwik Chaudhuri, Sarthak Ahuja, Joydeep Mondal, Manish Kataria
+authors: Rakesh Pimplikar, Kushal Mukherjee, Gyana Parija, Ramasuri Naraynam, Rohith Vallam, Harith Vishvakarma, Sarthak Ahuja, Ritwik Chaudhuri, Joydeep Mondal, Manish Kataria
 track:
 submission: Technical Article
 acceptance: Published
