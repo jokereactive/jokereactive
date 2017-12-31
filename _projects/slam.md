@@ -11,7 +11,7 @@ weight: 4
 reference: 
 category: Research
 code: 
-slides: 
+slides: http://sarthakahuja.org/public/docs/slides_btp.pdf
 poster: 
 database: 
 demo: 

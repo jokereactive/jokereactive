@@ -13,7 +13,7 @@ category: Research
 reference: http://sarthakahuja.org/public/docs/paper_mm2017.pdf
 code: 
 database: 
-slides: 
+slides: http://sarthakahuja.org/public/docs/slides_mm2017.pptx
 poster: 
 demo: 
 special: 
