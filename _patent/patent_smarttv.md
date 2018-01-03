@@ -6,7 +6,7 @@ acceptance: Awaiting File
 _url: #
 id_num: XX
 project_url:
-thumbnail_url: thumbnail_blank.png
+thumbnail_url: p3.jpg
 type: conference
 google_url: 
 venue: US
@@ -18,6 +18,6 @@ database:
 demo: 
 special: 
 year: 2017
-excerpt: Additional content
+excerpt: 
 ---
 This page will be updated soon!

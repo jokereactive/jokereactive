@@ -6,7 +6,7 @@ acceptance: Awaiting File
 _url: #
 id_num: XX
 project_url:
-thumbnail_url: thumbnail_blank.png
+thumbnail_url: p4.jpg
 type: conference
 google_url: 
 venue: US

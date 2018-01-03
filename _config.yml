@@ -49,7 +49,7 @@ title:            Sarthak Ahuja
 tagline:          'Personal Website'
 description:      'If you change the way you look at things, the things you look at change.'
 url:              http://sarthakahuja.org
-baseurl:          http://sarthakahuja.org/
+baseurl:          /
 imagesurl:		  /assets/images
 logosurl:		  /assets/images/logos
 headersurl:		  /assets/images/headers

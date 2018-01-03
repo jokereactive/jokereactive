@@ -6,7 +6,7 @@ acceptance: Patent Pending
 _url: #
 id_num: XX
 project_url:
-thumbnail_url: thumbnail_blank.png
+thumbnail_url: p1.jpg
 type: conference
 google_url: 
 venue: US
@@ -20,4 +20,3 @@ special:
 year: 2017
 excerpt: Additional content
 ---
-This page will be updated soon!
