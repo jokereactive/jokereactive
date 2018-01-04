@@ -1,7 +1,7 @@
 ---
 layout: page_project
 name: Multi-Sensor Data Fusion for Human Activity Recognization
-intro: Machine Learning
+intro: 
 teamsize: 2
 teammembers: Anchita Goel
 guide: Dr. Richa Singh
@@ -18,6 +18,29 @@ poster:
 special: First Prize, Technical Paper Presentation, Cogenesis 2016, Delhi Technological University
 technology: Matlab, OpenCV, Optical Flow, Signal Processing, Data Fusion
 period: Aug'15-Dec'15
-excerpt: As of today the state-of-the-art architecture for Human activity detection is found in two different domains. One is where wearable sensors like accelerometers, gyrometers mounted on smartphones and smartwatches are used and other where egocentric cameras are used. The use of egocentric cameras on human activity detection has just cropped up. We here perform data fusion between these two domains in an attempt to improve the performance of the existing architecture. Access to our database is available on request.
+excerpt: 
 ---
-This page will be updated soon!
+Human activity recognition is a well known area of
+research in pervasive computing, which involves detecting activity
+of an individual by using various types of sensors. This finds great
+utility in the context of human-centric problems in the real world
+not only for purposes of tracking ones daily activities but also in
+monitoring activities of others - like the elderly, patrol officers,
+etc for purposes of health-care and security. With the growth of
+interest in AI, such a system can provide useful information to
+make the agent much more intelligent and aware about the user,
+thus giving a more personalized experience. Several technologies
+have been used to get estimates of a person’s activity like sensors
+found in smartphones(accelerometer, gyroscope, magnetometer
+etc.), egocentric cameras, other wearable sensors to measure vital
+signs like heart rate, respiration rate and skin temperature (apart
+from the same data provided by smartphones), worn on different
+parts of the body like chest, wrist, ankles, environment sensors to
+measure humidity, audio level, temperature etc. The activities that
+can be recognised are daily activities like walking, lying down,
+sitting, standing, running, travelling. However, to the best of our
+knowledge we have come across no work where a fusion of these
+sensors and egocentric cameras has been put to use. In this paper
+we explore the suggested fusion of sensors and share the results
+obtained. Our fusion approach shows significant improvement
+over using both the chosen sensors independently.

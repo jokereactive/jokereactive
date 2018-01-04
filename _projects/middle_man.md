@@ -5,7 +5,7 @@ intro: Hack InOut 2016
 teamsize: 2
 teammembers: Danish Goel
 guide:
-_url: http://graphics.iiitd.edu.in/virtualcampus/
+_url: https://devpost.com/software/middleman
 projectimage: middleman.png
 weight: 2
 reference: 
@@ -20,4 +20,5 @@ technology: Android, OpenCV, Face Recognition, Text Completion, Haven OnDemand A
 period: October'16
 excerpt: 
 ---
-This page will be updated soon!
+Middleman aids the text communication you have with anyone by acting as middle filter. 
+We build a texting application as a bot with access to the front camera which can see the user type and based on his/her emotional state (in our case binary - good/bad mood) gather enough context to make it's text predictions smarter. 

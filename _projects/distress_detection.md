@@ -21,7 +21,7 @@ demo:
 special: Best Demo, Research Showcase'14, IIIT-Delhi
 technology: Machine Learning, Android, PHP, Matlab, Signal Processing
 period: Aug'14-present
-excerpt: In this project we used audio data to detect distress in the ambient surroundings (Screams) by using trained SVMs. I worked on this project for a year and coded multiple implementations, on android and matlab. I implemented various additional features such as silence removal and spectral-feature computation. I also implemented the dashboard used to monitor the entire system in real time and push our updated application to volunteer devices. 
+excerpt: We investigate an unobtrusive and 24×7 human distress detection and signaling system, Always Alert, that requires the smartphone, and not its human owner, to be on alert. The system leverages the microphone sensor, at least one of which is available on every phone, and assumes the availability of a data network. We propose a novel two-stage supervised learning framework, using support vector machines (SVMs), that executes on a user’s smartphone and monitors natural vocal expressions of fear — screaming and crying in our study — when a human being is in harm’s way.
 ---
 We investigate an unobtrusive and 24×7 human distress detection
 and signaling system, <b>Always Alert</b>, that requires

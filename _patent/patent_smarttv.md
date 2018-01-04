@@ -20,4 +20,4 @@ special:
 year: 2017
 excerpt: 
 ---
-This page will be updated soon!
+The main novelty of our system is a decentralized agent based architecture for the complete TV show recommendation and watching experience in both a multi-user and single-user setting. Each agent is allowed to have it’s own unique method to compute recommendations for it's assigned user. We detail an ecosystem and define it's rules, where these agents can autonomously collaborate and generate these recommendations.

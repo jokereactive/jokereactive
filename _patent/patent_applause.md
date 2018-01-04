@@ -20,4 +20,4 @@ special:
 year: 2017
 excerpt: Additional content
 ---
-This page will be updated soon!
+We disclose a system and associated methods for simulating a relevant audience for an activity in context and provide feedback in the form of stimuli on a person’s performance sensed by input sensors based on cultural metrics. These cultural aspects are assumed to be specific to the place of performance and are mined from online resources specific to the region.

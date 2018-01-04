@@ -63,13 +63,24 @@ layout: default
 				{% endif %}
 
 				{% if(pro.published) %}
-					<font color="#edc436"><b>Associated Publication(s):</b></font> <br> <a href="/publication"><span class="lead">{{pro.published}}</span></a>
-					<br>
+					<font color="#edc436"><b>Associated Publication(s):</b></font> <br> 
+					<ul>
+					{% for pub in pro.published %}
+						<li><a href="/publication"><span class="lead">{{pub}}</span></a></li>
+					
+					{% endfor %}
+					</ul>
 				{% endif %}
 
 				{% if(pro.patented) %}
-					<font color="#edc436"><b>Associated Patent(s):</b></font> <br> <a href="/patent"><span class="lead">{{pro.patented}}</span></a>
-					<br>
+					<font color="#edc436"><b>Associated Patent(s):</b></font> <br> 
+
+					<ul>
+					{% for pat in pro.patented %}
+						<li><a href="/patent"><span class="lead">{{pat}}</span></a></li>
+					
+					{% endfor %}
+					</ul>
 				{% endif %}
 				<p>{{ pro.excerpt }}</p>
 			</td>

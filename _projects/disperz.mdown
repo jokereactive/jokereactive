@@ -17,7 +17,8 @@ database:
 demo: 
 special:
 technology: Android, Javascript
-period: May'14-July'14
-excerpt: Designing a photorealistic 3D Model of the IIIT-Delhi Campus for a project focused on using it as a basis for efficient automated 3D Scanning and Modelling of buildings.
+period: March'16
+excerpt: 
 ---
-This page will be updated soon!
+Efficient dispersal system for public monuments, with QR code check-in system. 
+Enables visitors to have an optimised guided tour by controlling the crowd density using their smartphones. 

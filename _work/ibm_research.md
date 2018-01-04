@@ -17,7 +17,7 @@ covercaption: Analytics and Optimization Group, IBM India Research Laboratory
 
  - I hold the position of <a href="http://researcher.watson.ibm.com/researcher/view.php?person=in-sarahuja">Research Software Engineer</a> at <a href="http://research.ibm.com/">IBM Research, New Delhi</a>, 
 working in the <a href="http://researcher.watson.ibm.com/researcher/view_group.php?id=7806">Collaborative Cognition</a> (earlier known as the Analytics and Optimization) 
-group at the Delhi office. 
+group at the Delhi office under <a href="http://researcher.watson.ibm.com/researcher/view.php?person=in-gyana.parija">Dr. Gyana Parija</a>. 
  - My job role includes building 
 the machine learning component of the cognitive platform <a href="https://www.ibm.com/talent-management/hr-solutions/recruiting-software">IBM Watson Recruitment</a> under Watson Talent Management. 
  - I also explore the idea of decentralized collective intelligence in the recruitment domain through cognitive agent modeling of stakeholders to accomodate their diverse definitions of a successful candidate. 

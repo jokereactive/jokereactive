@@ -13,7 +13,7 @@ type: conference
 conference_url: https://arxiv.org/abs/1712.03724
 venue: Arxiv
 projectimage: sample.png
-weight: 1
+weight: 9
 reference: http://sarthakahuja.org/public/docs/paper_cogniculture.pdf
 code:
 database: 
@@ -24,4 +24,19 @@ special:
 year: 2017
 excerpt: Additional content
 ---
-This page will be updated soon!
+Research in Artificial Intelligence is breaking technology barriers
+every day. New algorithms and high performance computing
+are making things possible which we could only have
+imagined earlier. People in AI community have diverse set of opinions regarding the
+pros and cons of AI mimicking human behavior. Instead of
+worrying about AI advancements, we propose a novel idea
+of cognitive agents, including both human and machines, living
+together in a complex adaptive ecosystem, collaborating
+on human computation for producing essential social goods
+while promoting sustenance, survival and evolution of the
+agents’ life cycle. We highlight several research challenges
+and technology barriers in achieving this goal. We propose a
+governance mechanism around this ecosystem to ensure ethical
+behaviors of all cognitive agents. Along with a novel set
+of use-cases of <i>Cogniculture</i>, we discuss the road map ahead
+for this journey.

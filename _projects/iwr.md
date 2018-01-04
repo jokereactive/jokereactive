@@ -20,7 +20,11 @@ special:
 technology: PySpark, Hadoop, Kafka, Cloudant, ObjectStore, Theano, LSTM
 period: July'16-Present
 excerpt: Additional content
-published: Multi Level Clustering Technique Leveraging Expert Insight (JSM 2017) <br> Similarity Computation Exploiting The Semantic And Syntactic Inherent Structure Among Job Titles (ICSOC 2017)
-patented: SIdeal - System and Method for Attribute Weight Induction in a Multiple Recruiter Setting Exploiting Public Goods Games Framework <br> System and Method to produce Generalized Representation of Job Description Documents and Calculate Similarity using the Representation in Recruitment Domain
+published: 
+ - Multi Level Clustering Technique Leveraging Expert Insight (JSM 2017)
+ - Similarity Computation Exploiting The Semantic And Syntactic Inherent Structure Among Job Titles (ICSOC 2017)
+patented: 
+ - SIdeal - System and Method for Attribute Weight Induction in a Multiple Recruiter Setting Exploiting Public Goods Games Framework
+ - System and Method to produce Generalized Representation of Job Description Documents and Calculate Similarity using the Representation in Recruitment Domain
 ---
 This page will be updated soon!
