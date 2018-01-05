@@ -23,7 +23,7 @@ excerpt:
 Human activity recognition is a well known area of
 research in pervasive computing, which involves detecting activity
 of an individual by using various types of sensors. This finds great
-utility in the context of human-centric problems in the real world
+utility in the context of human-centric problems
 not only for purposes of tracking ones daily activities but also in
 monitoring activities of others - like the elderly, patrol officers,
 etc for purposes of health-care and security. With the growth of
@@ -36,9 +36,7 @@ etc.), egocentric cameras, other wearable sensors to measure vital
 signs like heart rate, respiration rate and skin temperature (apart
 from the same data provided by smartphones), worn on different
 parts of the body like chest, wrist, ankles, environment sensors to
-measure humidity, audio level, temperature etc. The activities that
-can be recognised are daily activities like walking, lying down,
-sitting, standing, running, travelling. However, to the best of our
+measure humidity, audio level, temperature etc. However, to the best of our
 knowledge we have come across no work where a fusion of these
 sensors and egocentric cameras has been put to use. In this paper
 we explore the suggested fusion of sensors and share the results

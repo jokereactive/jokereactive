@@ -5,7 +5,7 @@ intro: Face Images
 teamsize: 2
 teammembers: Prateekshit Pandey
 guide: Dr. Richa Singh
-course: Introduction to Engineering Design
+course: Pattern Recognition
 _url: 
 projectimage: drug.png
 weight: 7
@@ -19,7 +19,22 @@ poster:
 special:
 technology: Matlab, Machine Learning, Pattern Recognition
 period: Jan'15-May'15
-excerpt: We propose a system which can use the data of face images from such sources and identify faces possibly altered by prolonged
-narcotic drug usage. Experiments were conducted majorly on before-after drug mug-shot images made public by Multinomah Sheriff County Office. We use three different types of feature extraction techniques: HoG, Local Binary Patterns and Color Histogram, over which we apply a Support Vector Machine with different kernels to classify the face images. Access to our database is available on request.
+excerpt: 
 ---
-This page will be updated soon!
+World Drug Report by United Nations Office on
+Drugs and Crimes in 2014 clearly suggests that during the period
+2003-2012 the increase in crime rates for possession for personal
+use worldwide was due to the increase in the total number of drug
+users, esp. cannabis and ATS (Amphetamine-Type Stimulants).
+Also with the recent improvements in the CCTV surveillance and
+the introduction of wearable video cameras for police officers in
+the United States and some other countries, a large amount of
+data is available for biometric analysis.
+We propose a system which can use the data of face images
+from such sources and identify faces possibly altered by prolonged
+narcotic drug usage. Experiments were conducted majorly on
+before-after drug mug-shot images made public by Multinomah
+Sheriff County Office. We use three different types of feature
+extraction techniques: HoG, Local Binary Patterns and Color
+Histogram, over which we apply a Support Vector Machine with
+different kernels to classify the face images.

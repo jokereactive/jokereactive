@@ -20,5 +20,5 @@ technology: Matlab, ROS, C++, Visual Studio, Lie Algebra, Pose Estimation, Visua
 period: Jan'15-May'16
 excerpt: 
 ---
-Explored  modern  SLAM  algorithms  and  built  systems  for  visual  positioning  and  navigation  inwearable  cameras  and  vehicle  dashboard  camera. 
-Built  a  navigation  system  to  carry  out  robust  visual  positioning  for  a  car  by  using  a  generated odometry on encountering an erratic GPS signal; Built the apparatus for the dashcam using a pointgrey camera and an intel NUC running an implementation of the LSD-SLAM algorithm.
+Body mounted and vehicle cameras are becoming increasingly popular with the Internet overflowing with content from car dashboards, video bloggers, and even law enforcement officers.  Analyzing these videos and getting more information about the anonymous entity has become a growing topic of study among vision groups across the world.  A challenging task in this area of work is of localizing the anonymous entity in its surroundings
+without the use global systems such as GPS (which may prove to be unfeasible, unreliable or erratic in many situations).  In this report we present a comprehensive study of Simultaneous Location and Mapping(SLAM) algorithms evaluating their application in detecting egomotion in egocentric videos, finally leading to the development of a Visual Positioning System.

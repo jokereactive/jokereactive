@@ -21,6 +21,17 @@ technology: Matlab, Discriminative Learning, Object Recognition, Filtering Socia
 period: May'16-July'16
 published: VisualHashtags - Visual Summarization Of Social Media Events Using Mid-Level Visual Elements (ACM MM 2017)
 patented:
-excerpt: Additional content
+excerpt: 
 ---
-This page will be updated soon!
+In this paper we propose a methodology for visual event summarization
+by extracting mid-level visual elements from images
+associated with social media events on Twitter (#VisualHashtags).
+The key research question is <i>Which elements can visually capture the
+essence of a viral event?</i> hence explain its virality, and summarize
+it. Compared to the existing approaches of visual event summarization
+on social media data, we aim to discover #VisualHashtags, i.e.,
+meaningful patches that can become the visual analog of a regular
+text hashtag that Twier generates. Our algorithm incorporates a
+multi-stage filtering process and social popularity based ranking to
+discover mid-level visual elements, which overcomes the challenges
+faced by direct application of the existing methods.

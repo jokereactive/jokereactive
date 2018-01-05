@@ -7,18 +7,20 @@ teammembers:
 guide: Dr. Sameep Mehta
 course: Information Retrieval
 _url: 
-projectimage: offside.png
+projectimage: newsss.png
 weight: 6
 reference: http://sarthakahuja.org/public/docs/poster_offside.png
 category: Engineering
 code: 
 database:
-slides: 
+slides: slides_newsss.pptx
 poster: 
 demo: 
 special:
-technology: C#, EmguCV, Visual Studio 13, Image Processing
-period: Aug'14-Dec'14
+technology: Page Rank, NLP, Social Media Analytics
+period: Jan'16-May'16
 excerpt: 
 ---
-As a part of my Image Analysis Course I built a software in C# using emguCV Library to detect players in a football field using Color based object Segmentation. I further wrote an algorithm to detect offside in the game by combining data coming from cameras located at various angles across the field.
+Social search is a behaviour of retrieving and searching on a social searching engine that mainly searches
+user-generated content such as news, videos and images related search queries on social media. 
+In this project we create our own Social Search Engine implementing Adapted PageRank Algorithm based on the paper - <i>Information retrieval in folksonomies: Search and ranking, A Hotho, R Jäschke, G Stumme</i>
