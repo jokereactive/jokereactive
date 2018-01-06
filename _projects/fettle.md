@@ -13,7 +13,7 @@ category: Engineering
 reference: http://sarthakahuja.org/public/docs/report_fettle.pdf
 code: https://github.com/thecoldviews/Fettle
 database: 
-slides: 
+slides: http://sarthakahuja.org/public/docs/slides_fettle.pdf
 poster: 
 demo: 
 special: 

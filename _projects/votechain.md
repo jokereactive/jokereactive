@@ -10,7 +10,7 @@ projectimage: votechain.png
 weight: 1
 reference: 
 category: Side
-code: 
+code: https://github.com/thecoldviews/VoteChain
 database:
 demo: 
 slides: 
