@@ -15,9 +15,10 @@ database:
 demo:
 slides: 
 poster: 
-special:
+special: Accepted Project Demo At IIIT-Delhi's Research Showcase 2016
 technology: QT, OpenGL, Kinect, Visual Studio
 period: Aug'15-Dec'15
-excerpt: In this project we focus on animating a 2D mesh character and driving its actions through kinect. It has been a little more than five years since the first kinect was launched and even today it continues to draw a lot of attention and applications in various fields. In this approach we use Visual Studio to interact with our kinect device and fetch the skeleton data captured in the form of coordinates. We then create our 2D mesh in QT and use these coordinates to mimic the skeleton. The project follows a bone based skeleton model to construct our 2D mesh character. This projects finds applications in the animation industry for simplifying a lot of processes involved in animating 2D characters. The project can seamlessly by ported to work for 3D characters as well.
+excerpt: 
 ---
-This page will be updated soon!
+In this project I focus on animating a 2D mesh character and driving its actions through kinect. 
+The system implemented in Visual Studio interact with our kinect device and fetch the skeleton data captured in the form of coordinates. We then create our 2D mesh in QT and use these coordinates to mimic the skeleton. The project follows a bone based skeleton model to construct our 2D mesh character. The project can seamlessly by ported to work for 3D characters as well.

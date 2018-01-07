@@ -19,6 +19,7 @@ demo:
 special:
 technology: Matlab, Computer Vision Toolbox
 period: Jan'15-May'15
-excerpt: Human Detection in Images is a contemporary Computer Vision problem, still welcoming improved solutions. This subset area of object detection has seen many attempts made towards efficient implementation and in this project proposal we describe one based on Histogram of Oriented Gradients which proves to be superior than the rest in terms of both Detection rate and Error rate when using a Linear SVM Classifier
+excerpt: 
 ---
-This page will be updated soon!
+Human Detection in Images is a contemporary Computer Vision problem. 
+This subset area of object detection has seen many attempts made towards improving the accuracy and in this project we implement from scratch one based on Histogram of Oriented Gradients which continues to be one of the most used methods in terms of both detection rate and error rate.

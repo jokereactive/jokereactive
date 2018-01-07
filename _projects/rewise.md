@@ -19,6 +19,6 @@ demo:
 special:
 technology: Android, Parse, Javascript
 period: Aug'14-Dec'14
-excerpt: An android application to hold quick in-class quizzes. Intuitive UI, Ever Growing Question Bank, Statistical Analysis of Quizzes as well as Individual Performances and Gamification using Badges.
+excerpt: 
 ---
-This page will be updated soon!
+An android application to hold quick in-class quizzes. In our project we implement an intuitive UI, a persistent question bank, statistical analysis of quizzes as well as individual performances and gamification using badges.

@@ -28,7 +28,8 @@ patented:
  - System and Method to produce Generalized Representation of Job Description Documents and Calculate Similarity using the Representation in Recruitment Domain
 ---
 IBM Watson™ Recruitment is a cognitive talent management solution that increases recruiter efficiency to allow HR to improve and accelerate people’s impact on the business. 
-It automatically predicts, without bias, the best suited candidates who are most likely to succeed in an organization. In my current job role I work on both research and development aspects of it's cognitive component - 
+It automatically predicts, without bias, the best suited candidates who are most likely to succeed in an organization. 
+In my current job role I work on both research and development aspects of it's cognitive component - 
 
  - *Machine Learning Pipeline Design* - Designing the learning and real-time multi-client classification architecture pipeline for predictive analytics on kafka and pyspark.
  - *Dynamic Taxonomy Generation* - Implementing a LSTM based architecture for generating taxonomies from a dataset of skill names. <i>(Upcoming Paper Submission)</i>

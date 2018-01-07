@@ -18,6 +18,7 @@ demo:
 special:
 technology: Matlab
 period: Aug'15-Dec'15
-excerpt: Scene recognition is an important upcoming real world problem which finds application in the fields of robotics(autonomous systems), surveillance(wearable camera footage, evidence photographs, etc), and personal assistance devices(Google Glass). There has been a steady progress in the field and this project explains the developments made in this field leading to the current state-of-the-art approach, documenting the results obatined from our implementation with standard benchmarks and classifiers.
+excerpt: 
 ---
-This page will be updated soon!
+Scene recognition is an important real world problem which finds application in the fields of robotics(autonomous systems), surveillance(wearable camera footage, evidence photographs, etc), and personal assistance devices(Google Glass). There has been a steady progress in the field and this mini-project explains the developments made leading to the current state-of-the-art approach, 
+documenting the results obatined from our implementation with standard benchmarks and classifiers.

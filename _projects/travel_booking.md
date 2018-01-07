@@ -19,6 +19,6 @@ demo:
 special:
 technology: Ruby on Rails, Javascript, AGILE Paradigm
 period: Aug'14-Dec'14
-excerpt: As a part of the Software Engineering course I along with the team made a SAAS web application using ruby on rails framework. The Web Application consisted of a system to allow a Travel Agent to effectively run his business by adding and using a set of applets that the service provides.
+excerpt: 
 ---
-This page will be updated soon!
+As a part of the Software Engineering course we made a SAAS web application using ruby on rails framework following the agile development. The Web Application consisted of a system to allow a Travel Agent to effectively run his business by adding and using a set of applets that the service provides.
