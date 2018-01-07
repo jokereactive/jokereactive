@@ -2,8 +2,8 @@
 layout: page_project
 name: NEWSSS - Social Search
 intro: 
-teamsize: 1
-teammembers: 
+teamsize: 2 
+teammembers: Saumya Jain
 guide: Dr. Sameep Mehta
 course: Information Retrieval
 _url: 
