@@ -1,7 +1,7 @@
 ---
 layout: page_project
 name: Cogniculture
-intro: Collaborative Cognition
+intro: Human-Machine Interaction
 teamsize: 10
 teammembers: Rakesh Pimplikar, Kushal Mukherjee, Gyana Parija, Ramasuri Naraynam, Rohith Vallam, Harith Vishvakarma, Ritwik Chaudhuri, Joydeep Mondal, Manish Kataria
 guide:

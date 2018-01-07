@@ -1,7 +1,7 @@
 ---
 layout: page_project
 name: Fettle
-intro: Human Centric Development
+intro: Human Computer Interaction
 teamsize: 6
 teammembers: Saumya Jain, Aditi Mithal, Manan Gakhar, Danish Goel, Sumit Keswani
 guide: Dr. Ponnurangam Kumaraguru
