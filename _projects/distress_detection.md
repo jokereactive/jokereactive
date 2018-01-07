@@ -2,7 +2,7 @@
 layout: page_project
 name: Distress Detection
 title: Distress Detection
-intro: based on Speech
+intro: 
 teamsize: 2
 teammembers: Anil Sharma, PhD Candidate IIIT-Delhi
 guide: Dr. Sanjit Kaul
