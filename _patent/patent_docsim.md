@@ -4,7 +4,7 @@ name: System and Method to produce Generalized Representation of Job Description
 authors: Joydeep Mondal, Sudhanshu Singh, Sarthak Ahuja, John Medicke, George David, Amanda Klabzuba
 acceptance: Patent Pending
 _url: #
-id_num: XX
+id_num: P201704553US01
 project_url:
 thumbnail_url: p2.jpg
 type: conference
