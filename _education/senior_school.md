@@ -9,7 +9,7 @@ header: apeejay.png
 logo: apeejay.png
 weight: 2
 period: 2010-12
-excerpt: Secondary Secondary School (Class Twelfth)
+excerpt: Senior Secondary School (Class Twelfth)
 ---
 
 Courses Taken - 
