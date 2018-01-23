@@ -52,14 +52,25 @@ layout: default
           </table>
         {% endif %}
 
-                {% if(page.published) %}
-          <font color="#edc436"><b>Associated Publication(s):</b></font> <br> <a href="/publication"><span class="lead">{{page.published}}</span></a>
-          <br>
+                        {% if(page.published) %}
+          <font color="#edc436"><b>Associated Publication(s):</b></font> <br> 
+          <ul>
+          {% for pub in page.published %}
+            <li><a href="/publication"><span class="lead">{{pub}}</span></a></li>
+          
+          {% endfor %}
+          </ul>
         {% endif %}
 
         {% if(page.patented) %}
-          <font color="#edc436"><b>Associated Patent(s):</b></font> <br> <a href="/patent"><span class="lead">{{page.patented}}</span></a>
-          <br>
+          <font color="#edc436"><b>Associated Patent(s):</b></font> <br> 
+
+          <ul>
+          {% for pat in page.patented %}
+            <li><a href="/patent"><span class="lead">{{pat}}</span></a></li>
+          
+          {% endfor %}
+          </ul>
         {% endif %}
 				
 		</td> 
