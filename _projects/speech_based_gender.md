@@ -15,7 +15,7 @@ code: https://github.com/jokereactive/He-or-She
 database:
 slides: 
 poster: 
-demo: http://sarthakahuja.org/public/apps/DD.apk
+demo: 
 special:
 technology: Matlab, Speech Signal Processing, Supervised Learning
 period: Jan'15-May'15
