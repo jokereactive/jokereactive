@@ -9,11 +9,11 @@ course: Information Retrieval
 _url: 
 projectimage: newsss.png
 weight: 6
-reference: http://sarthakahuja.org/public/docs/poster_offside.png
+reference: 
 category: Engineering
 code: 
 database:
-slides: slides_newsss.pptx
+slides: http://sarthakahuja.org/public/docs/slides_newsss.pptx
 poster: 
 demo: 
 special:
