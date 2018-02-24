@@ -15,4 +15,4 @@ covercaption: Precog Research, Summer 2016
 ---
 - I worked as a RA at IIIT-Delhi's social media analytics research lab, <a href="http://precog.iiitd.edu.in/index.php">PreCog</a>.
 - During my stay I explored visual summarization of events on social media in the form of image patches alongside <a href="https://www.iiitd.ac.in/pk">Dr. Ponnurangam Kumaraguru</a> and <a href="https://www.iiitd.ac.in/subramanyam">Dr. A.V. Subramnyam</a>. 
-- I simultaneously worked on a development project, adding multi-network support to <a href="http://aasma.precog.iiitd.edu.in/">Project-O</a>, a production level social media analytics platform.
+- I simultaneously worked on a development project, adding multi-platform analytics support to <a href="http://aasma.precog.iiitd.edu.in/">Project-O</a>, a production level social media analytics platform.
