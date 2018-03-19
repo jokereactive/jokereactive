@@ -10,7 +10,7 @@ projectimage: scene.png
 weight: 10
 reference: http://sarthakahuja.org/public/docs/report_scene.pdf
 category: Engineering
-code: https://github.com/jokereactive/Scene-Recognition
+code:
 database: 
 slides: 
 poster: 

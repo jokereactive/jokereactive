@@ -8,8 +8,8 @@ guide: Dr. Mayank Vatsa
 course: Image Analysis (Major Project)
 projectimage: recolorization.png
 weight: 8
-reference: http://sarthakahuja.org/public/docs/poster_chrominance.png
-code: https://github.com/jokereactive/Image-Recolorization
+reference: http://sarthakahuja.org/public/docs/poster_chrominance.PNG
+code:
 database:
 category: Engineering
 demo:
