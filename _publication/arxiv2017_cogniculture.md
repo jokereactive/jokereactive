@@ -14,7 +14,7 @@ conference_url: https://arxiv.org/abs/1712.03724
 venue: Arxiv
 projectimage: sample.png
 weight: 9
-reference: http://sarthakahuja.org/public/docs/paper_cogniculture.pdf
+reference: 
 code:
 database: 
 slides: 
