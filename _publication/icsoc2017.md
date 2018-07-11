@@ -14,7 +14,7 @@ conference_url: http://www.icsoc.spilab.es/
 venue: ICSOC
 projectimage: sample.png
 weight: 2
-reference: http://sarthakahuja.org/public/docs/paper_icsoc2017.pdf
+reference: 
 code:
 database: 
 slides: 
