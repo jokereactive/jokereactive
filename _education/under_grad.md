@@ -7,7 +7,7 @@ marks: CGPA 9.1/10.0
 major: Computer Science
 header: iiitd.png
 logo: iiitd.jpg
-weight: 1
+weight: 2
 period: 2012-16
 special: Awarded the All-Round Performance Medal
 excerpt: Undergraduate Degree

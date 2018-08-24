@@ -7,7 +7,7 @@ marks: Score 93.2%
 major: Science
 header: apeejay.png
 logo: apeejay.png
-weight: 2
+weight: 3
 period: 2010-12
 excerpt: Senior Secondary School (Class Twelfth)
 ---
