@@ -48,8 +48,8 @@ excerpt_separator: "{{ more }}"
 title:            Sarthak Ahuja
 tagline:          'Personal Website'
 description:      'If you change the way you look at things, the things you look at change.'
-url:              http://sarthakahuja.org
-baseurl:          http://sarthakahuja.org/
+url:              https://sarthakahuja.org
+baseurl:          https://sarthakahuja.org/
 imagesurl:		  /assets/images
 logosurl:		  /assets/images/logos
 headersurl:		  /assets/images/headers
