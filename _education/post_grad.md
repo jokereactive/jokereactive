@@ -6,7 +6,7 @@ institute_url: https://www.cmu.edu/
 marks: 
 major: Robotics
 header: cmu.png
-logo: cmu.jpg
+logo: cmu.png
 weight: 1
 period: 2018-20
 special: 
