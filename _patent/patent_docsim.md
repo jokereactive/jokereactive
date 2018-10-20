@@ -20,4 +20,3 @@ special:
 year: 2017
 excerpt: Additional content
 ---
-#We propose a system and methods to produce a action-object-attribute triplet representation of a job description document. In addition to this we also propose to calculate similarity between two job description documents using such representations.

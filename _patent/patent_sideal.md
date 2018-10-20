@@ -6,7 +6,7 @@ acceptance: Patent Pending
 _url: #
 id_num: IN820170195US01
 project_url:
-thumbnail_url: p1.jpg
+thumbnail_url:
 type: conference
 google_url: 
 venue: US
@@ -20,6 +20,3 @@ special:
 year: 2017
 excerpt: Additional content
 ---
-#Here we disclose a public goods games (PGG) based system to define and refine relative weights of various attributes defining the profile. 
-#The system consists of a SIdeal agent corresponding to each recruiter with a preferred weightage for various attributes. 
-#These agents are engaged in a sequential gameplay where they modify and update their preferences to eventually converge on a consensus.
