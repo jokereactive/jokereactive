@@ -3,7 +3,7 @@ layout: page_education
 title: Master of Science (Research)*
 institute: Carnegie Mellon University
 institute_url: https://www.cmu.edu/
-marks: 
+marks: CGPA -/4.0*
 major: Robotics
 header: cmu.png
 logo: cmu.png
