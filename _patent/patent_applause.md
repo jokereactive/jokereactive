@@ -2,7 +2,7 @@
 layout: page_publication
 name: App-lause - VR based Cultural Audience Simulation for Immersive Rehearsals
 authors: Sarthak Ahuja, Kushal Mukherjee, Joydeep Mondal, Sudhanshu Singh
-acceptance: Filed
+acceptance: Patent Pending
 _url: #
 id_num: P201705715US01
 project_url:
