@@ -1,6 +1,6 @@
 ---
 layout: collection_project
-title: Selected Engineering Projects
+title: Selected Course Projects
 category: Engineering
 permalink: /eng_projects/
 weight: 7
