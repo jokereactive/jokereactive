@@ -2,7 +2,7 @@
 layout: page_publication
 name: Dynamic Particle Allocation to Solve Interactive POMDP Models for Social Decision Making
 type: paper
-authors: Rohith D Vallam, Sarthak Ahuja, Ritwik Chaudhuri, Rakesh R Pimplikar, Kushal Mukherjee, Gyana Parija, Ramasuri Narayanam
+authors: Rohith D Vallam, Sarthak Ahuja, Surya Shravan Kumar Sajja, Ritwik Chaudhuri, Rakesh R Pimplikar, Kushal Mukherjee, Gyana Parija, Ramasuri Narayanam
 track: Research Track
 submission: Full Research Paper
 acceptance: Accepted
