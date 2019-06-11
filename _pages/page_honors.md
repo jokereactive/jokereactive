@@ -5,6 +5,8 @@ permalink: /awards/
 weight: 11
 type: navigation
 ---
+ - Awarded the <b>Graduate Student Conference Funding</b> by the Graduate Student Assembly and the Provost's Office for presenting my research paper, "Dynamic Particle Allocation to Solve Interactive POMDP Models for Social Decision Making", at AAMAS'19.
+ - <b><a href="http://www.jntataendowment.org/">JN Tata Scholar</a></b> - Awarded the JN Tata loan scholarship for pursuing graduate studies at CMU.
  - <b><a href="https://www.facebook.com/hackinout/photos/t.100000580508543/1921716201421618/?type=3&theater">Winner - Consensys Prize</a></b>, <a><b>InOut 4.0</b></a> for the Hack- <a href="http://sarthakahuja.org/projects/votechain/"><i>VoteChain</i></a>
  - Manager's Choice Award 2016 - Recognized for the practice <i>Restlessly Reinvent IBM and Ourselves</i>
  - Awarded the <a href="https://www.iiitd.ac.in/convocation16/awardees.html"><b>All Round Performance Medal</b></a> for the overall performance in curricular and extracurricular
