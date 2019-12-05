@@ -11,7 +11,7 @@ weight: 0.1
 period: October'18 onwards
 special: 
 excerpt: 
-coverpath: carnegie_mellon/cover.png
+coverpath: carnegie_mellon/cover.jpeg
 covercaption: Human and Robot Partners Lab
 ---
 
