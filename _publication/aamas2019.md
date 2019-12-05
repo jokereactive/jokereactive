@@ -5,7 +5,7 @@ type: paper
 authors: Rohith D Vallam, Sarthak Ahuja, Surya Shravan Kumar Sajja, Ritwik Chaudhuri, Rakesh R Pimplikar, Kushal Mukherjee, Gyana Parija, Ramasuri Narayanam
 track: Research Track
 submission: Full Research Paper
-acceptance: Accepted
+acceptance: Published
 _url: http://aamas2019.encs.concordia.ca/
 project_url: 
 thumbnail_url: thumbnail_aamas2019.png
