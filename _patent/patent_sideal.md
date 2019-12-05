@@ -1,10 +1,10 @@
 ---
 layout: page_publication
 name: SIdeal, System and Method for Attribute Weight Induction in a Multiple Recruiter Setting Exploiting Public Goods Games #Framework
-authors: Sudhanshu Singh, Gyana Ranjan Parija, Ritwik Chaudhuri, Manu Kuchhal, Sarthak Ahuja, Ritwik Chaudhari, Manish Kataria
-acceptance: Patent Pending
-_url: #
-id_num: IN820170195US01
+authors: Sarthak Ahuja, Sudhanshu Singh, Gyana Ranjan Parija, Ritwik Chaudhuri, Manu Kuchhal, Manish Kataria
+acceptance: Granted
+_url: https://patentimages.storage.googleapis.com/7b/c6/07/268077a0d1a8af/US20190188646A1.pdf
+id_num: U.S. Patent Application No. 15/842,066
 project_url:
 thumbnail_url:
 type: conference
