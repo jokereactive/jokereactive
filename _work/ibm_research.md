@@ -2,9 +2,9 @@
 layout: page_work
 title: IBM India Research Lab
 position: Software Engineer (Research)
-institute: IIIT-Delhi
-institute_url: https://www.facebook.com/swarathatiiitd?fref=ts
-_url: https://www.facebook.com/swarathatiiitd?fref=ts
+institute: IBM Research
+institute_url: https://researcher.watson.ibm.com/researcher/view_group.php?id=7806
+_url: https://researcher.watson.ibm.com/researcher/view_group.php?id=7806
 header: iiitd.jpg
 logo: ibm.jpg
 weight: 0.1
@@ -12,7 +12,7 @@ period: July'16-July'18
 special: Manager's Choice Award 2016 
 excerpt: 
 coverpath: ibm_research/cover.png
-covercaption: Analytics and Optimization Group, IBM India Research Laboratory
+covercaption: Collaborative AI Group, IBM India Research Laboratory
 ---
 
  - I held the position of <a href="http://researcher.watson.ibm.com/researcher/view.php?person=in-sarahuja">Research Software Engineer</a> at <a href="http://research.ibm.com/">IBM Research</a>, 
