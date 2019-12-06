@@ -18,7 +18,7 @@ poster:
 demo: 
 special: 
 technology: 
-period: Jan'17 - present
+period: Jan'17 - July'18
 excerpt:
 published: 
  - Cogniculture, Towards a Better Human-Machine Co-evolution (arXiv:1712.03724) 

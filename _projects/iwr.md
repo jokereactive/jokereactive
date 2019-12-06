@@ -18,20 +18,22 @@ poster:
 demo: 
 special:
 technology: PySpark, Kafka, Cloudant, ObjectStore, Theano, LSTM, SOAR, AnyLogic
-period: July'16-Present
+period: July'16-July'18
 excerpt:
 published: 
  - Multi Level Clustering Technique Leveraging Expert Insight (JSM 2017)
  - Similarity Computation Exploiting The Semantic And Syntactic Inherent Structure Among Job Titles (ICSOC 2017)
+ - Benchmarking of a Novel POS Tagging Based Semantic Similarity Approach for Job Description Similarity Computation (ESWC 2018)
+ - Dynamic Particle Allocation to Solve Interactive POMDP Models for Social Decision Making (AAMAS 2019)
 patented: 
  - SIdeal - System and Method for Attribute Weight Induction in a Multiple Recruiter Setting Exploiting Public Goods Games Framework
  - System and Method to produce Generalized Representation of Job Description Documents and Calculate Similarity using the Representation in Recruitment Domain
 ---
-IBM Watson™ Recruitment is a cognitive talent management solution that increases recruiter efficiency to allow HR to improve and accelerate people’s impact on the business. 
+IBM Watson™ Recruitment is an AI-powered talent management solution that increases recruiter efficiency to allow HR to improve and accelerate people’s impact on the business. 
 It automatically predicts, without bias, the best suited candidates who are most likely to succeed in an organization. 
-In my current job role I work on both research and development aspects of it's cognitive component - 
+As the lead developer of its cognitive component, I worked on both research and development aspects of the system - 
 
- - *Machine Learning Pipeline Design* - Designing the learning and real-time multi-client classification architecture pipeline for predictive analytics on kafka and pyspark.
- - *Dynamic Taxonomy Generation* - Implementing a LSTM based architecture for generating taxonomies from a dataset of skill names. <i>(Upcoming Paper Submission)</i>
+ - *Machine Learning Pipeline Design* - Designing the real-time, high-capacity and multi-client learning and classification architecture for predictive analytics on kafka and pyspark.
+ - *Dynamic Taxonomy Generation* - Implementing a LSTM based architecture for dynamically generating taxonomies from a dataset of skill names using semi-supervised learning.
  - *Job Similarity Computation* - Exploiting the semantic and syntactic structure of job description documents to find job similarity.
- - *Collaborative Cognition* - Developing a knowledge exchange framework for different stakeholders in the recruitment process. Modelled as independent cognitive agents, each stakeholder gets to influence and get influenced by other agents, eventually leading to a more adoptible list of candidates. <i>(Upcoming Paper Submission)</i>
+ - *Collaborative Cognition* - Developing a knowledge exchange framework for different stakeholders in the recruitment process. Modelled as independent cognitive agents, each stakeholder gets to influence and get influenced by other agents, eventually leading to a more adoptible list of candidates.
