@@ -16,7 +16,7 @@ database:
 slides: 
 poster: 
 demo: 
-special: Work published at top peer-reviewed conferences - JSM 2017, ICSOC 2017, ESWC 2018 and AAMAS 2019. Multiple invention disclosures filed at USPTO.
+special: Work published at top peer-reviewed conferences - JSM 2017, ICSOC 2017 and ESWC 2018. Multiple invention disclosures filed at USPTO.
 technology: PySpark, Kafka, Cloudant, ObjectStore, Theano, LSTM, SOAR, AnyLogic
 period: July'16-July'18
 excerpt:
