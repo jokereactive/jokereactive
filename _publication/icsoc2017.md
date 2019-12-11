@@ -6,7 +6,7 @@ authors: Sarthak Ahuja, Joydeep Mondal, Sudhanshu S. Singh, David G. George
 track: Industry Track
 submission: Full Research Paper
 acceptance: Published
-_url: https://link.springer.com/chapter/10.1007/978-3-319-69035-3_1
+_url:
 project_url:
 thumbnail_url: thumbnail_icsoc2017.png
 type: conference

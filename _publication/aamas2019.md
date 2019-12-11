@@ -6,7 +6,7 @@ authors: Rohith D Vallam, Sarthak Ahuja, Surya Shravan Kumar Sajja, Ritwik Chaud
 track: Research Track
 submission: Full Research Paper
 acceptance: Published
-_url: http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p674.pdf
+_url:
 project_url: 
 thumbnail_url: thumbnail_aamas2019.png
 type: conference
