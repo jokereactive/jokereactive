@@ -8,7 +8,7 @@ guide:
 course:
 _url: http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p674.pdf
 projectimage: cc.png
-weight: 0.01
+weight: 0.2
 category: Research
 reference: http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p674.pdf
 code:
