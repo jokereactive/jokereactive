@@ -20,5 +20,5 @@ technology: QT, OpenGL, Kinect, Visual Studio
 period: Aug'15-Dec'15, Aug'18-Dec'18
 excerpt: 
 ---
-- At IIIT, I focused on animating a 2D mesh character and driving its actions through a kinect sensor. The system was implemented in Visual Studio and interacted with a kinect device to fetch the skeleton data captured in the form of coordinates. We then created our 2D mesh in QT and used these coordinates to mimic the skeleton. 
+- At IIIT, I focused on animating a 2D mesh character and driving its actions through a kinect sensor. The system was implemented in Visual Studio and interacted with a kinect device to fetch the skeleton data captured in the form of coordinates. We then created our 2D mesh in QT and used these coordinates to mimic the obtained skeleton using forward kinematics. 
 - At CMU, I extended this project and developed an end-to-end sketching platform which assists an artist to draw complex non-convex 2D characters; Implemented drawing tools using bezier curves, distance-transform based skeletonization, and shape-aware deformations (Sharma et al. SA 2015)

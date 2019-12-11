@@ -2,7 +2,7 @@
 layout: page_project
 name: Informed Multi-Heuristic Multi-Representation A-Star
 intro: Planning for Robotics
-teamsize: 6
+teamsize: 4
 teammembers: Aditya Agarwal, Shivam Vats, Jay Patrikar
 guide:
 course:

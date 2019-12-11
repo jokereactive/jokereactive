@@ -16,7 +16,7 @@ database:
 slides: 
 poster: 
 demo: 
-special:
+special: Work published at top peer-reviewed conferences JSM 2017, ICSOC 2017, ESWC 2018 and AAMAS 2019. Multiple invention disclosures filed at the United States Patent and Trademark Office.
 technology: PySpark, Kafka, Cloudant, ObjectStore, Theano, LSTM, SOAR, AnyLogic
 period: July'16-July'18
 excerpt:
@@ -37,4 +37,3 @@ As the lead developer of its cognitive component, I worked on both research and 
  - *Dynamic Taxonomy Generation* - Implemented a LSTM based architecture for dynamically generating taxonomies from a dataset of skill names using semi-supervised learning.
  - *Job Similarity Computation* - Exploited the semantic and syntactic structure of job description documents to find job similarity.
  - *Collaborative Cognition* - Developing a knowledge exchange framework for different stakeholders in the recruitment process. Modelled as independent cognitive agents, each stakeholder gets to influence and get influenced by other agents, eventually leading to a more adoptible list of candidates.
- - Work published at top peer-reviewed conferences JSM 2017, ICSOC 2017, ESWC 2018 and AAMAS 2019.
