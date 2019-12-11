@@ -2,12 +2,12 @@
 layout: page_project
 name: Assistive Sketching and Animation Using Shape-Aware Moving Least Squares Deformations and Kinect based 2-D Mesh Animation
 intro: Computer Graphics
-teamsize: 1
-teammembers: 
+teamsize: 2
+teammembers: Aditya Agarwal
 guide: Dr. Ojaswa Sharma
 course: Computer Graphics, Math for Robotics
 projectimage: kinect.png
-weight: 4
+weight: 0.5
 category: Engineering
 reference: http://sarthakahuja.org/public/docs/report_kinect.pdf
 code: https://github.com/jokereactive/Kinect-Driven-OpenGL-Animation
