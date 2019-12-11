@@ -2,9 +2,9 @@
 layout: page_project
 name: Effects of Anticipatory Robot Motion on Human Decision-Making
 intro: User Study
-teamsize: 6
-teammembers: Benjamin Newman, Abhijat Biswas, Siddharth Girdhar, Henny Admoni, Kris Kitani
-guide:
+teamsize: 4
+teammembers: Benjamin Newman, Abhijat Biswas, Siddharth Girdhar
+guide: Dr. Henny Admoni, Dr. Kris Kitani
 course:
 _url: 
 projectimage: intentmanipulation.png

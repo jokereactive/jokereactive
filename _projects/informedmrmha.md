@@ -4,7 +4,7 @@ name: Informed Multi-Heuristic Multi Representation A-Star
 intro: Planning
 teamsize: 4
 teammembers: Aditya Agarwal, Shivam Vats, Jay Patrikar
-guide:
+guide: Dr. Maxim Likhachev
 course:
 _url: 
 projectimage: informedmrmha.png

@@ -2,9 +2,9 @@
 layout: page_project
 name: Learning Physics Intuition Models for Non-Disruptive Object Extraction from Clutter
 intro: Robot Self-Assessment
-teamsize: 3
-teammembers: Henny Admoni, Aaron Steinfeld
-guide:
+teamsize: 1
+teammembers: 
+guide: Dr. Henny Admoni, Dr. Aaron Steinfeld
 course:
 _url: 
 projectimage: selfassessment.png
