@@ -1,6 +1,6 @@
 ---
 layout: page_project
-name: Semi-Supervised Stance Detection in Tweets
+name: Semi Supervised Stance Detection in Tweets
 intro:
 teamsize: 3
 teammembers: Aditya Agarwal, Tanmay Agarwal

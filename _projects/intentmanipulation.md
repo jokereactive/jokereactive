@@ -1,6 +1,6 @@
 ---
 layout: page_project
-name: Effects of Anticipatory Robot Motion on Human Decision-Making
+name: Effects of Anticipatory Robot Motion on Human Decision Making
 intro: User Study
 teamsize: 6
 teammembers: Benjamin Newman, Abhijat Biswas, Siddharth Girdhar, Henny Admoni, Kris Kitani
