@@ -20,7 +20,6 @@ special:
 technology: ROS, OpenRave, MoveIt, Hypothesis Testing, Study Design, Data Analysis
 period: May'19 onwards
 excerpt:
-patented: 
 ---
 Collaborative robots are often designed to interact with people by predicting their intent. However, most work with collaborative robots acting on anticipated human intent, assumes intent remains constant throughout the task and cannot be altered by the collaborative robot partner. 
  - We present a user study with 99 participants who interact with a robot in arm in a 3-way collaborative selection task. The participants make their decision either in the absence of robot movement or after the robot has displayed an anticipatory action (either collaborative or adversarial). 
