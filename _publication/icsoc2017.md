@@ -14,7 +14,7 @@ conference_url: http://www.icsoc.spilab.es/
 venue: ICSOC
 projectimage: sample.png
 weight: 2
-reference: 
+reference: https://link.springer.com/chapter/10.1007/978-3-319-69035-3_1
 code:
 database: 
 slides: 
