@@ -24,7 +24,6 @@ published:
 patented: 
 ---
 Collaborative robots are often designed to interact with people by predicting their intent. However, most work with collaborative robots acting on anticipated human intent, assumes intent remains constant throughout the task and cannot be altered by the collaborative robot partner. 
-
  - We present a user study with 99 participants who interact with a robot in arm in a 3-way collaborative selection task. The participants make their decision either in the absence of robot movement or after the robot has displayed an anticipatory action (either collaborative or adversarial). 
  - We design these behaviors to anticipate user intent, i.e., which bin of candy the participant most desires), as measured by the user's eye gaze. By allowing the robot to act collaboratively (acting with user intent) or adversarially (acting against user intent), we can study how different methods of intent anticipation affect a user's ultimate decision. 
  - We find differences in how often people comply with the robot's suggestions, as well as evidence that people's decision-making changes based on robot anticipatory actions. We discuss the implications of these results on the design of collaborative robots that anticipate a user's intent.
