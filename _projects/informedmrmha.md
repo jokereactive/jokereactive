@@ -1,6 +1,6 @@
 ---
 layout: page_project
-name: Informed Multi-Heuristic Multi Representation A Star
+name: Informed Multi-Heuristic Multi Representation A-Star
 intro: Planning
 teamsize: 4
 teammembers: Aditya Agarwal, Shivam Vats, Jay Patrikar
