@@ -1,6 +1,6 @@
 ---
 layout: page_project
-name: Effects of Anticipatory Robot Motion on Human Decision-Making
+name: Informed Multi-Heuristic Multi-Representation A-Star
 intro: Planning for Robotics
 teamsize: 6
 teammembers: Aditya Agarwal, Shivam Vats, Jay Patrikar
@@ -17,7 +17,7 @@ slides:
 poster: 
 demo: https://www.youtube.com/watch?v=1qIXPbPmPNw&feature=youtu.be
 special:
-technology: Multi-Heuristic Multi-Representation A-Star, Conditional Variational Auto-Encoders
+technology: Multi-Heuristic Multi-Representation A-Star, Learning Methods for Planning, Conditional Variational Auto-Encoders
 period: August'19 - December'19
 excerpt:
 published:

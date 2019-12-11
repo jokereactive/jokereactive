@@ -1,7 +1,7 @@
 ---
 layout: page_project
 name: Cogniculture
-intro: Human-Machine Interaction
+intro: Human-Machine Interaction Position Paper
 teamsize: 10
 teammembers: Rakesh Pimplikar, Kushal Mukherjee, Gyana Parija, Ramasuri Naraynam, Rohith Vallam, Harith Vishvakarma, Ritwik Chaudhuri, Joydeep Mondal, Manish Kataria
 guide:
