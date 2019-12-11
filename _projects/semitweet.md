@@ -20,7 +20,6 @@ special:
 technology: Latent Dirichlet Allocation, Word2Vec, Para2Vec, Semi-Supervised Learning, Representation Learning
 period: Jan'19 - May'19
 excerpt:
-published:
 patented: 
 ---
 Collaborative robots are often designed to interact with people by predicting their intent. However, most work with collaborative robots acting on anticipated human intent, assumes intent remains constant throughout the task and cannot be altered by the collaborative robot partner. 

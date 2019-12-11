@@ -20,7 +20,6 @@ special:
 technology: Multi-Heuristic Multi-Representation A-Star, Learning Methods for Planning, Conditional Variational Auto-Encoders
 period: Aug'19 - Dec'19
 excerpt:
-published:
 patented: 
 ---
 Generating motion plans for robots, like humanoids, with many degrees of freedom is a challenging
