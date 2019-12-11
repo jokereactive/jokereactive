@@ -4,8 +4,8 @@ name: Semi-Supervised Stance Detection in Tweets
 intro:
 teamsize: 3
 teammembers: Aditya Agarwal, Tanmay Agarwal
-guide:
-course:
+guide: Dr. Leila Wehbe
+course: Machine Learning (10-701)
 _url:
 projectimage: semitweet.png
 weight: 0.9

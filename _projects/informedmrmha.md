@@ -1,11 +1,11 @@
 ---
 layout: page_project
 name: Informed Multi-Heuristic Multi Representation A-Star
-intro: Planning
+intro: 
 teamsize: 4
 teammembers: Aditya Agarwal, Shivam Vats, Jay Patrikar
 guide: Dr. Maxim Likhachev
-course:
+course: Planning for Robotics (16-872)
 _url: 
 projectimage: informedmrmha.png
 weight: 0.6
