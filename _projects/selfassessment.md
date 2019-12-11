@@ -8,7 +8,7 @@ guide:
 course:
 _url: 
 projectimage: selfassessment.png
-weight: 1
+weight: 0.1
 category: Research
 reference:
 code:
