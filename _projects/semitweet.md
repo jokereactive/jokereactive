@@ -6,7 +6,7 @@ teamsize: 3
 teammembers: Aditya Agarwal, Tanmay Agarwal
 guide:
 course:
-_url: http://sarthakahuja.org/public/docs/report_semitweet.pdf
+_url:
 projectimage: semitweet.png
 weight: 0.9
 category: Research
