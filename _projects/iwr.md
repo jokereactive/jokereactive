@@ -1,7 +1,7 @@
 ---
 layout: page_project
 name: IBM Watson Recruitment
-intro: Talent Management
+intro: AI-Powered Talent Management
 teamsize: 7
 teammembers: Joydeep Mondal, Sudhanshu Shekhar Singh, Ritwik Chaudhuri, Manish Kataria, Kushal Mukherjee, Gyana Parija
 guide:
@@ -33,7 +33,8 @@ IBM Watson™ Recruitment is an AI-powered talent management solution that incre
 It automatically predicts, without bias, the best suited candidates who are most likely to succeed in an organization. 
 As the lead developer of its cognitive component, I worked on both research and development aspects of the system - 
 
- - *Machine Learning Pipeline Design* - Designing the real-time, high-capacity and multi-client learning and classification architecture for predictive analytics on kafka and pyspark.
- - *Dynamic Taxonomy Generation* - Implementing a LSTM based architecture for dynamically generating taxonomies from a dataset of skill names using semi-supervised learning.
- - *Job Similarity Computation* - Exploiting the semantic and syntactic structure of job description documents to find job similarity.
+ - *Machine Learning Pipeline Design* - Designed the real-time, high-capacity and multi-client learning and classification architecture for predictive analytics on kafka and pyspark.
+ - *Dynamic Taxonomy Generation* - Implemented a LSTM based architecture for dynamically generating taxonomies from a dataset of skill names using semi-supervised learning.
+ - *Job Similarity Computation* - Exploited the semantic and syntactic structure of job description documents to find job similarity.
  - *Collaborative Cognition* - Developing a knowledge exchange framework for different stakeholders in the recruitment process. Modelled as independent cognitive agents, each stakeholder gets to influence and get influenced by other agents, eventually leading to a more adoptible list of candidates.
+ - Work published at top peer-reviewed conferences JSM 2017, ICSOC 2017, ESWC 2018 and AAMAS 2019.

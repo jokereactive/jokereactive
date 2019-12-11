@@ -1,6 +1,6 @@
 ---
 layout: collection_project
-title: Other Development Projects
+title: Development Projects
 category: Engineering
 permalink: /eng_projects/
 weight: 7

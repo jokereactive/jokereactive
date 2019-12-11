@@ -56,6 +56,7 @@ Our analysis is based on a user study conducted on 16 volunteers(250hrs data). W
   <img class="mySlides" src="{{ site.projectimagesurl }}/distressdetection/screen3.png" style="width:100%">
 </div>
 <br>
+
 Our final implementation achieved an accuracy of 93% with an error rate of 1.5%. Exploiting
 the time contiguous nature of false alarms further
 allows us to reduce the FAR. We show the feasibility of using

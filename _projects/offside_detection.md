@@ -9,12 +9,12 @@ course: Image Analysis
 _url: 
 projectimage: offside.png
 weight: 6
-reference: http://sarthakahuja.org/public/docs/poster_offside.png
+reference: 
 category: Engineering
 code: 
 database:
 slides: 
-poster: 
+poster: http://sarthakahuja.org/public/docs/poster_offside.png
 demo: 
 special:
 technology: C#, EmguCV, Visual Studio 13, Image Processing

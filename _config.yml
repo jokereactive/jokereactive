@@ -33,10 +33,10 @@ collections:
     permalink: /teaching/:path/
   publication:
     output: true
-    permalink: /publication/:path/
+    permalink: /publications/:path/
   patent:
     output: true
-    permalink: /patent/:path/
+    permalink: /patents/:path/
   volunteer:
     output: true
     permalink: /volunteer/:path/
