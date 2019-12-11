@@ -14,7 +14,7 @@ conference_url: https://arxiv.org/abs/1712.03724
 venue: Arxiv
 projectimage: sample.png
 weight: 9
-reference: 
+reference: https://arxiv.org/abs/1712.03724
 code:
 database: 
 slides: 
