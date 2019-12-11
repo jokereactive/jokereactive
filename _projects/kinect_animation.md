@@ -4,7 +4,7 @@ name: Assistive Sketching and Animation Using Shape-Aware Moving Least Squares D
 intro: Computer Graphics
 teamsize: 2
 teammembers: Aditya Agarwal
-guide: Dr. Ojaswa Sharma
+guide: Dr. Ojaswa Sharma, Dr. Michael Erdmann
 course: Computer Graphics, Math for Robotics
 projectimage: kinect.png
 weight: 0.5
