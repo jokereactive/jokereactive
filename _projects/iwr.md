@@ -16,7 +16,7 @@ database:
 slides: 
 poster: 
 demo: 
-special: Work published at top peer-reviewed conferences JSM 2017, ICSOC 2017, ESWC 2018 and AAMAS 2019. Multiple invention disclosures filed at the United States Patent and Trademark Office.
+special: Work published at top peer-reviewed conferences - JSM 2017, ICSOC 2017, ESWC 2018 and AAMAS 2019. Multiple invention disclosures filed at USPTO.
 technology: PySpark, Kafka, Cloudant, ObjectStore, Theano, LSTM, SOAR, AnyLogic
 period: July'16-July'18
 excerpt:
@@ -24,7 +24,6 @@ published:
  - Multi Level Clustering Technique Leveraging Expert Insight (JSM 2017)
  - Similarity Computation Exploiting The Semantic And Syntactic Inherent Structure Among Job Titles (ICSOC 2017)
  - Benchmarking of a Novel POS Tagging Based Semantic Similarity Approach for Job Description Similarity Computation (ESWC 2018)
- - Dynamic Particle Allocation to Solve Interactive POMDP Models for Social Decision Making (AAMAS 2019)
 patented: 
  - SIdeal - System and Method for Attribute Weight Induction in a Multiple Recruiter Setting Exploiting Public Goods Games Framework
  - System and Method to produce Generalized Representation of Job Description Documents and Calculate Similarity using the Representation in Recruitment Domain
