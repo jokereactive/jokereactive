@@ -23,6 +23,10 @@ Courses Taken -
     <ul>
        <li>Math for Robotics</li>
        <li>Graduate Computer Vision</li>
+       <li>Machine Learning</li>
+       <li>Visual Learning and Representation</li> 
+       <li>Planning for Robotics</li> 
+       <li>Deep Reinforcement Learning and Control</li> 
     </ul>
     </div>
 </div>
