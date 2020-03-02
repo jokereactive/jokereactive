@@ -6,11 +6,11 @@ teamsize: 7
 teammembers: Ramasuri Narayanam, Surya Shravan Kumar Sajja, Ritwik Chaudhuri, Rohith Vallam, Kushal Mukherjee, Gyana Parija
 guide:
 course:
-_url: http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p674.pdf
+_url: 
 projectimage: cc.png
 weight: 0.2
 category: Research
-reference:
+reference: http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p674.pdf
 code:
 database: 
 slides: 
