@@ -10,7 +10,7 @@ _url:
 projectimage: informedmrmha.png
 weight: 0.6
 category: Research
-reference: http://sarthakahuja.org/public/docs/report_informedmrmha.pdf
+reference: http://sarthakahuja.org/public/docs/report_informedmrha.pdf
 code:
 database: 
 slides: 
