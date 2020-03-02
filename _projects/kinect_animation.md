@@ -9,7 +9,7 @@ course: Computer Graphics, Math for Robotics
 projectimage: kinect.png
 weight: 0.5
 category: Engineering
-reference: http://sarthakahuja.org/public/docs/report_kinect.pdf
+reference: http://sarthakahuja.org/public/docs/report_kinect_2.pdf
 code: https://github.com/jokereactive/Kinect-Driven-OpenGL-Animation
 database: 
 demo:
