@@ -21,7 +21,7 @@ technology:
 period: January'19 onwards
 excerpt:
 published: 
- - Learning Physics Intuition Models for Non-Disruptive Object Extraction from Clutter (Under Review, ECAI 2020)
+ - Learning Physics Intuition Models for Non-Disruptive Object Extraction from Clutter (Under Review, IROS 2020)
  - Learning Physics Intuition Models for Non-Disruptive Object Extraction from Clutter, Northeast Robotics Colloquium 2019, University of Pennsylvania (Poster Presentation)
 patented: 
 ---
