@@ -6,7 +6,7 @@ teamsize: 1
 teammembers: 
 guide: Dr. Henny Admoni, Dr. Aaron Steinfeld
 course:
-_url: 
+_url: https://successmuri.org/
 projectimage: selfassessment.png
 weight: 0.1
 category: Research
