@@ -8,7 +8,7 @@ _url: https://www.facebook.com/swarathatiiitd?fref=ts
 header: icai.png
 logo: icai.png
 weight: 1
-period: May'15-May'16
+period: May'15-July'15
 excerpt: 
 coverpath: swarath/cover.png
 covercaption: Team Swarath - Autonomous Car Project IIIT-Delhi, 2015
