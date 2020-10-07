@@ -1,84 +1,93 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+#
+# This file contains configuration flags to customize your site
+#
 
-# Permalinks
-permalink:        pretty
-relative_permalinks: true
+# Name of your site (displayed in the header)
+name: Sarthak Ahuja
 
-include:  ['_pages']
+# Short bio or description (displayed in the header)
+# description: the profile of an engineer, researcher and software developer
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: images/circle_bw_crop.jpg
+
+#
+# Flags below are optional
+#
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email: sarthakahuja@outlook.com
+  facebook:
+  flickr:
+  github: thecoldviews
+  instagram: thecoldviews
+  linkedin:
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter:
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
 
 
-collections:
-  projects:
-    output: true
-    permalink: /projects/:path/
-  work:
-    output: true
-    permalink: /work/:path/
-  certificate:
-    output: true
-    permalink: /certificate/:path/
-  administrative:
-    output: true
-    permalink: /administrative/:path/
-  education:
-    output: true
-    permalink: /education/:path/
-  misc:
-    output: true
-    permalink: /misc/:path/
-  teaching:
-    output: true
-    permalink: /teaching/:path/
-  publication:
-    output: true
-    permalink: /publications/:path/
-  patent:
-    output: true
-    permalink: /patents/:path/
-  volunteer:
-    output: true
-    permalink: /volunteer/:path/
-relative_permalinks: false
+# Enter your Disqus shortname (not your username) to enable commenting on posts
+# You can find your shortname on the Settings page of your Disqus account
+disqus:
 
-excerpt_separator: "{{ more }}"
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-66634800-1
+# excerpt_separator: <!--more-->
 
-# Setup
-title:            Sarthak Ahuja
-tagline:          'Personal Website'
-description:      'If you change the way you look at things, the things you look at change.'
-url:              https://sarthakahuja.org
-baseurl:          https://sarthakahuja.org/
-imagesurl:		  /assets/images
-logosurl:		  /assets/images/logos
-headersurl:		  /assets/images/headers
-projectimagesurl: /assets/images/projectimages
-iconsurl: 		  /assets/images/icons
-paperthumbnails: /assets/images/paperthumbnails
-projectthumbnails: /assets/images/projectthumbnails
-patentthumbnails: /assets/images/patentthumbnails
-educationsurl: /assets/images/educationimages
-experiencesurl: /assets/images/experienceimages
-docsurl: 		  /public/docs
-behance:      https://www.behance.net/thecoldviews
-twitter:		  https://twitter.com/thecoldviews
-facebook:		  https://www.facebook.com/sarthak.ahuja.9
-linkedin:		  https://in.linkedin.com/in/sarthakahuja
-google:			  https://plus.google.com/u/0/+SarthakAhuja9/posts
-mail:			    sarthakahuja@outlook.com
-instagram:    https://www.instagram.com/thecoldviews/
+# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+# Used for Sitemap.xml and your RSS feed
+url: "https://sarthakahuja.org" # the base hostname & protocol for your site
 
-author:
-  name:           'Sarthak Ahuja'
-  url:            https://sarthakahuja.org
+# If you're hosting your site at a Project repository on GitHub pages
+# (http://yourusername.github.io/repository-name)
+# and NOT your User repository (http://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+#baseurl: ""
 
-paginate:         5
+#
+# !! You don't need to change any of the configuration flags below !!
+#
 
-# Custom vars
-version:          1.0
+#permalink: /:title/
+permalink: /
 
-github:
-  repo:           https://github.com/FrozenInk/soberCV
-  site:			      http://design.sarthakahuja.org/
-  mine:           https://github.com/thecoldviews
+
+# The release of Jekyll Now that you're using
+version: v1.2.0
+
+# Jekyll 3 now only supports Kramdown for Markdown
+kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight'
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :compressed # You might prefer to minify using :compressed
+
+# Use the following plug-ins
+plugins:
+      - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+    #  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+  - command.txt
+  - todo.txt
+  - _temp/index.html
+  - _temp/

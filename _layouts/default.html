@@ -1,19 +1,262 @@
-<!DOCTYPE html>
-<html lang="en-us">
+<!DOCTYPE HTML>
+<html lang="en">
 
-  {% include head.html %}
+<head>
+  <title>{{ site.name }}</title>
 
-  <body>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 
-	{% if page.title == "Home" %}
-      {% include sidebar.html %}
-    {% else %}
-      {% include sidebar_back.html %}
-    {% endif %}
-    <div class="content container">
-      {{ content }}
-    </div>
+  <meta name="author" content="{{ site.name }}" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  </body>
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
 
+</head>
+
+
+
+<body>
+  <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+    <tr style="padding:0px">
+      <td style="padding:0px">
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr style="padding:0px">
+            <td style="padding:2.5%;width:60%;vertical-align:middle">
+              <h1>
+                Sarthak Ahuja
+              </h1>
+              <p>I am a Machine Learning Engineer at <a href="https://www.amazon.science/tag/alexa">Amazon Alexa AI</a> where, as a member of the <i>Intelligent Decisions</i> group, I build ML scalable systems that predict and route user intents to appropriate Alexa actions.  
+              </p>
+              <p>
+                Prior to Amazon, I was a Research Software Engineer at <a href="https://research.ibm.com/">IBM Research</a> in the <a href="https://researcher.watson.ibm.com/researcher/view_group.php?id=7806">Collaborative AI</a> group. I worked on resource efficient modeling of human behaviours (nested beliefs) in multi-agent repeated social dilemma settings using computation theory of mind. Concurrently, I designed the machine learning based requisition & candidate matching subsystem of <a href="https://www.ibm.com/us-en/marketplace/watson-recruitment">IBM Watson Recruitment</a>. 
+              </p>
+              <p  id='tmm' style='display: block' onclick="toggleText()"><u>tell me more</u></p>
+              <div id='demo' style='display: none'>
+                <p>
+                  I have a Master's degree in Robotics from <a href="https://www.ri.cmu.edu/">Carnegie Mellon University</a> where I conducted research on visual assessment methods for non-disruptive object extraction in human spaces at <a href="http://harp.ri.cmu.edu/">HARP</a> and <a href="https://tbd.ri.cmu.edu/">TBD</a> lab. I also studied the effects of anticipatory robot motion on humans to understand if robots can unintentionally (or intentionally) manipulate human decision-making by trying to pro-actively predict human intent.
+                </p>
+                <p>
+                  While pursuing my Bachelor's degree in Computer Science from <a href="https://www.iiitd.ac.in/">IIIT-Delhi</a>, I got the chance to work on a breadth of projects, right from designing perception systems for autonomous vehicles at <a href="https://sites.google.com/iiitd.ac.in/iiitd-alive">Swarath</a> to developing methods for visual summarization of large social media datasets at <a href="http://precog.iiitd.edu.in/">PreCog</a>. In my senior year, I was a also a founding member of a digital governance start-up at <a href="http://meriawaazapp.com/press.html">Meri Awaaz</a> working towards enabling open, accessible and accountable governance. 
+                </p>
+                <p  id='tmm' style='display: block' onclick="toggleText()"><u>this is too much info</u></p>
+              </div>
+              <p style="text-align:center">
+                <a target="_blank" href="https://mailhide.io/e/DfDn0"> Email</a> &nbsp;/&nbsp;
+                <a href="https://github.com/thecoldviews">GitHub</a> &nbsp;&nbsp;
+              </p>
+            </td>
+            <td style="padding:2.5%;width:40%;max-width:40%">
+              <center>
+              <img style="width:100%;max-width:100%" alt="profile photo" src="images/bridge_sarthak.jpg"><br>
+              19 Sep 2020, Pittsburgh</center>
+            </td>
+          </tr>
+        </table>
+
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr>
+            <td style="padding:2.5%;width:100%;vertical-align:middle">
+              <h2>Research Interests</h2>
+              <p>
+                I pursue applied machine learning to enhance human
+                 interactions with robots and devices that operate ubiquitously in their personal spaces. My professional goal is to make these interactions more delightful and aligned with our well-being and intentions. Though my personal, more 
+                <select name="adj1" id="adj1">
+                  <option value="philosphical">philosophical</option>
+                  <option value="illusive">illusive</option>
+                  <option value="paradoxical">paradoxical</option>
+                  <option value="contradictory">contradictory</option>
+                </select> yet 
+                <select name="adj2" id="adj2">
+                  <option value="important">important</option>
+                  <option value="inevitable">inevitable</option>
+                  <option value="cathartic">cathartic</option>
+                  <option value="unavoidable">unavoidable</option>
+                </select>
+                pursuit is to figure out what <i>human well-being</i>, in the context of modern technology (and beyond), even means.
+              </p>
+            </td>
+          </tr>
+        </table>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+
+          {% for post in site.posts %}
+          {% for cat in post.categories %}
+          {% if cat == 'research' %}
+          <tr>
+            <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+              <img src="{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;box-shadow: 5px 5px 5px #888888;" />
+            </td>
+            <td style="padding:2.5%;width:75%;vertical-align:middle">
+              <h3>{{post.title}}</h3>
+              <br>
+              {{post.authors}}
+
+              <br>
+              <em>{{post.venue}}</em> {{ post.date | date: "%Y" }}
+              <br>
+              {% if post.paper %}
+              <a href="{{post.paper}}">paper</a> /
+              {% endif %}
+              {% if post.video %}
+              <a href="{{post.video}}">video</a> /
+              {% endif %}
+              {% if post.code %}
+              <a href="{{post.code}}">code</a> /
+              {% endif %}
+              {% if post.poster %}
+              <a href="{{post.poster}}">poster</a> /
+              {% endif %}
+              {% if post.slides %}
+              <a href="{{post.slides}}">slides</a> /
+              {% endif %}
+              <p></p>
+              {{ post.excerpt }}
+            </td>
+          </tr>
+          {% endif %}
+          {% endfor %}
+          {% endfor %}
+        </table>
+        <br>
+        <br>
+        <br>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr>
+            <td style="padding:2.5%;width:100%;vertical-align:middle">
+              <h2>Other Projects</h2>
+              <p> These include filed patents and unpublished research work. 
+              </p>
+            </td>
+          </tr>
+        </table>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+
+          {% for post in site.posts %}
+          {% for cat in post.categories %}
+          {% if cat != 'research' and cat != 'Intel' %}
+          <tr>
+            <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+              <img src="{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;box-shadow: 5px 5px 5px #888888;" />
+            </td>
+            <td style="padding:2.5%;width:75%;vertical-align:middle">
+              <h3>{{post.title}}</h3>
+              <br>
+              {{post.authors}}
+
+              <br>
+              <em>{{post.venue}}</em> {{ post.date | date: "%Y" }}
+              <br>
+              {% if post.paper %}
+              <a href="{{post.paper}}">paper</a> /
+              {% endif %}
+              {% if post.video %}
+              <a href="{{post.video}}">video</a> /
+              {% endif %}
+              {% if post.code %}
+              <a href="{{post.code}}">code</a> /
+              {% endif %}
+              {% if post.poster %}
+              <a href="{{post.poster}}">poster</a> /
+              {% endif %}
+              {% if post.slides %}
+              <a href="{{post.slides}}">slides</a> /
+              {% endif %}
+              {% if post.slides %}
+              <a href="{{post.dataset}}">dataset</a> /
+              {% endif %}
+              <p></p>
+              {{ post.excerpt }}
+            </td>
+          </tr>
+          {% endif %}
+          {% endfor %}
+          {% endfor %}
+        </table>
+        <br>
+        <br>
+        <br>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr>
+            <td style="padding:2.5%;width:100%;vertical-align:middle">
+              <!-- <h2>Course Projects</h2> -->
+              </p>
+            </td>
+          </tr>
+        </table>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+
+          {% for post in site.posts %}
+          {% for cat in post.categories %}
+          {% if cat == 'course' %}
+          <tr>
+            <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+              <img src="{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;box-shadow: 5px 5px 5px #888888;" />
+            </td>
+            <td style="padding:2.5%;width:75%;vertical-align:middle">
+              <h3>{{post.title}}</h3>
+              <br>
+              {{post.authors}}
+
+              <br>
+              <em>{{post.venue}}</em> {{ post.date | date: "%Y" }}
+              <br>
+              {% if post.paper %}
+              <a href="{{post.paper}}">paper</a> /
+              {% endif %}
+              {% if post.video %}
+              <a href="{{post.video}}">video</a> /
+              {% endif %}
+              {% if post.code %}
+              <a href="{{post.code}}">code</a> /
+              {% endif %}
+              {% if post.poster %}
+              <a href="{{post.poster}}">poster</a> /
+              {% endif %}
+              {% if post.slides %}
+              <a href="{{post.slides}}">slides</a> /
+              {% endif %}
+              <p></p>
+              {{ post.excerpt }}
+            </td>
+          </tr>
+          {% endif %}
+          {% endfor %}
+          {% endfor %}
+        </table>
+        
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr>
+            <td style="padding:0px">
+              <br>
+              <p style="text-align:center;font-size:small;">
+                Design and source code from <a style="font-size:small;" href="https://jonbarron.info">Jon Barron's website</a>
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+<script>
+  function toggleText() {
+    var text = document.getElementById("demo");
+    var tmm = document.getElementById("tmm")
+    if (text.style.display === "none") {
+      text.style.display = "block";
+      tmm.style.display = "none"
+    } else {
+      text.style.display = "none";
+      tmm.style.display = "block"
+    }
+  }
+
+  var rand_adj1=Math.floor(Math.random()*4);
+  var rand_adj2=Math.floor(Math.random()*4);
+  document.getElementById("adj1").selectedIndex = rand_adj1;
+  document.getElementById("adj2").selectedIndex = rand_adj2;
+</script>
 </html>
+
