@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Candidate Selection using a Gaming Framework"
+date:   2019-06-22 18:08:39 +00:00
+image: /images/thumbnail_patent1.png
+categories: patent
+author: "Sarthak Ahuja"
+subtitle: 
+authors: "<strong>Sarthak Ahuja</strong>, Ritwik Chaudhuri, Manish Kataria, Manu Kuchhal, Gyana R. Parija, Sudhanshu S. Singh"
+venue: Patent Application US15/842066
+paper: https://patentimages.storage.googleapis.com/7b/c6/07/268077a0d1a8af/US20190188646A1.pdf
+slides: 
+dataset: 
+---
+A method, system and computer program product for assessing similarity between two job description documents. Job description documents consist of sentences framed in a particular manner, where the sentences are represented as a set of actions, an object corresponding to each action and a set of attributes corresponding to the object. The two job description documents are parsed to generate a first and a second set of an action-object-attribute triplet representation, where the first set of the action-object-attribute triplet representation is associated with the first job description document and the second set of the action-object-attribute triplet representation is associated with the second job description document. A similarity score between the first and second sets of action-object-attribute triplet representations is then calculated by hierarchically matching the first and second sets of action-object-attribute triplet representations across the job description documents. In this manner, similar job positions/job descriptions may be more accurately identified.

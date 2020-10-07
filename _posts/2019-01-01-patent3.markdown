@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Virtual-Reality Based Interactive Audience Simulation"
+date:   2019-06-22 18:08:39 +00:00
+image: /images/thumbnail_patent3.png
+categories: patent
+author: "Sarthak Ahuja"
+subtitle: 
+authors: "<strong>Sarthak Ahuja</strong>, Joydeep Mondal, Kushal Mukherjee, Sudhanshu Shekhar Singh"
+venue: Patent Application US16/156377
+paper: https://patentimages.storage.googleapis.com/b3/3c/c2/e2bc145ebf9bee/US20200118312A1.pdf
+slides: 
+dataset: 
+---
+Methods, systems and computer program products for generating virtual reality (VR)-based interactive audience simulations are provided herein. A computer-implemented method includes determining one or more situational and location characteristics for a given performance by a user, generating a VR-based simulated audience for the given performance based at least in part on the determined situational and location characteristics, presenting the VR-based simulated audience to a user during the given performance utilizing a VR headset, utilizing one or more sensors to measure one or more aspects of the given performance before the VR-based simulated audience, and generating real-time feedback adjusting the VR-based simulated audience presented to the user utilizing the VR headset based at least in part on the measured aspects of the given performance.

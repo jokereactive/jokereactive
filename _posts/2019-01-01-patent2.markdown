@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Creating and using Triplet Representations to Assess Similarity between Job Description Documents"
+date:   2019-06-22 18:08:39 +00:00
+image: /images/thumbnail_patent2.png
+categories: patent
+author: "Sarthak Ahuja"
+subtitle: 
+authors: "David G. George, Sudhanshu S. Singh, Joydeep Mondal, <strong>Sarthak Ahuja</strong>, John A. Medicke, Amanda Klabzuba"
+venue: Patent Application US15/854837
+paper: https://patentimages.storage.googleapis.com/44/ff/03/6ad3737dbf4168/US20190197482A1.pdf
+slides: 
+dataset: 
+---
+One embodiment provides a method, including: receiving a requisition for a job position, the requisition having a plurality of recruiters, each having influence in selecting a candidate; generating a profile for an ideal candidate comprising (1) a plurality of attributes and (ii) weights corresponding to each of the attributes; receiving, for a plurality of candidates, profiles for each the candidates; comparing the profile of each of the plurality of candidates against the ideal candidate, using a distance method computation to determine the distance between the plurality of candidates and the ideal candidate based upon the weights; ranking the plurality of candidates and providing the ranking to each of the plurality of recruiters; receiving input from each of the plurality of recruiters that modifies the ranking, recalculating the weights of the attributes based upon the modified ranking, and modifying the ranking; and providing a final ranking of the plurality of candidates.
