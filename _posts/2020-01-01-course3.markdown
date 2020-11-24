@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Assistive Sketching and Animation Using Shape-Aware Moving Least Squares Deformations and Kinect based 2-D Mesh Animation"
+date:   2018-06-22 18:08:39 +00:00
+image: /images/thumbnail_16811.png
+categories: course
+author: "Sarthak Ahuja"
+subtitle: 
+authors: "Aditya Agarwal, Sarthak Ahuja"
+venue: "16-811 Math for Robotics and CSE333 Computer Graphics"
+paper: /pdfs/report_16811.pdf
+slides: 
+course: 
+code: 
+video:
+dataset: 
+---
+At IIIT, I focused on animating a 2D mesh character and driving its actions through a kinect sensor. The system was implemented in Visual Studio and interacted with a kinect device to fetch the skeleton data captured in the form of coordinates. We then created our 2D mesh in QT and used these coordinates to mimic the obtained skeleton using forward kinematics. At CMU, I extended this project with Aditya and developed an end-to-end sketching platform which assists an artist to draw complex non-convex 2D characters; Implemented drawing tools using bezier curves, distance-transform based skeletonization, and shape-aware deformations (Sharma et al. SA 2015).

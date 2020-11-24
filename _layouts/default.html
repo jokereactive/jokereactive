@@ -13,6 +13,32 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
 
+  <style>
+    .tooltip {
+      position: relative;
+      display: inline-block;
+      border-bottom: 1px dotted black;
+    }
+    
+    .tooltip .tooltiptext {
+      visibility: hidden;
+      width: 500px;
+      background-color: black;
+      color: #fff;
+      text-align: center;
+      border-radius: 6px;
+      padding: 5px 0;
+    
+      /* Position the tooltip */
+      position: absolute;
+      z-index: 1;
+    }
+    
+    .tooltip:hover .tooltiptext {
+      visibility: visible;
+    }
+    </style>
+
 </head>
 
 
@@ -27,20 +53,20 @@
               <h1>
                 Sarthak Ahuja
               </h1>
-              <p>I am a Machine Learning Engineer at <a href="https://www.amazon.science/tag/alexa">Amazon Alexa AI</a> where, as a member of the <i>Intelligent Decisions</i> group, I build ML scalable systems that predict and route user intents to appropriate Alexa actions.  
+              <p>I am a Machine Learning Engineer at <a href="https://www.amazon.science/tag/alexa">Amazon Alexa AI</a> where, as a member of the <i>Intelligent Decisions</i> group, I help build scalable ML systems that predict and route user intents to appropriate Alexa actions. Specifically, my work currently focuses on offline reinforcement learning. 
               </p>
               <p>
                 Prior to Amazon, I was a Research Software Engineer at <a href="https://research.ibm.com/">IBM Research</a> in the <a href="https://researcher.watson.ibm.com/researcher/view_group.php?id=7806">Collaborative AI</a> group. I worked on resource efficient modeling of human behaviours (nested beliefs) in multi-agent repeated social dilemma settings. Concurrently, I designed the machine learning based requisition & candidate matching subsystem of <a href="https://www.ibm.com/us-en/marketplace/watson-recruitment">IBM Watson Recruitment</a>. 
               </p>
-              <p  id='tmm' style='display: block' onclick="toggleText()"><u>tell me more</u></p>
-              <div id='demo' style='display: none'>
+              <p  id='tmm' style='display: block' onclick="toggleIntroText()"><u>tell me more</u></p>
+              <div id='intro' style='display: none'>
                 <p>
                   I have a Master's degree in Robotics from <a href="https://www.ri.cmu.edu/">Carnegie Mellon University</a> where I conducted research on visual assessment methods for non-disruptive object extraction in human spaces at <a href="http://harp.ri.cmu.edu/">HARP</a> and <a href="https://tbd.ri.cmu.edu/">TBD</a> lab. I also studied the effects of anticipatory robot motion on humans to understand if robots can unintentionally (or intentionally) manipulate human decision-making by trying to pro-actively predict human intent.
                 </p>
                 <p>
                   While pursuing my Bachelor's degree in Computer Science from <a href="https://www.iiitd.ac.in/">IIIT-Delhi</a>, I got the chance to work on a breadth of projects, right from designing perception systems for autonomous vehicles at <a href="https://sites.google.com/iiitd.ac.in/iiitd-alive">Swarath</a> to developing methods for visual summarization of large social media datasets at <a href="http://precog.iiitd.edu.in/">PreCog</a>. In my senior year, I was a also a founding member of a digital governance start-up at <a href="http://meriawaazapp.com/press.html">Meri Awaaz</a> working towards enabling open, accessible and accountable governance. 
                 </p>
-                <p  id='tmm' style='display: block' onclick="toggleText()"><u>this is too much info</u></p>
+                <p  id='tmm' style='display: block' onclick="toggleIntroText()"><u>this is too much info</u></p>
               </div>
               <p style="text-align:center">
                 <a target="_blank" href="https://mailhide.io/e/DfDn0"> Email</a> &nbsp;/&nbsp;
@@ -60,8 +86,11 @@
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2>Research Interests</h2>
               <p>
-                I pursue applied machine learning to enhance human
-                 interactions with robots and devices that operate ubiquitously in our personal spaces. My professional goal is to make these interactions more delightful and aligned with our well-being and intentions. Though my personal, more 
+                I am interested in applied machine learning for enhancing human interactions with robots and devices that operate ubiquitously in our personal spaces. I aim to make these interactions more aligned with our well-being and intentions. Pursuing this goal has made me well acquainted with ongoing machine learning research in computer vision, language understanding and robotics. 
+                <br>
+                <p  id='tnn' style='display: block' onclick="toggleInterestText()"><u>really?</u></p>
+                <div id='interest' style='display: none'>
+                That said, I see machine learning only as a highly effective and sophisticated <u>tool</u> in this endevour. My personal, more 
                 <select name="adj1" id="adj1">
                   <option value="philosphical">philosophical</option>
                   <option value="illusive">illusive</option>
@@ -74,8 +103,14 @@
                   <option value="cathartic">cathartic</option>
                   <option value="unavoidable">unavoidable</option>
                 </select>, 
-                pursuit is to figure out what <i>human well-being</i>, in the context of modern technology (and beyond), even means.
+                side-interest is to read about out what <i>well-being</i>, in the context of interactions with modern technology, even means. Do humans always have a complete picture of the state of the world and other actors? Are they always projecting intents that accurately convey their true complete objective? How certain are they about the way to achieve that objective? Does the act of predicting human intent actually alter it? Can machines create a mental model of human beliefs and use it to manipulate this true objective? Can this model be used to foster collaboration among multiple agents each having a conflicting true objective but the inability to express it?
+                <span class="tooltip">&#8595;
+                  <span class="tooltiptext">marks the beginning of a rabbit hole; but the topics before that are fairly active areas of AI research.</span>
+                </span> 
+                Can collective well-being be ever captured by a single static reward function? ... <i>a few excrutiating and regretful hours later</i> ... does life even have a meaning?
               </p>
+              <p  id='tnn' style='display: block' onclick="toggleInterestText()"><u>this is too much info</u></p>
+            </div>
             </td>
           </tr>
         </table>
@@ -111,6 +146,9 @@
               {% if post.slides %}
               <a href="{{post.slides}}">slides</a> /
               {% endif %}
+              {% if post.dataset %}
+              <a href="{{post.dataset}}">dataset</a> /
+              {% endif %}
               <p></p>
               {{ post.excerpt }}
             </td>
@@ -135,7 +173,7 @@
 
           {% for post in site.posts %}
           {% for cat in post.categories %}
-          {% if cat != 'research' and cat != 'Intel' %}
+          {% if cat != 'research' and cat != 'course' %}
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
               <img src="{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;box-shadow: 5px 5px 5px #888888;" />
@@ -180,8 +218,8 @@
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
-              <!-- <h2>Course Projects</h2> -->
-              </p>
+              <h2>Course Projects</h2>
+              <p>Author names are in alphabetical order.</p>
             </td>
           </tr>
         </table>
@@ -217,6 +255,9 @@
               {% if post.slides %}
               <a href="{{post.slides}}">slides</a> /
               {% endif %}
+              {% if post.dataset %}
+              <a href="{{post.dataset}}">dataset</a> /
+              {% endif %}
               <p></p>
               {{ post.excerpt }}
             </td>
@@ -241,15 +282,27 @@
   </table>
 </body>
 <script>
-  function toggleText() {
-    var text = document.getElementById("demo");
+  function toggleIntroText() {
+    var intro_text = document.getElementById("intro");
     var tmm = document.getElementById("tmm")
-    if (text.style.display === "none") {
-      text.style.display = "block";
+    if (intro_text.style.display === "none") {
+      intro_text.style.display = "block";
       tmm.style.display = "none"
     } else {
-      text.style.display = "none";
+      intro_text.style.display = "none";
       tmm.style.display = "block"
+    }
+  }
+
+  function toggleInterestText() {
+    var interest_text = document.getElementById("interest");
+    var tnn = document.getElementById("tnn")
+    if (interest_text.style.display === "none") {
+      interest_text.style.display = "block";
+      tnn.style.display = "none"
+    } else {
+      interest_text.style.display = "none";
+      tnn.style.display = "block"
     }
   }
 

@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Semi-Supervised Stance Detection in Tweets"
+date:   2019-06-22 18:08:39 +00:00
+image: /images/thumbnail_10701.png
+categories: course
+author: "Sarthak Ahuja"
+subtitle: 
+authors: "Aditya Agarwal, Sarthak Ahuja, Tanmay Agarwal"
+venue: "10-701 Machine Learning"
+paper: /pdfs/report_10701.pdf
+slides: 
+course: 
+video: 
+dataset: 
+poster: /pdfs/poster_10701.pdf
+---
+We implemented a heuristic-based semi-supervised learning approach, LDA2Vec (Moody CoNLL 2016) for stance detection that learns a coherent and informed embedding comparable to Para2Vec, concurrently bolstering interpretability of topics by creating representations similar to those in Latent Dirichlet Allocation. We conclude that adding unlabelled data vastly improves the performance of classifiers by ~6%
+for LDA and ~20% for Para2Vec. Overall Para2Vec seems to perform better than the Vanilla LDA. While we were able to obtain a similar quality of topics with LDA2Vec as compared to LDA, the generated embeddings did not reflect the expected classification quality compared to Para2Vec.

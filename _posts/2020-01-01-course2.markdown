@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Multi-Agent Path Planning in Warehouse Butlers"
+date:   2015-06-22 18:08:39 +00:00
+image: /images/thumbnail_mapp.png
+categories: course
+author: "Sarthak Ahuja"
+subtitle: 
+authors: "Anchita Goel, Sarthak Ahuja"
+venue: "CSE643 Artificial Intelligence"
+paper: /pdfs/report_multiagent.pdf
+slides: 
+course: 
+video: 
+dataset: 
+code: https://github.com/jokereactive/MAPP-Warehouse-Butlers
+---
+The boom in the e-commerce industry has lead to the cropping up of a large number of
+warehouses all over the globe. Automating the delivery processes in these warehouses is a growing
+requirement to achieve a reduced cost in terms of manpower and increased efficiency in terms
+of time taken. Multi-agent path planning is a crucial aspect of this challenge.
+Naive approaches such as a complete A* over all combination of butlers and targets do not
+work in this case due to the huge statespace and neither does Local Repair A*
+where each butler selfishly moves toward the target and replans only on collision in a
+blindfolded manner. In this project we have implemented the MAPP algorithm and prepared a simulation
+bench to run any placement of walls, butlers and items, by hacking an opensource version of pacman.
+We evaluate multiple simulations of butlers and warehouse architectures, and detail our observations in this report.

@@ -9,6 +9,7 @@ subtitle:
 authors: "Benjamin A. Newman*, Abhijat Biswas*, <strong>Sarthak Ahuja</strong>, Siddharth Girdhar, Kris K. Kitani, Henny Admoni"
 venue: "International Conference on Social Robotics (ICSR)"
 poster:
+paper: http://harp.ri.cmu.edu/assets/pubs/anticipation_icsr.pdf
 course: 
 ---
 In this work, we investigate whether a robot's anticipatory assistance can drive people to make choices different from those they would otherwise make. Such a study requires measuring intent, which itself could modify intent, resulting in an observer paradox. To combat this, we carefully designed an experiment to avoid this effect. We conducted a user study (N=99) in which participants completed a collaborative object retrieval task: users selected an object and a robot arm retrieved it for them. The robot predicted the user's object selection from eye gaze in advance of their explicit selection, and then provided either collaborative anticipation (moving toward the predicted object), adversarial anticipation (moving away from the predicted object), or no anticipation (no movement, control condition). We found trends and participant comments suggesting people's decision making changes in the presence of a robot anticipatory motion and this change differs depending on the robot's anticipation strategy.
