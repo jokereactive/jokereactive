@@ -11,7 +11,7 @@ venue: "16-811 Math for Robotics and CSE333 Computer Graphics"
 paper: /pdfs/report_16811.pdf
 slides: 
 course: 
-code: 
+code: https://github.com/thecoldviews/Kinect-Driven-OpenGL-Animation
 video:
 dataset: 
 ---
