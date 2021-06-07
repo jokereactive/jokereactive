@@ -7,7 +7,7 @@ categories: research
 author: "Sarthak Ahuja"
 subtitle: 
 authors: "<strong>Sarthak Ahuja</strong>, Joydeep Mondal, Kushal Mukherjee, Sudhanshu Shekhar Singh"
-venue: Granted Patent 2021 (Application No. US16/156377)
+venue: Granted Patent (Application No. US16/156377)
 paper: https://patentimages.storage.googleapis.com/b3/3c/c2/e2bc145ebf9bee/US20200118312A1.pdf
 slides: 
 dataset: 
