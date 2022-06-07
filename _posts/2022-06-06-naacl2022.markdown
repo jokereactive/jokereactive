@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Scalable and Robust Self-Learning for Skill Routing in Large-Scale Conversational AI Systems"
+date:   2022-06-06 00:00:00 +00:00
+image: /images/thumbnail_naacl2022.png
+categories: research
+author: "Sarthak Ahuja"
+subtitle: ""
+authors: "Mohammad Kachuee, Jinseok Nam, <strong>Sarthak Ahuja</strong>, Jin-Myung Won, Sungjin Lee"
+venue: "North American Chapter of the Association for Computational Linguistics (NAACL)"
+poster: 
+paper: https://arxiv.org/pdf/2204.07135
+course: 
+---
+Skill routing is an important component in large-scale conversational systems. In contrast to traditional rule-based skill routing, state-of-the-art systems use a model-based approach to enable natural conversations. To provide supervision signal required to train such models, ideas such as human annotation, replication of a rule-based system, relabeling based on user paraphrases, and bandit-based learning were suggested. However, these approaches: (a) do not scale in terms of the number of skills and skill on-boarding, (b) require a very costly expert annotation/rule-design, (c) introduce risks in the user experience with each model update. In this paper, we present a scalable self-learning approach to explore routing alternatives with- out causing abrupt policy changes that break the user experience, learn from the user inter- action, and incrementally improve the routing via frequent model refreshes. To enable such robust frequent model updates, we suggest a simple and effective approach that ensures con- trolled policy updates for individual domains, followed by an off-policy evaluation for mak- ing deployment decisions without any need for lengthy A/B experimentation. We conduct var- ious offline and online A/B experiments on a commercial large-scale conversational system to demonstrate the effectiveness of the proposed method in real-world production settings.
