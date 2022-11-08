@@ -3,7 +3,7 @@ layout: post
 title:  "Creating and using Triplet Representations to Assess Similarity between Job Description Documents"
 date:   2022-08-09 18:08:39 +00:00
 image: /images/thumbnail_patent2.png
-categories: patent
+categories: research
 author: "Sarthak Ahuja"
 subtitle: 
 authors: "David G. George, Sudhanshu S. Singh, Joydeep Mondal, <strong>Sarthak Ahuja</strong>, John A. Medicke, Amanda Klabzuba"
