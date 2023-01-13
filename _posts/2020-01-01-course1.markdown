@@ -6,7 +6,7 @@ image: /images/thumbnail_16782.png
 categories: course
 author: "Sarthak Ahuja"
 subtitle: 
-authors: "Aditya Agarwal, Jay Patrikar, Sarthak Ahuja, Shivam Jain"
+authors: "Aditya Agarwal, Jay Patrikar, Sarthak Ahuja, Shivam Vats"
 venue: "16-782 Planning and Decision-making in Robotics"
 paper: /pdfs/report_16782.pdf
 slides: /pdfs/slides_16872.pdf
