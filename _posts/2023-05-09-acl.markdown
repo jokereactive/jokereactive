@@ -7,7 +7,7 @@ categories: research
 author: "Sarthak Ahuja"
 subtitle: ""
 authors: "<strong>Sarthak Ahuja</strong>, Mohammad Kachuee, Fatemeh Sheikholeslami, Weiqing Liu, Jaeyoung Do"
-venue: "Association for Computational Linguistics (ACL)"
+venue: "Association for Computational Linguistics (ACL) Industry Track"
 poster: 
 paper: ""
 course: 
