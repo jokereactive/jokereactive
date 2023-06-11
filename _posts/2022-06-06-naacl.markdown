@@ -7,7 +7,7 @@ categories: research
 author: "Sarthak Ahuja"
 subtitle: ""
 authors: "Mohammad Kachuee, Jinseok Nam, <strong>Sarthak Ahuja</strong>, Jin-Myung Won, Sungjin Lee"
-venue: "North American Chapter of the Association for Computational Linguistics (NAACL) Industry Track"
+venue: "North American Chapter of the Association for Computational Linguistics (NAACL)"
 poster: 
 paper: https://arxiv.org/pdf/2204.07135
 course: 
