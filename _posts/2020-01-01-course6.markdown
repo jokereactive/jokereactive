@@ -23,5 +23,5 @@ space on one of his trusted peers, at the luxury of a network.
 We have implemented an application that allows multiple users to share some space
 on each of their drives (offline storages). This is achieved by initially setting up a
 fixed amount of space on each user’s local drive, required for the purpose of the
-application. Once a user issues a request to his/her list of “friends”, it can be accepted
+application. Once a user issues a request to his/her list of friends, it can be accepted
 for storing the user’s data.
