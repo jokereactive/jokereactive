@@ -9,6 +9,7 @@ subtitle:
 authors: "Sudhanshu Singh, Ritwik Chaudhuri, Manu Kuchhal, <strong>Sarthak Ahuja</strong>, Gyana Parija"
 venue: "Joint Statistical Meetings (JSM)"
 slides: https://ww2.amstat.org/meetings/jsm/2017/onlineprogram/AbstractDetails.cfm?abstractid=324412
+paper: https://ww2.amstat.org/meetings/proceedings/2017/data/assets/pdf/593996.pdf
 course: 
 ---
 State of the art clustering algorithms operate well on numeric data but for textual data rely on conversion to numeric representation. This conversion is done by adopting approaches like TFIDF, Word2Vec, etc. and require large amount of contextual data to do the learning. Such contextual data may not be always available for the given domain. We propose a novel algorithm that incorporates Subject Matter Experts’ (SME) inputs in lieu of contextual data to be able to do effective clustering of a mix of textual and numeric data. We leverage simple semantic rules provided by SMEs to do a multi-level iterative clustering that is executed on the Apache Spark Platform for accelerated outcome. The semantic rules are used to generate large number of small sized clusters which are qualitatively merged using the principles of Graph Colouring. We present the results from a Recruitment Process Benchmarking case study on data from multiple jobs. We applied the proposed technique to create suitable job categories for establishing benchmarks. This approach provides far more meaningful insights than traditional approach where benchmarks are calculated for all jobs put together.
