@@ -1,1 +1,16 @@
+---
+layout: post
+title:  "Scalable and Safe Remediation of Defective Actions in Self-Learning Conversational Systems"
+date:   2023-05-09 00:00:00 +00:00
+image: /images/thumbnail_acl2023.png
+categories: research
+author: "Sarthak Ahuja"
+subtitle: ""
+authors: "<strong>Sarthak Ahuja</strong>, Mohammad Kachuee, Fatemeh Sheikholeslami, Weiqing Liu, Jaeyoung Do"
+venue: "Association for Computational Linguistics (ACL)"
+poster: 
+paper: https://www.amazon.science/publications/scalable-and-safe-remediation-of-defective-actions-in-self-learning-conversational-systems
+course: 
+---
+Off-Policy reinforcement learning has been a driving force for the state-of-the-art conversational AIs leading to more natural human-agent interactions and improving the user satisfaction for goal-oriented agents. However, in large-scale commercial settings, it is often challenging to balance between policy improvements and experience continuity on the broad spectrum of applications handled by such system. In the literature, off-policy evaluation and guard-railing on aggregate statistics has been commonly used to address this problem. In this paper, we propose method for curating and leveraging high-precision samples sourced from historical regression incident reports to validate, safe-guard, and improve policies prior to the online deployment. We conducted extensive experiments using data from a real-world conversational system and actual regression incidents. The proposed method is currently deployed in our production system to protect customers against broken experiences and enable long-term policy improvements.
 
