@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Improving tool retrieval by leveraging large language models for query generation"
-date:   2025-05-09 00:00:00 +00:00
-image: /images/thumbnail_coling2025.png
+title:  "Applications of Modern SLAM Systems for Visual Positioning"
+date:   2016-06-22 18:08:39 +00:00
+image: /images/thumbnail_btech2016.png
 categories: research
 author: "Sarthak Ahuja"
-subtitle: ""
-authors: "Mohammad Kachuee, <strong>Sarthak Ahuja</strong>, Vaibhav Kumar, Puyang Xu, Derek Liu"
-venue: "International Conference on Computational Linguistics (COLING)"
-poster: 
-paper: https://www.amazon.science/publications/improving-tool-retrieval-by-leveraging-large-language-models-for-query-generation
-course: 
+subtitle: 
+authors: "<strong>Sarthak Ahuja</strong>"
+venue: "Bachelor's Thesis"
+paper: 
+slides: 
+dataset: 
 ---
-Using tools by Large Language Models (LLMs) is a promising avenue to extend their reach beyond language or conversational settings. The number of tools can scale to thousands as they enable accessing sensory information, fetching updated factual knowledge, or taking actions in the real world. In such settings, in-context learning by providing a short list of relevant tools in the prompt is a viable approach. To retrieve relevant tools, various approaches have been suggested, ranging from simple frequency-based matching to dense embedding-based semantic retrieval. However, such approaches lack the contextual and common-sense understanding required to retrieve the right tools for complex user requests. Rather than increasing the complexity of the retrieval component itself, we propose leveraging LLM understanding to generate a retrieval query. Then, the generated query is embedded and used to find the most relevant tools via a nearest-neighbor search. We investigate three approaches for query generation: zero-shot prompting, supervised fine-tuning on tool descriptions, and alignment learning by iteratively optimizing a reward metric measuring retrieval performance. By conducting extensive experiments on a dataset covering complex and multi-tool scenarios, we show that leveraging LLMs for query generation improves the retrieval for in-domain (seen tools) and out-of-domain (unseen tools) settings.
+Body mounted and vehicle cameras are becoming increasingly popular with the Internet overflowing with content from car dashboards, video bloggers, and even law enforcement officers.  Analyzing these videos and getting more information about the anonymous entity has become a growing topic of study among vision groups across the world.  A challenging task in this area of work is of localizing the anonymous entity in its surroundings without the use global systems such as GPS (which may prove to be unfeasible, unreliable or erratic in many situations).  In this report we present a comprehensive study of Simultaneous Location and Mapping(SLAM) algorithms evaluating their application in detecting egomotion in egocentric videos, finally leading to the development of a Visual Positioning System for wearable and car dashboard cameras.
